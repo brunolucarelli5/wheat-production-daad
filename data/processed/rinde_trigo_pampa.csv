@@ -1,0 +1,5159 @@
+PROVINCIA,DEPARTAMENTO,AÑO,RENDIMIENTO - KG X HA
+Buenos Aires,25 de Mayo,1990,2201.0
+Buenos Aires,9 de Julio,1990,2900.0
+Buenos Aires,Adolfo Alsina,1990,1500.0
+Buenos Aires,Adolfo Gonzales Chaves,1990,1057.0
+Buenos Aires,Alberti,1990,2900.0
+Buenos Aires,Arrecifes,1990,2201.0
+Buenos Aires,Ayacucho,1990,1600.0
+Buenos Aires,Azul,1990,2301.0
+Buenos Aires,Bahía Blanca,1990,1350.0
+Buenos Aires,Balcarce,1990,2100.0
+Buenos Aires,Baradero,1990,1800.0
+Buenos Aires,Benito Juárez,1990,1902.0
+Buenos Aires,Bolívar,1990,2300.0
+Buenos Aires,Bragado,1990,2900.0
+Buenos Aires,Campana,1990,1857.0
+Buenos Aires,Cañuelas,1990,1902.0
+Buenos Aires,Capitán Sarmiento,1990,2204.0
+Buenos Aires,Carlos Casares,1990,2400.0
+Buenos Aires,Carlos Tejedor,1990,2200.0
+Buenos Aires,Carmen de Areco,1990,2308.0
+Buenos Aires,Castelli,1990,1611.0
+Buenos Aires,Chacabuco,1990,2614.0
+Buenos Aires,Chascomús,1990,2000.0
+Buenos Aires,Chivilcoy,1990,2900.0
+Buenos Aires,Colón,1990,2399.0
+Buenos Aires,Coronel de Marina Leonardo Rosales,1990,1300.0
+Buenos Aires,Coronel Dorrego,1990,1600.0
+Buenos Aires,Coronel Pringles,1990,1501.0
+Buenos Aires,Coronel Suárez,1990,2374.0
+Buenos Aires,Daireaux,1990,2300.0
+Buenos Aires,Exaltación de la Cruz,1990,2000.0
+Buenos Aires,General Alvarado,1990,1907.0
+Buenos Aires,General Alvear,1990,1906.0
+Buenos Aires,General Arenales,1990,2400.0
+Buenos Aires,General Belgrano,1990,2000.0
+Buenos Aires,General Juan Madariaga,1990,2000.0
+Buenos Aires,General La Madrid,1990,2200.0
+Buenos Aires,General Pinto,1990,2350.0
+Buenos Aires,General Pueyrredón,1990,2295.0
+Buenos Aires,General Viamonte,1990,2250.0
+Buenos Aires,General Villegas,1990,2200.0
+Buenos Aires,Guaminí,1990,2200.0
+Buenos Aires,Hipólito Yrigoyen,1990,2300.0
+Buenos Aires,Junín,1990,2501.0
+Buenos Aires,Laprida,1990,1250.0
+Buenos Aires,Las Flores,1990,1906.0
+Buenos Aires,Leandro N. Alem,1990,2450.0
+Buenos Aires,Lincoln,1990,2400.0
+Buenos Aires,Lobería,1990,2300.0
+Buenos Aires,Lobos,1990,2196.0
+Buenos Aires,Luján,1990,2200.0
+Buenos Aires,Maipú,1990,1615.0
+Buenos Aires,Mar Chiquita,1990,1907.0
+Buenos Aires,Mercedes,1990,2900.0
+Buenos Aires,Monte,1990,1896.0
+Buenos Aires,Navarro,1990,2204.0
+Buenos Aires,Necochea,1990,2650.0
+Buenos Aires,Olavarría,1990,2300.0
+Buenos Aires,Patagones,1990,1155.0
+Buenos Aires,Pehuajó,1990,2311.0
+Buenos Aires,Pellegrini,1990,2000.0
+Buenos Aires,Pergamino,1990,2350.0
+Buenos Aires,Pila,1990,1556.0
+Buenos Aires,Puán,1990,1400.0
+Buenos Aires,Ramallo,1990,2256.0
+Buenos Aires,Rauch,1990,1907.0
+Buenos Aires,Rivadavia,1990,2302.0
+Buenos Aires,Rojas,1990,2400.0
+Buenos Aires,Roque Pérez,1990,2208.0
+Buenos Aires,Saavedra,1990,1800.0
+Buenos Aires,Saladillo,1990,2098.0
+Buenos Aires,Salliqueló,1990,1900.0
+Buenos Aires,Salto,1990,2501.0
+Buenos Aires,San Andrés de Giles,1990,2299.0
+Buenos Aires,San Antonio de Areco,1990,2256.0
+Buenos Aires,San Cayetano,1990,1742.0
+Buenos Aires,San Nicolás,1990,2308.0
+Buenos Aires,San Pedro,1990,1697.0
+Buenos Aires,Suipacha,1990,2900.0
+Buenos Aires,Tandil,1990,2399.0
+Buenos Aires,Tapalqué,1990,2000.0
+Buenos Aires,Tornquist,1990,1300.0
+Buenos Aires,Trenque Lauquen,1990,2300.0
+Buenos Aires,Tres Arroyos,1990,1967.0
+Buenos Aires,Villarino,1990,1200.0
+Buenos Aires,Zárate,1990,1906.0
+Córdoba,Calamuchita,1990,1189.0
+Córdoba,Capital,1990,1500.0
+Córdoba,Colón,1990,1200.0
+Córdoba,General Roca,1990,2000.0
+Córdoba,General San Martín,1990,1200.0
+Córdoba,Juárez Celman,1990,1500.0
+Córdoba,Marcos Juárez,1990,1850.0
+Córdoba,Presidente Roque Sáenz Peña,1990,2000.0
+Córdoba,Río Cuarto,1990,1550.0
+Córdoba,Río Primero,1990,1100.0
+Córdoba,Río Segundo,1990,1500.0
+Córdoba,San Justo,1990,1200.0
+Córdoba,Santa María,1990,1352.0
+Córdoba,Tercero Arriba,1990,1399.0
+Córdoba,Totoral,1990,1200.0
+Córdoba,Unión,1990,1500.0
+Entre Ríos,Colón,1990,1700.0
+Entre Ríos,Concordia,1990,1667.0
+Entre Ríos,Diamante,1990,1902.0
+Entre Ríos,Federal,1990,1500.0
+Entre Ríos,Gualeguay,1990,1700.0
+Entre Ríos,Gualeguaychú,1990,1200.0
+Entre Ríos,La Paz,1990,1508.0
+Entre Ríos,Nogoyá,1990,1500.0
+Entre Ríos,Paraná,1990,1800.0
+Entre Ríos,Tala,1990,1400.0
+Entre Ríos,Uruguay,1990,1200.0
+Entre Ríos,Victoria,1990,2300.0
+Entre Ríos,Villaguay,1990,1400.0
+La Pampa,Atreucó,1990,1200.0
+La Pampa,Caleu Caleu,1990,800.0
+La Pampa,Capital,1990,1100.0
+La Pampa,Catriló,1990,1200.0
+La Pampa,Chapaleufú,1990,2050.0
+La Pampa,Conhelo,1990,2200.0
+La Pampa,Guatraché,1990,900.0
+La Pampa,Hucal,1990,800.0
+La Pampa,Loventué,1990,1500.0
+La Pampa,Maracó,1990,1851.0
+La Pampa,Quemú Quemú,1990,1800.0
+La Pampa,Rancul,1990,1800.0
+La Pampa,Realicó,1990,1902.0
+La Pampa,Toay,1990,1000.0
+La Pampa,Trenel,1990,2202.0
+La Pampa,Utracán,1990,800.0
+Santa Fe,9 de Julio,1990,1000.0
+Santa Fe,Belgrano,1990,1950.0
+Santa Fe,Caseros,1990,2400.0
+Santa Fe,Castellanos,1990,2000.0
+Santa Fe,General López,1990,2400.0
+Santa Fe,General Obligado,1990,2154.0
+Santa Fe,Iriondo,1990,2000.0
+Santa Fe,La Capital,1990,1900.0
+Santa Fe,Las Colonias,1990,2100.0
+Santa Fe,Rosario,1990,2500.0
+Santa Fe,San Cristóbal,1990,1800.0
+Santa Fe,San Javier,1990,1690.0
+Santa Fe,San Jerónimo,1990,1951.0
+Santa Fe,San Justo,1990,2000.0
+Santa Fe,San Lorenzo,1990,2301.0
+Santa Fe,San Martín,1990,1950.0
+Santa Fe,Vera,1990,2045.0
+Santa Fe,Villa Constitución,1990,2300.0
+Buenos Aires,25 de Mayo,1991,2300.0
+Buenos Aires,9 de Julio,1991,2800.0
+Buenos Aires,Adolfo Alsina,1991,1750.0
+Buenos Aires,Adolfo Gonzales Chaves,1991,2422.0
+Buenos Aires,Alberti,1991,2800.0
+Buenos Aires,Arrecifes,1991,1902.0
+Buenos Aires,Ayacucho,1991,1800.0
+Buenos Aires,Azul,1991,2400.0
+Buenos Aires,Bahía Blanca,1991,1400.0
+Buenos Aires,Balcarce,1991,2301.0
+Buenos Aires,Baradero,1991,2103.0
+Buenos Aires,Benito Juárez,1991,2398.0
+Buenos Aires,Bolívar,1991,2000.0
+Buenos Aires,Bragado,1991,2800.0
+Buenos Aires,Campana,1991,2000.0
+Buenos Aires,Cañuelas,1991,2182.0
+Buenos Aires,Capitán Sarmiento,1991,1897.0
+Buenos Aires,Carlos Casares,1991,2601.0
+Buenos Aires,Carlos Tejedor,1991,2100.0
+Buenos Aires,Carmen de Areco,1991,2000.0
+Buenos Aires,Castelli,1991,1615.0
+Buenos Aires,Chacabuco,1991,2000.0
+Buenos Aires,Chascomús,1991,2200.0
+Buenos Aires,Chivilcoy,1991,2800.0
+Buenos Aires,Colón,1991,2050.0
+Buenos Aires,Coronel de Marina Leonardo Rosales,1991,1400.0
+Buenos Aires,Coronel Dorrego,1991,2125.0
+Buenos Aires,Coronel Pringles,1991,2100.0
+Buenos Aires,Coronel Suárez,1991,2400.0
+Buenos Aires,Daireaux,1991,2200.0
+Buenos Aires,Exaltación de la Cruz,1991,1889.0
+Buenos Aires,General Alvarado,1991,2309.0
+Buenos Aires,General Alvear,1991,2111.0
+Buenos Aires,General Arenales,1991,2000.0
+Buenos Aires,General Belgrano,1991,2310.0
+Buenos Aires,General Juan Madariaga,1991,1545.0
+Buenos Aires,General La Madrid,1991,2000.0
+Buenos Aires,General Pinto,1991,2500.0
+Buenos Aires,General Pueyrredón,1991,2400.0
+Buenos Aires,General Viamonte,1991,2500.0
+Buenos Aires,General Villegas,1991,2501.0
+Buenos Aires,Guaminí,1991,1800.0
+Buenos Aires,Hipólito Yrigoyen,1991,1900.0
+Buenos Aires,Junín,1991,2000.0
+Buenos Aires,Laprida,1991,2200.0
+Buenos Aires,Las Flores,1991,2231.0
+Buenos Aires,Leandro N. Alem,1991,2397.0
+Buenos Aires,Lincoln,1991,2500.0
+Buenos Aires,Lobería,1991,2405.0
+Buenos Aires,Lobos,1991,2309.0
+Buenos Aires,Luján,1991,2000.0
+Buenos Aires,Maipú,1991,1556.0
+Buenos Aires,Mar Chiquita,1991,1595.0
+Buenos Aires,Mercedes,1991,2800.0
+Buenos Aires,Monte,1991,2308.0
+Buenos Aires,Navarro,1991,2306.0
+Buenos Aires,Necochea,1991,3322.0
+Buenos Aires,Olavarría,1991,1900.0
+Buenos Aires,Patagones,1991,1100.0
+Buenos Aires,Pehuajó,1991,2400.0
+Buenos Aires,Pellegrini,1991,1800.0
+Buenos Aires,Pergamino,1991,2101.0
+Buenos Aires,Pila,1991,1556.0
+Buenos Aires,Puán,1991,1800.0
+Buenos Aires,Ramallo,1991,2093.0
+Buenos Aires,Rauch,1991,1702.0
+Buenos Aires,Rivadavia,1991,2099.0
+Buenos Aires,Rojas,1991,2000.0
+Buenos Aires,Roque Pérez,1991,2200.0
+Buenos Aires,Saavedra,1991,2000.0
+Buenos Aires,Saladillo,1991,2196.0
+Buenos Aires,Salliqueló,1991,2000.0
+Buenos Aires,Salto,1991,2152.0
+Buenos Aires,San Andrés de Giles,1991,2000.0
+Buenos Aires,San Antonio de Areco,1991,1789.0
+Buenos Aires,San Cayetano,1991,2522.0
+Buenos Aires,San Nicolás,1991,2000.0
+Buenos Aires,San Pedro,1991,2192.0
+Buenos Aires,Suipacha,1991,2800.0
+Buenos Aires,Tandil,1991,2400.0
+Buenos Aires,Tapalqué,1991,2000.0
+Buenos Aires,Tornquist,1991,1800.0
+Buenos Aires,Trenque Lauquen,1991,2000.0
+Buenos Aires,Tres Arroyos,1991,2735.0
+Buenos Aires,Villarino,1991,1300.0
+Buenos Aires,Zárate,1991,1917.0
+Córdoba,Calamuchita,1991,2106.0
+Córdoba,Capital,1991,2250.0
+Córdoba,Colón,1991,1200.0
+Córdoba,General Roca,1991,2200.0
+Córdoba,General San Martín,1991,2600.0
+Córdoba,Juárez Celman,1991,2000.0
+Córdoba,Marcos Juárez,1991,2460.0
+Córdoba,Presidente Roque Sáenz Peña,1991,2200.0
+Córdoba,Río Cuarto,1991,2000.0
+Córdoba,Río Primero,1991,1800.0
+Córdoba,Río Segundo,1991,2600.0
+Córdoba,San Justo,1991,2600.0
+Córdoba,Santa María,1991,2102.0
+Córdoba,Tercero Arriba,1991,2301.0
+Córdoba,Totoral,1991,1571.0
+Córdoba,Unión,1991,2500.0
+Entre Ríos,Colón,1991,1600.0
+Entre Ríos,Diamante,1991,1700.0
+Entre Ríos,Gualeguay,1991,1906.0
+Entre Ríos,Gualeguaychú,1991,1222.0
+Entre Ríos,La Paz,1991,1400.0
+Entre Ríos,Nogoyá,1991,1500.0
+Entre Ríos,Paraná,1991,1600.0
+Entre Ríos,Tala,1991,1200.0
+Entre Ríos,Uruguay,1991,1200.0
+Entre Ríos,Victoria,1991,1898.0
+Entre Ríos,Villaguay,1991,1200.0
+La Pampa,Atreucó,1991,1700.0
+La Pampa,Caleu Caleu,1991,1800.0
+La Pampa,Capital,1991,1800.0
+La Pampa,Catriló,1991,1700.0
+La Pampa,Chapaleufú,1991,2200.0
+La Pampa,Conhelo,1991,2200.0
+La Pampa,Guatraché,1991,2000.0
+La Pampa,Hucal,1991,1901.0
+La Pampa,Loventué,1991,1733.0
+La Pampa,Maracó,1991,2100.0
+La Pampa,Quemú Quemú,1991,2100.0
+La Pampa,Rancul,1991,2103.0
+La Pampa,Realicó,1991,2000.0
+La Pampa,Toay,1991,1700.0
+La Pampa,Trenel,1991,2300.0
+La Pampa,Utracán,1991,1800.0
+Santa Fe,9 de Julio,1991,2000.0
+Santa Fe,Belgrano,1991,2500.0
+Santa Fe,Caseros,1991,2101.0
+Santa Fe,Castellanos,1991,2900.0
+Santa Fe,General López,1991,2200.0
+Santa Fe,General Obligado,1991,1700.0
+Santa Fe,Iriondo,1991,2300.0
+Santa Fe,La Capital,1991,2600.0
+Santa Fe,Las Colonias,1991,2800.0
+Santa Fe,Rosario,1991,2031.0
+Santa Fe,San Cristóbal,1991,2533.0
+Santa Fe,San Javier,1991,1364.0
+Santa Fe,San Jerónimo,1991,2500.0
+Santa Fe,San Justo,1991,2108.0
+Santa Fe,San Lorenzo,1991,2200.0
+Santa Fe,San Martín,1991,2600.0
+Santa Fe,Vera,1991,1400.0
+Santa Fe,Villa Constitución,1991,2052.0
+Buenos Aires,25 de Mayo,1992,2601.0
+Buenos Aires,9 de Julio,1992,2900.0
+Buenos Aires,Adolfo Alsina,1992,1399.0
+Buenos Aires,Adolfo Gonzales Chaves,1992,2831.0
+Buenos Aires,Alberti,1992,2900.0
+Buenos Aires,Arrecifes,1992,2550.0
+Buenos Aires,Ayacucho,1992,1912.0
+Buenos Aires,Azul,1992,2600.0
+Buenos Aires,Bahía Blanca,1992,2000.0
+Buenos Aires,Balcarce,1992,2600.0
+Buenos Aires,Baradero,1992,2700.0
+Buenos Aires,Benito Juárez,1992,2406.0
+Buenos Aires,Bolívar,1992,2403.0
+Buenos Aires,Bragado,1992,2900.0
+Buenos Aires,Campana,1992,2250.0
+Buenos Aires,Cañuelas,1992,2389.0
+Buenos Aires,Capitán Sarmiento,1992,2400.0
+Buenos Aires,Carlos Casares,1992,2801.0
+Buenos Aires,Carlos Tejedor,1992,1503.0
+Buenos Aires,Carmen de Areco,1992,3000.0
+Buenos Aires,Castelli,1992,1667.0
+Buenos Aires,Chacabuco,1992,2950.0
+Buenos Aires,Chascomús,1992,2600.0
+Buenos Aires,Chivilcoy,1992,2900.0
+Buenos Aires,Colón,1992,3000.0
+Buenos Aires,Coronel de Marina Leonardo Rosales,1992,1502.0
+Buenos Aires,Coronel Dorrego,1992,2400.0
+Buenos Aires,Coronel Pringles,1992,2394.0
+Buenos Aires,Coronel Suárez,1992,2100.0
+Buenos Aires,Daireaux,1992,2201.0
+Buenos Aires,Exaltación de la Cruz,1992,2333.0
+Buenos Aires,General Alvarado,1992,2406.0
+Buenos Aires,General Alvear,1992,2286.0
+Buenos Aires,General Arenales,1992,3000.0
+Buenos Aires,General Belgrano,1992,2500.0
+Buenos Aires,General Juan Madariaga,1992,1667.0
+Buenos Aires,General La Madrid,1992,2000.0
+Buenos Aires,General Pinto,1992,2600.0
+Buenos Aires,General Pueyrredón,1992,2452.0
+Buenos Aires,General Viamonte,1992,2700.0
+Buenos Aires,General Villegas,1992,2101.0
+Buenos Aires,Guaminí,1992,1399.0
+Buenos Aires,Hipólito Yrigoyen,1992,2510.0
+Buenos Aires,Junín,1992,3000.0
+Buenos Aires,Laprida,1992,2400.0
+Buenos Aires,Las Flores,1992,2200.0
+Buenos Aires,Leandro N. Alem,1992,2700.0
+Buenos Aires,Lincoln,1992,2600.0
+Buenos Aires,Lobería,1992,2601.0
+Buenos Aires,Lobos,1992,2500.0
+Buenos Aires,Luján,1992,2907.0
+Buenos Aires,Maipú,1992,1556.0
+Buenos Aires,Mar Chiquita,1992,1605.0
+Buenos Aires,Mercedes,1992,2900.0
+Buenos Aires,Monte,1992,2381.0
+Buenos Aires,Navarro,1992,2500.0
+Buenos Aires,Necochea,1992,3520.0
+Buenos Aires,Olavarría,1992,2802.0
+Buenos Aires,Patagones,1992,1800.0
+Buenos Aires,Pehuajó,1992,2599.0
+Buenos Aires,Pellegrini,1992,1504.0
+Buenos Aires,Pergamino,1992,2701.0
+Buenos Aires,Pila,1992,1625.0
+Buenos Aires,Puán,1992,1601.0
+Buenos Aires,Ramallo,1992,2600.0
+Buenos Aires,Rauch,1992,1895.0
+Buenos Aires,Rivadavia,1992,1902.0
+Buenos Aires,Rojas,1992,3049.0
+Buenos Aires,Roque Pérez,1992,2208.0
+Buenos Aires,Saavedra,1992,1601.0
+Buenos Aires,Saladillo,1992,2200.0
+Buenos Aires,Salliqueló,1992,1111.0
+Buenos Aires,Salto,1992,2700.0
+Buenos Aires,San Andrés de Giles,1992,3055.0
+Buenos Aires,San Antonio de Areco,1992,2350.0
+Buenos Aires,San Cayetano,1992,2828.0
+Buenos Aires,San Nicolás,1992,2600.0
+Buenos Aires,San Pedro,1992,2650.0
+Buenos Aires,Suipacha,1992,2900.0
+Buenos Aires,Tandil,1992,2600.0
+Buenos Aires,Tapalqué,1992,2000.0
+Buenos Aires,Tornquist,1992,1600.0
+Buenos Aires,Trenque Lauquen,1992,2100.0
+Buenos Aires,Tres Arroyos,1992,3300.0
+Buenos Aires,Villarino,1992,900.0
+Buenos Aires,Zárate,1992,2231.0
+Córdoba,Calamuchita,1992,1520.0
+Córdoba,Capital,1992,2286.0
+Córdoba,Colón,1992,2500.0
+Córdoba,General Roca,1992,1700.0
+Córdoba,General San Martín,1992,1701.0
+Córdoba,Juárez Celman,1992,1502.0
+Córdoba,Marcos Juárez,1992,2600.0
+Córdoba,Presidente Roque Sáenz Peña,1992,1700.0
+Córdoba,Río Cuarto,1992,1504.0
+Córdoba,Río Primero,1992,2500.0
+Córdoba,Río Segundo,1992,3000.0
+Córdoba,San Justo,1992,2900.0
+Córdoba,Santa María,1992,1900.0
+Córdoba,Tercero Arriba,1992,2300.0
+Córdoba,Totoral,1992,2400.0
+Córdoba,Unión,1992,2301.0
+Entre Ríos,Colón,1992,1800.0
+Entre Ríos,Concordia,1992,1667.0
+Entre Ríos,Diamante,1992,2601.0
+Entre Ríos,Federal,1992,2000.0
+Entre Ríos,Gualeguay,1992,2900.0
+Entre Ríos,Gualeguaychú,1992,1500.0
+Entre Ríos,La Paz,1992,2104.0
+Entre Ríos,Nogoyá,1992,1800.0
+Entre Ríos,Paraná,1992,2502.0
+Entre Ríos,Tala,1992,2200.0
+Entre Ríos,Uruguay,1992,2000.0
+Entre Ríos,Victoria,1992,3000.0
+Entre Ríos,Villaguay,1992,2200.0
+La Pampa,Atreucó,1992,1101.0
+La Pampa,Caleu Caleu,1992,1184.0
+La Pampa,Capital,1992,1200.0
+La Pampa,Catriló,1992,1159.0
+La Pampa,Chapaleufú,1992,2000.0
+La Pampa,Conhelo,1992,1299.0
+La Pampa,Guatraché,1992,1151.0
+La Pampa,Hucal,1992,1211.0
+La Pampa,Loventué,1992,1200.0
+La Pampa,Maracó,1992,1298.0
+La Pampa,Quemú Quemú,1992,1302.0
+La Pampa,Rancul,1992,1898.0
+La Pampa,Realicó,1992,1801.0
+La Pampa,Toay,1992,1199.0
+La Pampa,Trenel,1992,1198.0
+La Pampa,Utracán,1992,1212.0
+Santa Fe,9 de Julio,1992,2800.0
+Santa Fe,Belgrano,1992,2800.0
+Santa Fe,Caseros,1992,2300.0
+Santa Fe,Castellanos,1992,3200.0
+Santa Fe,General López,1992,2400.0
+Santa Fe,General Obligado,1992,2607.0
+Santa Fe,Iriondo,1992,2900.0
+Santa Fe,La Capital,1992,2900.0
+Santa Fe,Las Colonias,1992,3000.0
+Santa Fe,Rosario,1992,2400.0
+Santa Fe,San Cristóbal,1992,2800.0
+Santa Fe,San Javier,1992,2333.0
+Santa Fe,San Jerónimo,1992,2900.0
+Santa Fe,San Justo,1992,2600.0
+Santa Fe,San Lorenzo,1992,2400.0
+Santa Fe,San Martín,1992,2900.0
+Santa Fe,Vera,1992,2583.0
+Santa Fe,Villa Constitución,1992,2400.0
+Buenos Aires,25 de Mayo,1993,2000.0
+Buenos Aires,9 de Julio,1993,2300.0
+Buenos Aires,Adolfo Alsina,1993,2150.0
+Buenos Aires,Adolfo Gonzales Chaves,1993,2695.0
+Buenos Aires,Alberti,1993,2200.0
+Buenos Aires,Arrecifes,1993,1803.0
+Buenos Aires,Ayacucho,1993,1806.0
+Buenos Aires,Azul,1993,2600.0
+Buenos Aires,Bahía Blanca,1993,1800.0
+Buenos Aires,Balcarce,1993,2499.0
+Buenos Aires,Baradero,1993,1701.0
+Buenos Aires,Benito Juárez,1993,2201.0
+Buenos Aires,Bolívar,1993,2200.0
+Buenos Aires,Bragado,1993,2301.0
+Buenos Aires,Campana,1993,1500.0
+Buenos Aires,Cañuelas,1993,1556.0
+Buenos Aires,Capitán Sarmiento,1993,1710.0
+Buenos Aires,Carlos Casares,1993,2700.0
+Buenos Aires,Carlos Tejedor,1993,2000.0
+Buenos Aires,Carmen de Areco,1993,1914.0
+Buenos Aires,Castelli,1993,1750.0
+Buenos Aires,Chacabuco,1993,1799.0
+Buenos Aires,Chascomús,1993,1500.0
+Buenos Aires,Chivilcoy,1993,2200.0
+Buenos Aires,Colón,1993,1751.0
+Buenos Aires,Coronel de Marina Leonardo Rosales,1993,1400.0
+Buenos Aires,Coronel Dorrego,1993,2090.0
+Buenos Aires,Coronel Pringles,1993,2299.0
+Buenos Aires,Coronel Suárez,1993,2450.0
+Buenos Aires,Daireaux,1993,2600.0
+Buenos Aires,Dolores,1993,1556.0
+Buenos Aires,Exaltación de la Cruz,1993,1765.0
+Buenos Aires,General Alvarado,1993,2298.0
+Buenos Aires,General Alvear,1993,1800.0
+Buenos Aires,General Arenales,1993,2000.0
+Buenos Aires,General Belgrano,1993,1529.0
+Buenos Aires,General Juan Madariaga,1993,1875.0
+Buenos Aires,General La Madrid,1993,2200.0
+Buenos Aires,General Pinto,1993,2452.0
+Buenos Aires,General Pueyrredón,1993,2200.0
+Buenos Aires,General Viamonte,1993,2353.0
+Buenos Aires,General Villegas,1993,2550.0
+Buenos Aires,Guaminí,1993,2152.0
+Buenos Aires,Hipólito Yrigoyen,1993,2711.0
+Buenos Aires,Junín,1993,1900.0
+Buenos Aires,Laprida,1993,2900.0
+Buenos Aires,Las Flores,1993,1600.0
+Buenos Aires,Leandro N. Alem,1993,2357.0
+Buenos Aires,Lincoln,1993,2400.0
+Buenos Aires,Lobería,1993,2395.0
+Buenos Aires,Lobos,1993,1818.0
+Buenos Aires,Luján,1993,1789.0
+Buenos Aires,Maipú,1993,1750.0
+Buenos Aires,Mar Chiquita,1993,1797.0
+Buenos Aires,Mercedes,1993,1900.0
+Buenos Aires,Monte,1993,1500.0
+Buenos Aires,Navarro,1993,1800.0
+Buenos Aires,Necochea,1993,2600.0
+Buenos Aires,Olavarría,1993,3000.0
+Buenos Aires,Patagones,1993,1200.0
+Buenos Aires,Pehuajó,1993,2800.0
+Buenos Aires,Pellegrini,1993,2181.0
+Buenos Aires,Pergamino,1993,1800.0
+Buenos Aires,Pila,1993,1571.0
+Buenos Aires,Puán,1993,1700.0
+Buenos Aires,Ramallo,1993,1748.0
+Buenos Aires,Rauch,1993,1899.0
+Buenos Aires,Rivadavia,1993,2502.0
+Buenos Aires,Rojas,1993,2000.0
+Buenos Aires,Roque Pérez,1993,2000.0
+Buenos Aires,Saavedra,1993,1900.0
+Buenos Aires,Saladillo,1993,2000.0
+Buenos Aires,Salliqueló,1993,2152.0
+Buenos Aires,Salto,1993,1798.0
+Buenos Aires,San Andrés de Giles,1993,1805.0
+Buenos Aires,San Antonio de Areco,1993,1497.0
+Buenos Aires,San Cayetano,1993,2297.0
+Buenos Aires,San Nicolás,1993,1813.0
+Buenos Aires,San Pedro,1993,1746.0
+Buenos Aires,Suipacha,1993,2000.0
+Buenos Aires,Tandil,1993,2600.0
+Buenos Aires,Tapalqué,1993,2000.0
+Buenos Aires,Tornquist,1993,1900.0
+Buenos Aires,Trenque Lauquen,1993,2700.0
+Buenos Aires,Tres Arroyos,1993,2697.0
+Buenos Aires,Villarino,1993,1200.0
+Buenos Aires,Zárate,1993,1643.0
+Córdoba,Calamuchita,1993,1914.0
+Córdoba,Capital,1993,1900.0
+Córdoba,Colón,1993,1600.0
+Córdoba,General Roca,1993,2050.0
+Córdoba,General San Martín,1993,2300.0
+Córdoba,Juárez Celman,1993,1900.0
+Córdoba,Marcos Juárez,1993,2400.0
+Córdoba,Presidente Roque Sáenz Peña,1993,2249.0
+Córdoba,Río Cuarto,1993,1901.0
+Córdoba,Río Primero,1993,1305.0
+Córdoba,Río Segundo,1993,1800.0
+Córdoba,San Justo,1993,1400.0
+Córdoba,Santa María,1993,1103.0
+Córdoba,Tercero Arriba,1993,1200.0
+Córdoba,Totoral,1993,1400.0
+Córdoba,Tulumba,1993,1333.0
+Córdoba,Unión,1993,2100.0
+Entre Ríos,Colón,1993,789.0
+Entre Ríos,Concordia,1993,1667.0
+Entre Ríos,Diamante,1993,1799.0
+Entre Ríos,Federal,1993,1500.0
+Entre Ríos,Gualeguay,1993,1902.0
+Entre Ríos,Gualeguaychú,1993,1310.0
+Entre Ríos,La Paz,1993,1596.0
+Entre Ríos,Nogoyá,1993,1797.0
+Entre Ríos,Paraná,1993,1801.0
+Entre Ríos,Tala,1993,1206.0
+Entre Ríos,Uruguay,1993,897.0
+Entre Ríos,Victoria,1993,2200.0
+Entre Ríos,Villaguay,1993,690.0
+La Pampa,Atreucó,1993,1680.0
+La Pampa,Caleu Caleu,1993,1000.0
+La Pampa,Capital,1993,1700.0
+La Pampa,Catriló,1993,1799.0
+La Pampa,Chapaleufú,1993,2000.0
+La Pampa,Conhelo,1993,1800.0
+La Pampa,Guatraché,1993,1801.0
+La Pampa,Hucal,1993,1100.0
+La Pampa,Loventué,1993,1214.0
+La Pampa,Maracó,1993,1902.0
+La Pampa,Quemú Quemú,1993,1100.0
+La Pampa,Rancul,1993,1800.0
+La Pampa,Realicó,1993,1799.0
+La Pampa,Toay,1993,1601.0
+La Pampa,Trenel,1993,1899.0
+La Pampa,Utracán,1993,1104.0
+Santa Fe,9 de Julio,1993,1200.0
+Santa Fe,Belgrano,1993,2100.0
+Santa Fe,Caseros,1993,1800.0
+Santa Fe,Castellanos,1993,1650.0
+Santa Fe,General López,1993,2200.0
+Santa Fe,General Obligado,1993,2100.0
+Santa Fe,Iriondo,1993,2200.0
+Santa Fe,La Capital,1993,1900.0
+Santa Fe,Las Colonias,1993,1650.0
+Santa Fe,Rosario,1993,2000.0
+Santa Fe,San Cristóbal,1993,1600.0
+Santa Fe,San Javier,1993,1750.0
+Santa Fe,San Jerónimo,1993,2000.0
+Santa Fe,San Justo,1993,1902.0
+Santa Fe,San Lorenzo,1993,1949.0
+Santa Fe,San Martín,1993,2100.0
+Santa Fe,Vera,1993,2394.0
+Santa Fe,Villa Constitución,1993,2000.0
+Buenos Aires,25 de Mayo,1994,3100.0
+Buenos Aires,9 de Julio,1994,3300.0
+Buenos Aires,Adolfo Alsina,1994,1850.0
+Buenos Aires,Adolfo Gonzales Chaves,1994,2940.0
+Buenos Aires,Alberti,1994,3302.0
+Buenos Aires,Arrecifes,1994,2647.0
+Buenos Aires,Ayacucho,1994,2289.0
+Buenos Aires,Azul,1994,2800.0
+Buenos Aires,Bahía Blanca,1994,1400.0
+Buenos Aires,Balcarce,1994,2814.0
+Buenos Aires,Baradero,1994,3000.0
+Buenos Aires,Benito Juárez,1994,2600.0
+Buenos Aires,Bolívar,1994,2900.0
+Buenos Aires,Bragado,1994,3301.0
+Buenos Aires,Campana,1994,2500.0
+Buenos Aires,Cañuelas,1994,3000.0
+Buenos Aires,Capitán Sarmiento,1994,2586.0
+Buenos Aires,Carlos Casares,1994,3100.0
+Buenos Aires,Carlos Tejedor,1994,2602.0
+Buenos Aires,Carmen de Areco,1994,2600.0
+Buenos Aires,Chacabuco,1994,2700.0
+Buenos Aires,Chascomús,1994,2900.0
+Buenos Aires,Chivilcoy,1994,3301.0
+Buenos Aires,Colón,1994,2900.0
+Buenos Aires,Coronel de Marina Leonardo Rosales,1994,1300.0
+Buenos Aires,Coronel Dorrego,1994,2226.0
+Buenos Aires,Coronel Pringles,1994,2409.0
+Buenos Aires,Coronel Suárez,1994,2200.0
+Buenos Aires,Daireaux,1994,2700.0
+Buenos Aires,Dolores,1994,2222.0
+Buenos Aires,Exaltación de la Cruz,1994,2636.0
+Buenos Aires,General Alvarado,1994,2704.0
+Buenos Aires,General Alvear,1994,2800.0
+Buenos Aires,General Arenales,1994,2800.0
+Buenos Aires,General Belgrano,1994,3000.0
+Buenos Aires,General Juan Madariaga,1994,2286.0
+Buenos Aires,General La Madrid,1994,1900.0
+Buenos Aires,General Pinto,1994,2500.0
+Buenos Aires,General Pueyrredón,1994,2600.0
+Buenos Aires,General Viamonte,1994,2600.0
+Buenos Aires,General Villegas,1994,2800.0
+Buenos Aires,Guaminí,1994,2200.0
+Buenos Aires,Hipólito Yrigoyen,1994,2700.0
+Buenos Aires,Junín,1994,2600.0
+Buenos Aires,Laprida,1994,2363.0
+Buenos Aires,Las Flores,1994,2700.0
+Buenos Aires,Leandro N. Alem,1994,2650.0
+Buenos Aires,Lincoln,1994,2700.0
+Buenos Aires,Lobería,1994,2712.0
+Buenos Aires,Lobos,1994,2800.0
+Buenos Aires,Luján,1994,2605.0
+Buenos Aires,Maipú,1994,2154.0
+Buenos Aires,Mar Chiquita,1994,2389.0
+Buenos Aires,Mercedes,1994,3000.0
+Buenos Aires,Monte,1994,2900.0
+Buenos Aires,Navarro,1994,2900.0
+Buenos Aires,Necochea,1994,3054.0
+Buenos Aires,Olavarría,1994,3000.0
+Buenos Aires,Patagones,1994,1000.0
+Buenos Aires,Pehuajó,1994,2800.0
+Buenos Aires,Pellegrini,1994,2200.0
+Buenos Aires,Pergamino,1994,2800.0
+Buenos Aires,Puán,1994,1400.0
+Buenos Aires,Ramallo,1994,2048.0
+Buenos Aires,Rauch,1994,2297.0
+Buenos Aires,Rivadavia,1994,3000.0
+Buenos Aires,Rojas,1994,2800.0
+Buenos Aires,Roque Pérez,1994,3000.0
+Buenos Aires,Saavedra,1994,1700.0
+Buenos Aires,Saladillo,1994,3000.0
+Buenos Aires,Salliqueló,1994,2246.0
+Buenos Aires,Salto,1994,2902.0
+Buenos Aires,San Andrés de Giles,1994,2600.0
+Buenos Aires,San Antonio de Areco,1994,2698.0
+Buenos Aires,San Cayetano,1994,2750.0
+Buenos Aires,San Nicolás,1994,2250.0
+Buenos Aires,San Pedro,1994,2300.0
+Buenos Aires,Suipacha,1994,3000.0
+Buenos Aires,Tandil,1994,2901.0
+Buenos Aires,Tapalqué,1994,2800.0
+Buenos Aires,Tornquist,1994,1500.0
+Buenos Aires,Trenque Lauquen,1994,2601.0
+Buenos Aires,Tres Arroyos,1994,3061.0
+Buenos Aires,Villarino,1994,900.0
+Buenos Aires,Zárate,1994,2667.0
+Córdoba,Calamuchita,1994,1852.0
+Córdoba,Capital,1994,1700.0
+Córdoba,Colón,1994,1114.0
+Córdoba,General Roca,1994,2700.0
+Córdoba,General San Martín,1994,1502.0
+Córdoba,Juárez Celman,1994,1900.0
+Córdoba,Marcos Juárez,1994,2420.0
+Córdoba,Presidente Roque Sáenz Peña,1994,2600.0
+Córdoba,Río Cuarto,1994,1850.0
+Córdoba,Río Primero,1994,1100.0
+Córdoba,Río Segundo,1994,1700.0
+Córdoba,San Justo,1994,1400.0
+Córdoba,Santa María,1994,1200.0
+Córdoba,Tercero Arriba,1994,1301.0
+Córdoba,Unión,1994,2040.0
+Entre Ríos,Colón,1994,1300.0
+Entre Ríos,Concordia,1994,1500.0
+Entre Ríos,Diamante,1994,1800.0
+Entre Ríos,Federal,1994,1667.0
+Entre Ríos,Gualeguay,1994,1800.0
+Entre Ríos,Gualeguaychú,1994,1500.0
+Entre Ríos,La Paz,1994,1520.0
+Entre Ríos,Nogoyá,1994,2000.0
+Entre Ríos,Paraná,1994,1799.0
+Entre Ríos,Tala,1994,1514.0
+Entre Ríos,Uruguay,1994,1711.0
+Entre Ríos,Victoria,1994,2400.0
+Entre Ríos,Villaguay,1994,1600.0
+La Pampa,Atreucó,1994,1571.0
+La Pampa,Caleu Caleu,1994,688.0
+La Pampa,Capital,1994,1671.0
+La Pampa,Catriló,1994,1871.0
+La Pampa,Chapaleufú,1994,1801.0
+La Pampa,Conhelo,1994,1601.0
+La Pampa,Guatraché,1994,1300.0
+La Pampa,Hucal,1994,600.0
+La Pampa,Loventué,1994,1000.0
+La Pampa,Maracó,1994,1650.0
+La Pampa,Quemú Quemú,1994,1500.0
+La Pampa,Rancul,1994,1402.0
+La Pampa,Realicó,1994,1800.0
+La Pampa,Toay,1994,1151.0
+La Pampa,Trenel,1994,1398.0
+La Pampa,Utracán,1994,900.0
+Santa Fe,9 de Julio,1994,1597.0
+Santa Fe,Belgrano,1994,1950.0
+Santa Fe,Caseros,1994,2000.0
+Santa Fe,Castellanos,1994,1600.0
+Santa Fe,General López,1994,2840.0
+Santa Fe,General Obligado,1994,1714.0
+Santa Fe,Iriondo,1994,2051.0
+Santa Fe,La Capital,1994,1900.0
+Santa Fe,Las Colonias,1994,1700.0
+Santa Fe,Rosario,1994,2000.0
+Santa Fe,San Cristóbal,1994,2355.0
+Santa Fe,San Javier,1994,1615.0
+Santa Fe,San Jerónimo,1994,1900.0
+Santa Fe,San Justo,1994,1852.0
+Santa Fe,San Lorenzo,1994,2000.0
+Santa Fe,San Martín,1994,2000.0
+Santa Fe,Vera,1994,2100.0
+Santa Fe,Villa Constitución,1994,2052.0
+Buenos Aires,25 de Mayo,1995,2901.0
+Buenos Aires,9 de Julio,1995,3150.0
+Buenos Aires,Adolfo Alsina,1995,1650.0
+Buenos Aires,Adolfo Gonzales Chaves,1995,2429.0
+Buenos Aires,Alberti,1995,3500.0
+Buenos Aires,Arrecifes,1995,2804.0
+Buenos Aires,Ayacucho,1995,2200.0
+Buenos Aires,Azul,1995,1800.0
+Buenos Aires,Bahía Blanca,1995,400.0
+Buenos Aires,Balcarce,1995,2602.0
+Buenos Aires,Baradero,1995,2954.0
+Buenos Aires,Benito Juárez,1995,2400.0
+Buenos Aires,Bolívar,1995,1751.0
+Buenos Aires,Bragado,1995,3201.0
+Buenos Aires,Campana,1995,2600.0
+Buenos Aires,Cañuelas,1995,2300.0
+Buenos Aires,Capitán Sarmiento,1995,1897.0
+Buenos Aires,Carlos Casares,1995,2550.0
+Buenos Aires,Carlos Tejedor,1995,2152.0
+Buenos Aires,Carmen de Areco,1995,3000.0
+Buenos Aires,Chacabuco,1995,3148.0
+Buenos Aires,Chascomús,1995,2500.0
+Buenos Aires,Chivilcoy,1995,3000.0
+Buenos Aires,Colón,1995,2399.0
+Buenos Aires,Coronel de Marina Leonardo Rosales,1995,901.0
+Buenos Aires,Coronel Dorrego,1995,1375.0
+Buenos Aires,Coronel Pringles,1995,1453.0
+Buenos Aires,Coronel Suárez,1995,1599.0
+Buenos Aires,Daireaux,1995,1751.0
+Buenos Aires,Escobar,1995,3000.0
+Buenos Aires,Exaltación de la Cruz,1995,2682.0
+Buenos Aires,Florentino Ameghino,1995,2000.0
+Buenos Aires,General Alvarado,1995,2800.0
+Buenos Aires,General Alvear,1995,1600.0
+Buenos Aires,General Arenales,1995,2850.0
+Buenos Aires,General Belgrano,1995,2600.0
+Buenos Aires,General Juan Madariaga,1995,2000.0
+Buenos Aires,General La Madrid,1995,1400.0
+Buenos Aires,General Pinto,1995,2103.0
+Buenos Aires,General Pueyrredón,1995,2798.0
+Buenos Aires,General Rodríguez,1995,3000.0
+Buenos Aires,General Viamonte,1995,2600.0
+Buenos Aires,General Villegas,1995,1900.0
+Buenos Aires,Guaminí,1995,1800.0
+Buenos Aires,Hipólito Yrigoyen,1995,2000.0
+Buenos Aires,Junín,1995,2800.0
+Buenos Aires,Laprida,1995,1324.0
+Buenos Aires,Las Flores,1995,2600.0
+Buenos Aires,Leandro N. Alem,1995,2600.0
+Buenos Aires,Lincoln,1995,2301.0
+Buenos Aires,Lobería,1995,2651.0
+Buenos Aires,Lobos,1995,2600.0
+Buenos Aires,Luján,1995,3000.0
+Buenos Aires,Maipú,1995,1750.0
+Buenos Aires,Mar Chiquita,1995,2300.0
+Buenos Aires,Mercedes,1995,3000.0
+Buenos Aires,Monte,1995,2309.0
+Buenos Aires,Navarro,1995,2905.0
+Buenos Aires,Necochea,1995,2880.0
+Buenos Aires,Olavarría,1995,1701.0
+Buenos Aires,Patagones,1995,1250.0
+Buenos Aires,Pehuajó,1995,2349.0
+Buenos Aires,Pellegrini,1995,1600.0
+Buenos Aires,Pergamino,1995,2799.0
+Buenos Aires,Pilar,1995,2800.0
+Buenos Aires,Puán,1995,1050.0
+Buenos Aires,Ramallo,1995,2506.0
+Buenos Aires,Rauch,1995,2203.0
+Buenos Aires,Rivadavia,1995,2151.0
+Buenos Aires,Rojas,1995,3200.0
+Buenos Aires,Roque Pérez,1995,2500.0
+Buenos Aires,Saavedra,1995,1200.0
+Buenos Aires,Saladillo,1995,2600.0
+Buenos Aires,Salliqueló,1995,1603.0
+Buenos Aires,Salto,1995,2649.0
+Buenos Aires,San Andrés de Giles,1995,3000.0
+Buenos Aires,San Antonio de Areco,1995,2902.0
+Buenos Aires,San Cayetano,1995,2487.0
+Buenos Aires,San Nicolás,1995,2500.0
+Buenos Aires,San Pedro,1995,2447.0
+Buenos Aires,Suipacha,1995,3000.0
+Buenos Aires,Tandil,1995,2800.0
+Buenos Aires,Tapalqué,1995,1300.0
+Buenos Aires,Tornquist,1995,1100.0
+Buenos Aires,Trenque Lauquen,1995,2351.0
+Buenos Aires,Tres Arroyos,1995,2666.0
+Buenos Aires,Tres Lomas,1995,1606.0
+Buenos Aires,Villarino,1995,500.0
+Buenos Aires,Zárate,1995,2524.0
+Córdoba,Calamuchita,1995,1000.0
+Córdoba,Capital,1995,167.0
+Córdoba,Colón,1995,700.0
+Córdoba,General Roca,1995,1479.0
+Córdoba,General San Martín,1995,699.0
+Córdoba,Juárez Celman,1995,1100.0
+Córdoba,Marcos Juárez,1995,2000.0
+Córdoba,Presidente Roque Sáenz Peña,1995,1689.0
+Córdoba,Río Cuarto,1995,1101.0
+Córdoba,Río Primero,1995,700.0
+Córdoba,Río Segundo,1995,500.0
+Córdoba,San Justo,1995,697.0
+Córdoba,Santa María,1995,188.0
+Córdoba,Tercero Arriba,1995,600.0
+Córdoba,Unión,1995,1500.0
+Entre Ríos,Colón,1995,1600.0
+Entre Ríos,Concordia,1995,1600.0
+Entre Ríos,Diamante,1995,1702.0
+Entre Ríos,Federal,1995,1667.0
+Entre Ríos,Gualeguay,1995,1805.0
+Entre Ríos,Gualeguaychú,1995,1600.0
+Entre Ríos,La Paz,1995,1500.0
+Entre Ríos,Nogoyá,1995,1703.0
+Entre Ríos,Paraná,1995,1600.0
+Entre Ríos,Tala,1995,1292.0
+Entre Ríos,Uruguay,1995,1800.0
+Entre Ríos,Victoria,1995,2251.0
+Entre Ríos,Villaguay,1995,1818.0
+La Pampa,Atreucó,1995,1248.0
+La Pampa,Capital,1995,1302.0
+La Pampa,Catriló,1995,1551.0
+La Pampa,Chapaleufú,1995,1560.0
+La Pampa,Conhelo,1995,1550.0
+La Pampa,Guatraché,1995,1018.0
+La Pampa,Hucal,1995,798.0
+La Pampa,Loventué,1995,1000.0
+La Pampa,Maracó,1995,1299.0
+La Pampa,Quemú Quemú,1995,1301.0
+La Pampa,Rancul,1995,1401.0
+La Pampa,Realicó,1995,1461.0
+La Pampa,Toay,1995,600.0
+La Pampa,Trenel,1995,1402.0
+La Pampa,Utracán,1995,842.0
+Santa Fe,9 de Julio,1995,615.0
+Santa Fe,Belgrano,1995,1600.0
+Santa Fe,Caseros,1995,2000.0
+Santa Fe,Castellanos,1995,1100.0
+Santa Fe,General López,1995,2553.0
+Santa Fe,General Obligado,1995,908.0
+Santa Fe,Iriondo,1995,1751.0
+Santa Fe,La Capital,1995,1296.0
+Santa Fe,Las Colonias,1995,1400.0
+Santa Fe,Rosario,1995,1902.0
+Santa Fe,San Cristóbal,1995,1000.0
+Santa Fe,San Javier,1995,706.0
+Santa Fe,San Jerónimo,1995,1750.0
+Santa Fe,San Justo,1995,1098.0
+Santa Fe,San Lorenzo,1995,2000.0
+Santa Fe,San Martín,1995,1450.0
+Santa Fe,Vera,1995,844.0
+Santa Fe,Villa Constitución,1995,2000.0
+Buenos Aires,25 de Mayo,1996,4000.0
+Buenos Aires,9 de Julio,1996,3700.0
+Buenos Aires,Adolfo Alsina,1996,1751.0
+Buenos Aires,Adolfo Gonzales Chaves,1996,2342.0
+Buenos Aires,Alberti,1996,3799.0
+Buenos Aires,Arrecifes,1996,3000.0
+Buenos Aires,Ayacucho,1996,2796.0
+Buenos Aires,Azul,1996,3100.0
+Buenos Aires,Bahía Blanca,1996,1201.0
+Buenos Aires,Balcarce,1996,3198.0
+Buenos Aires,Baradero,1996,2000.0
+Buenos Aires,Benito Juárez,1996,2600.0
+Buenos Aires,Bolívar,1996,2751.0
+Buenos Aires,Bragado,1996,3699.0
+Buenos Aires,Campana,1996,2857.0
+Buenos Aires,Cañuelas,1996,3300.0
+Buenos Aires,Capitán Sarmiento,1996,3300.0
+Buenos Aires,Carlos Casares,1996,3301.0
+Buenos Aires,Carlos Tejedor,1996,2000.0
+Buenos Aires,Carmen de Areco,1996,3500.0
+Buenos Aires,Castelli,1996,2500.0
+Buenos Aires,Chacabuco,1996,3000.0
+Buenos Aires,Chascomús,1996,3202.0
+Buenos Aires,Chivilcoy,1996,3800.0
+Buenos Aires,Colón,1996,3400.0
+Buenos Aires,Coronel de Marina Leonardo Rosales,1996,1700.0
+Buenos Aires,Coronel Dorrego,1996,2144.0
+Buenos Aires,Coronel Pringles,1996,2248.0
+Buenos Aires,Coronel Suárez,1996,2450.0
+Buenos Aires,Daireaux,1996,2751.0
+Buenos Aires,Dolores,1996,2526.0
+Buenos Aires,Escobar,1996,2667.0
+Buenos Aires,Exaltación de la Cruz,1996,3111.0
+Buenos Aires,Florentino Ameghino,1996,1699.0
+Buenos Aires,General Alvarado,1996,3300.0
+Buenos Aires,General Alvear,1996,2700.0
+Buenos Aires,General Arenales,1996,3300.0
+Buenos Aires,General Belgrano,1996,3402.0
+Buenos Aires,General Guido,1996,2500.0
+Buenos Aires,General Juan Madariaga,1996,2603.0
+Buenos Aires,General La Madrid,1996,2200.0
+Buenos Aires,General Las Heras,1996,2833.0
+Buenos Aires,General Lavalle,1996,2526.0
+Buenos Aires,General Pinto,1996,2500.0
+Buenos Aires,General Pueyrredón,1996,3200.0
+Buenos Aires,General Rodríguez,1996,3000.0
+Buenos Aires,General Viamonte,1996,3100.0
+Buenos Aires,General Villegas,1996,1200.0
+Buenos Aires,Guaminí,1996,2300.0
+Buenos Aires,Hipólito Yrigoyen,1996,2700.0
+Buenos Aires,Junín,1996,3301.0
+Buenos Aires,Laprida,1996,2684.0
+Buenos Aires,Las Flores,1996,2905.0
+Buenos Aires,Leandro N. Alem,1996,3200.0
+Buenos Aires,Lincoln,1996,2750.0
+Buenos Aires,Lobería,1996,3000.0
+Buenos Aires,Lobos,1996,3800.0
+Buenos Aires,Luján,1996,3093.0
+Buenos Aires,Maipú,1996,2517.0
+Buenos Aires,Mar Chiquita,1996,2704.0
+Buenos Aires,Mercedes,1996,3203.0
+Buenos Aires,Monte,1996,3100.0
+Buenos Aires,Navarro,1996,3700.0
+Buenos Aires,Necochea,1996,3483.0
+Buenos Aires,Olavarría,1996,2606.0
+Buenos Aires,Patagones,1996,950.0
+Buenos Aires,Pehuajó,1996,2451.0
+Buenos Aires,Pellegrini,1996,2200.0
+Buenos Aires,Pergamino,1996,3400.0
+Buenos Aires,Pilar,1996,2833.0
+Buenos Aires,Puán,1996,1400.0
+Buenos Aires,Ramallo,1996,1900.0
+Buenos Aires,Rauch,1996,2902.0
+Buenos Aires,Rivadavia,1996,2151.0
+Buenos Aires,Rojas,1996,3300.0
+Buenos Aires,Roque Pérez,1996,3700.0
+Buenos Aires,Saavedra,1996,1500.0
+Buenos Aires,Saladillo,1996,3700.0
+Buenos Aires,Salliqueló,1996,2250.0
+Buenos Aires,Salto,1996,3500.0
+Buenos Aires,San Andrés de Giles,1996,3500.0
+Buenos Aires,San Antonio de Areco,1996,3150.0
+Buenos Aires,San Cayetano,1996,2354.0
+Buenos Aires,San Nicolás,1996,1700.0
+Buenos Aires,San Pedro,1996,1702.0
+Buenos Aires,Suipacha,1996,3403.0
+Buenos Aires,Tandil,1996,3300.0
+Buenos Aires,Tapalqué,1996,2600.0
+Buenos Aires,Tornquist,1996,1400.0
+Buenos Aires,Trenque Lauquen,1996,2300.0
+Buenos Aires,Tres Arroyos,1996,2353.0
+Buenos Aires,Tres Lomas,1996,2300.0
+Buenos Aires,Villarino,1996,1100.0
+Buenos Aires,Zárate,1996,2800.0
+Córdoba,Calamuchita,1996,1000.0
+Córdoba,Capital,1996,1600.0
+Córdoba,Colón,1996,1600.0
+Córdoba,General Roca,1996,1040.0
+Córdoba,General San Martín,1996,1000.0
+Córdoba,Juárez Celman,1996,1199.0
+Córdoba,Marcos Juárez,1996,2400.0
+Córdoba,Presidente Roque Sáenz Peña,1996,1180.0
+Córdoba,Río Cuarto,1996,1198.0
+Córdoba,Río Primero,1996,1496.0
+Córdoba,Río Segundo,1996,1651.0
+Córdoba,San Alberto,1996,3000.0
+Córdoba,San Javier,1996,3000.0
+Córdoba,San Justo,1996,1501.0
+Córdoba,Santa María,1996,1300.0
+Córdoba,Tercero Arriba,1996,1500.0
+Córdoba,Totoral,1996,1690.0
+Córdoba,Unión,1996,1650.0
+Entre Ríos,Colón,1996,1709.0
+Entre Ríos,Concordia,1996,1111.0
+Entre Ríos,Diamante,1996,2600.0
+Entre Ríos,Federación,1996,1200.0
+Entre Ríos,Federal,1996,1318.0
+Entre Ríos,Feliciano,1996,1000.0
+Entre Ríos,Gualeguay,1996,2800.0
+Entre Ríos,Gualeguaychú,1996,2400.0
+Entre Ríos,La Paz,1996,1307.0
+Entre Ríos,Nogoyá,1996,2298.0
+Entre Ríos,Paraná,1996,2400.0
+Entre Ríos,Tala,1996,1800.0
+Entre Ríos,Uruguay,1996,2299.0
+Entre Ríos,Victoria,1996,3000.0
+Entre Ríos,Villaguay,1996,1500.0
+La Pampa,Atreucó,1996,1470.0
+La Pampa,Caleu Caleu,1996,1000.0
+La Pampa,Capital,1996,1700.0
+La Pampa,Catriló,1996,1790.0
+La Pampa,Chapaleufú,1996,1501.0
+La Pampa,Conhelo,1996,1299.0
+La Pampa,Guatraché,1996,1380.0
+La Pampa,Hucal,1996,1091.0
+La Pampa,Loventué,1996,1000.0
+La Pampa,Maracó,1996,1200.0
+La Pampa,Quemú Quemú,1996,1500.0
+La Pampa,Rancul,1996,808.0
+La Pampa,Realicó,1996,1000.0
+La Pampa,Toay,1996,1452.0
+La Pampa,Trenel,1996,1000.0
+La Pampa,Utracán,1996,1104.0
+Santa Fe,9 de Julio,1996,1467.0
+Santa Fe,Belgrano,1996,2370.0
+Santa Fe,Caseros,1996,2240.0
+Santa Fe,Castellanos,1996,1600.0
+Santa Fe,Garay,1996,1300.0
+Santa Fe,General López,1996,2550.0
+Santa Fe,General Obligado,1996,1043.0
+Santa Fe,Iriondo,1996,2400.0
+Santa Fe,La Capital,1996,2100.0
+Santa Fe,Las Colonias,1996,1901.0
+Santa Fe,Rosario,1996,2350.0
+Santa Fe,San Cristóbal,1996,1850.0
+Santa Fe,San Javier,1996,1493.0
+Santa Fe,San Jerónimo,1996,1950.0
+Santa Fe,San Justo,1996,1899.0
+Santa Fe,San Lorenzo,1996,2871.0
+Santa Fe,San Martín,1996,1831.0
+Santa Fe,Vera,1996,1654.0
+Santa Fe,Villa Constitución,1996,2300.0
+Buenos Aires,25 de Mayo,1997,3299.0
+Buenos Aires,9 de Julio,1997,3100.0
+Buenos Aires,Adolfo Alsina,1997,2300.0
+Buenos Aires,Adolfo Gonzales Chaves,1997,3531.0
+Buenos Aires,Alberti,1997,3300.0
+Buenos Aires,Arrecifes,1997,2703.0
+Buenos Aires,Ayacucho,1997,3000.0
+Buenos Aires,Azul,1997,3650.0
+Buenos Aires,Bahía Blanca,1997,2096.0
+Buenos Aires,Balcarce,1997,3655.0
+Buenos Aires,Baradero,1997,2700.0
+Buenos Aires,Benito Juárez,1997,3204.0
+Buenos Aires,Bolívar,1997,3301.0
+Buenos Aires,Bragado,1997,3301.0
+Buenos Aires,Campana,1997,2200.0
+Buenos Aires,Cañuelas,1997,2408.0
+Buenos Aires,Capitán Sarmiento,1997,2800.0
+Buenos Aires,Carlos Casares,1997,3200.0
+Buenos Aires,Carlos Tejedor,1997,2503.0
+Buenos Aires,Carmen de Areco,1997,2897.0
+Buenos Aires,Castelli,1997,2810.0
+Buenos Aires,Chacabuco,1997,2800.0
+Buenos Aires,Chascomús,1997,2508.0
+Buenos Aires,Chivilcoy,1997,3301.0
+Buenos Aires,Colón,1997,2500.0
+Buenos Aires,Coronel de Marina Leonardo Rosales,1997,2091.0
+Buenos Aires,Coronel Dorrego,1997,2673.0
+Buenos Aires,Coronel Pringles,1997,2845.0
+Buenos Aires,Coronel Suárez,1997,3000.0
+Buenos Aires,Daireaux,1997,3400.0
+Buenos Aires,Dolores,1997,2706.0
+Buenos Aires,Exaltación de la Cruz,1997,2520.0
+Buenos Aires,Florentino Ameghino,1997,2000.0
+Buenos Aires,General Alvarado,1997,3302.0
+Buenos Aires,General Alvear,1997,3000.0
+Buenos Aires,General Arenales,1997,2800.0
+Buenos Aires,General Belgrano,1997,2696.0
+Buenos Aires,General Guido,1997,2579.0
+Buenos Aires,General Juan Madariaga,1997,3011.0
+Buenos Aires,General La Madrid,1997,2900.0
+Buenos Aires,General Las Heras,1997,3000.0
+Buenos Aires,General Lavalle,1997,2588.0
+Buenos Aires,General Pinto,1997,2303.0
+Buenos Aires,General Pueyrredón,1997,3402.0
+Buenos Aires,General Rodríguez,1997,3000.0
+Buenos Aires,General Viamonte,1997,2401.0
+Buenos Aires,General Villegas,1997,2200.0
+Buenos Aires,Guaminí,1997,2800.0
+Buenos Aires,Hipólito Yrigoyen,1997,3198.0
+Buenos Aires,Junín,1997,2800.0
+Buenos Aires,Laprida,1997,3312.0
+Buenos Aires,Las Flores,1997,2310.0
+Buenos Aires,Leandro N. Alem,1997,2400.0
+Buenos Aires,Lincoln,1997,2301.0
+Buenos Aires,Lobería,1997,3600.0
+Buenos Aires,Lobos,1997,3095.0
+Buenos Aires,Luján,1997,2438.0
+Buenos Aires,Maipú,1997,2885.0
+Buenos Aires,Mar Chiquita,1997,3006.0
+Buenos Aires,Marcos Paz,1997,3000.0
+Buenos Aires,Mercedes,1997,2708.0
+Buenos Aires,Monte,1997,2510.0
+Buenos Aires,Navarro,1997,3102.0
+Buenos Aires,Necochea,1997,3953.0
+Buenos Aires,Olavarría,1997,3811.0
+Buenos Aires,Patagones,1997,2000.0
+Buenos Aires,Pehuajó,1997,2900.0
+Buenos Aires,Pellegrini,1997,2600.0
+Buenos Aires,Pergamino,1997,2600.0
+Buenos Aires,Pilar,1997,3000.0
+Buenos Aires,Puán,1997,2500.0
+Buenos Aires,Ramallo,1997,2747.0
+Buenos Aires,Rauch,1997,3103.0
+Buenos Aires,Rivadavia,1997,2800.0
+Buenos Aires,Rojas,1997,3101.0
+Buenos Aires,Roque Pérez,1997,3000.0
+Buenos Aires,Saavedra,1997,2800.0
+Buenos Aires,Saladillo,1997,3000.0
+Buenos Aires,Salliqueló,1997,2600.0
+Buenos Aires,Salto,1997,2700.0
+Buenos Aires,San Andrés de Giles,1997,2800.0
+Buenos Aires,San Antonio de Areco,1997,2750.0
+Buenos Aires,San Cayetano,1997,3218.0
+Buenos Aires,San Nicolás,1997,2600.0
+Buenos Aires,San Pedro,1997,2599.0
+Buenos Aires,Suipacha,1997,2795.0
+Buenos Aires,Tandil,1997,3600.0
+Buenos Aires,Tapalqué,1997,3300.0
+Buenos Aires,Tornquist,1997,2800.0
+Buenos Aires,Trenque Lauquen,1997,3000.0
+Buenos Aires,Tres Arroyos,1997,3862.0
+Buenos Aires,Tres Lomas,1997,2701.0
+Buenos Aires,Villarino,1997,1857.0
+Buenos Aires,Zárate,1997,2300.0
+Córdoba,Calamuchita,1997,1000.0
+Córdoba,Capital,1997,1000.0
+Córdoba,General Roca,1997,1701.0
+Córdoba,General San Martín,1997,857.0
+Córdoba,Juárez Celman,1997,1000.0
+Córdoba,Marcos Juárez,1997,1920.0
+Córdoba,Presidente Roque Sáenz Peña,1997,1550.0
+Córdoba,Río Cuarto,1997,1000.0
+Córdoba,Río Primero,1997,3000.0
+Córdoba,Río Segundo,1997,1500.0
+Córdoba,San Justo,1997,448.0
+Córdoba,Santa María,1997,2000.0
+Córdoba,Tercero Arriba,1997,907.0
+Córdoba,Totoral,1997,2750.0
+Córdoba,Tulumba,1997,2667.0
+Córdoba,Unión,1997,1300.0
+Entre Ríos,Colón,1997,2506.0
+Entre Ríos,Concordia,1997,2100.0
+Entre Ríos,Diamante,1997,1899.0
+Entre Ríos,Federación,1997,1700.0
+Entre Ríos,Federal,1997,2000.0
+Entre Ríos,Feliciano,1997,1700.0
+Entre Ríos,Gualeguay,1997,2600.0
+Entre Ríos,Gualeguaychú,1997,2400.0
+Entre Ríos,La Paz,1997,1800.0
+Entre Ríos,Nogoyá,1997,1899.0
+Entre Ríos,Paraná,1997,2200.0
+Entre Ríos,Tala,1997,2302.0
+Entre Ríos,Uruguay,1997,2100.0
+Entre Ríos,Victoria,1997,2300.0
+Entre Ríos,Villaguay,1997,2000.0
+La Pampa,Atreucó,1997,2370.0
+La Pampa,Caleu Caleu,1997,1593.0
+La Pampa,Capital,1997,2329.0
+La Pampa,Catriló,1997,2170.0
+La Pampa,Chapaleufú,1997,2401.0
+La Pampa,Conhelo,1997,2500.0
+La Pampa,Guatraché,1997,2220.0
+La Pampa,Hucal,1997,2199.0
+La Pampa,Loventué,1997,1818.0
+La Pampa,Maracó,1997,2699.0
+La Pampa,Quemú Quemú,1997,2701.0
+La Pampa,Rancul,1997,2201.0
+La Pampa,Realicó,1997,2181.0
+La Pampa,Toay,1997,2068.0
+La Pampa,Trenel,1997,2401.0
+La Pampa,Utracán,1997,2209.0
+Santa Fe,9 de Julio,1997,900.0
+Santa Fe,Belgrano,1997,1500.0
+Santa Fe,Caseros,1997,2181.0
+Santa Fe,Castellanos,1997,800.0
+Santa Fe,Garay,1997,1400.0
+Santa Fe,General López,1997,2650.0
+Santa Fe,General Obligado,1997,1350.0
+Santa Fe,Iriondo,1997,1500.0
+Santa Fe,La Capital,1997,1281.0
+Santa Fe,Las Colonias,1997,1450.0
+Santa Fe,Rosario,1997,2371.0
+Santa Fe,San Cristóbal,1997,1103.0
+Santa Fe,San Javier,1997,767.0
+Santa Fe,San Jerónimo,1997,1300.0
+Santa Fe,San Justo,1997,1000.0
+Santa Fe,San Lorenzo,1997,2079.0
+Santa Fe,San Martín,1997,1000.0
+Santa Fe,Vera,1997,850.0
+Santa Fe,Villa Constitución,1997,2550.0
+Buenos Aires,25 de Mayo,1998,3712.0
+Buenos Aires,9 de Julio,1998,3621.0
+Buenos Aires,Adolfo Alsina,1998,1875.0
+Buenos Aires,Adolfo Gonzales Chaves,1998,2245.0
+Buenos Aires,Alberti,1998,3737.0
+Buenos Aires,Arrecifes,1998,3085.0
+Buenos Aires,Ayacucho,1998,2364.0
+Buenos Aires,Azul,1998,2655.0
+Buenos Aires,Bahía Blanca,1998,803.0
+Buenos Aires,Balcarce,1998,2625.0
+Buenos Aires,Baradero,1998,3120.0
+Buenos Aires,Benito Juárez,1998,2410.0
+Buenos Aires,Bolívar,1998,2941.0
+Buenos Aires,Bragado,1998,3700.0
+Buenos Aires,Campana,1998,2750.0
+Buenos Aires,Cañuelas,1998,3333.0
+Buenos Aires,Capitán Sarmiento,1998,2993.0
+Buenos Aires,Carlos Casares,1998,3226.0
+Buenos Aires,Carlos Tejedor,1998,2667.0
+Buenos Aires,Carmen de Areco,1998,2900.0
+Buenos Aires,Castelli,1998,2087.0
+Buenos Aires,Chacabuco,1998,2853.0
+Buenos Aires,Chascomús,1998,3293.0
+Buenos Aires,Chivilcoy,1998,3871.0
+Buenos Aires,Colón,1998,3059.0
+Buenos Aires,Coronel de Marina Leonardo Rosales,1998,1051.0
+Buenos Aires,Coronel Dorrego,1998,1891.0
+Buenos Aires,Coronel Pringles,1998,1932.0
+Buenos Aires,Coronel Suárez,1998,2363.0
+Buenos Aires,Daireaux,1998,2842.0
+Buenos Aires,Dolores,1998,2105.0
+Buenos Aires,Exaltación de la Cruz,1998,2941.0
+Buenos Aires,Florentino Ameghino,1998,3000.0
+Buenos Aires,General Alvarado,1998,2567.0
+Buenos Aires,General Alvear,1998,3000.0
+Buenos Aires,General Arenales,1998,2875.0
+Buenos Aires,General Belgrano,1998,3425.0
+Buenos Aires,General Guido,1998,2000.0
+Buenos Aires,General Juan Madariaga,1998,2326.0
+Buenos Aires,General La Madrid,1998,2301.0
+Buenos Aires,General Las Heras,1998,2909.0
+Buenos Aires,General Lavalle,1998,2105.0
+Buenos Aires,General Pinto,1998,3222.0
+Buenos Aires,General Pueyrredón,1998,2439.0
+Buenos Aires,General Rodríguez,1998,3000.0
+Buenos Aires,General Viamonte,1998,3200.0
+Buenos Aires,General Villegas,1998,2625.0
+Buenos Aires,Guaminí,1998,2184.0
+Buenos Aires,Hipólito Yrigoyen,1998,2900.0
+Buenos Aires,Junín,1998,2956.0
+Buenos Aires,Laprida,1998,2203.0
+Buenos Aires,Las Flores,1998,3095.0
+Buenos Aires,Leandro N. Alem,1998,3000.0
+Buenos Aires,Lincoln,1998,2925.0
+Buenos Aires,Lobería,1998,2438.0
+Buenos Aires,Lobos,1998,3375.0
+Buenos Aires,Luján,1998,2778.0
+Buenos Aires,Maipú,1998,2000.0
+Buenos Aires,Mar Chiquita,1998,2435.0
+Buenos Aires,Marcos Paz,1998,3000.0
+Buenos Aires,Mercedes,1998,3150.0
+Buenos Aires,Monte,1998,3294.0
+Buenos Aires,Navarro,1998,3500.0
+Buenos Aires,Necochea,1998,2908.0
+Buenos Aires,Olavarría,1998,2727.0
+Buenos Aires,Patagones,1998,922.0
+Buenos Aires,Pehuajó,1998,2625.0
+Buenos Aires,Pellegrini,1998,1700.0
+Buenos Aires,Pergamino,1998,2914.0
+Buenos Aires,Pilar,1998,2750.0
+Buenos Aires,Puán,1998,1814.0
+Buenos Aires,Ramallo,1998,2703.0
+Buenos Aires,Rauch,1998,2747.0
+Buenos Aires,Rivadavia,1998,2667.0
+Buenos Aires,Rojas,1998,3105.0
+Buenos Aires,Roque Pérez,1998,3500.0
+Buenos Aires,Saavedra,1998,1905.0
+Buenos Aires,Saladillo,1998,3514.0
+Buenos Aires,Salliqueló,1998,2100.0
+Buenos Aires,Salto,1998,2851.0
+Buenos Aires,San Andrés de Giles,1998,3333.0
+Buenos Aires,San Antonio de Areco,1998,3130.0
+Buenos Aires,San Cayetano,1998,2337.0
+Buenos Aires,San Nicolás,1998,2511.0
+Buenos Aires,San Pedro,1998,2851.0
+Buenos Aires,Suipacha,1998,3500.0
+Buenos Aires,Tandil,1998,2802.0
+Buenos Aires,Tapalqué,1998,2609.0
+Buenos Aires,Tornquist,1998,1652.0
+Buenos Aires,Trenque Lauquen,1998,2917.0
+Buenos Aires,Tres Arroyos,1998,2695.0
+Buenos Aires,Tres Lomas,1998,1941.0
+Buenos Aires,Villarino,1998,769.0
+Buenos Aires,Zárate,1998,3056.0
+Córdoba,Calamuchita,1998,1810.0
+Córdoba,Capital,1998,2250.0
+Córdoba,Colón,1998,1697.0
+Córdoba,General Roca,1998,2495.0
+Córdoba,General San Martín,1998,2000.0
+Córdoba,Juárez Celman,1998,1818.0
+Córdoba,Marcos Juárez,1998,2138.0
+Córdoba,Presidente Roque Sáenz Peña,1998,2422.0
+Córdoba,Río Cuarto,1998,1905.0
+Córdoba,Río Primero,1998,2098.0
+Córdoba,Río Segundo,1998,2426.0
+Córdoba,San Alberto,1998,3167.0
+Córdoba,San Javier,1998,3067.0
+Córdoba,San Justo,1998,2062.0
+Córdoba,Santa María,1998,1929.0
+Córdoba,Tercero Arriba,1998,2212.0
+Córdoba,Totoral,1998,2895.0
+Córdoba,Tulumba,1998,0.0
+Córdoba,Unión,1998,2000.0
+Entre Ríos,Colón,1998,2000.0
+Entre Ríos,Concordia,1998,2000.0
+Entre Ríos,Diamante,1998,2607.0
+Entre Ríos,Federación,1998,1800.0
+Entre Ríos,Federal,1998,1885.0
+Entre Ríos,Feliciano,1998,1818.0
+Entre Ríos,Gualeguay,1998,3227.0
+Entre Ríos,Gualeguaychú,1998,2515.0
+Entre Ríos,La Paz,1998,1948.0
+Entre Ríos,Nogoyá,1998,2714.0
+Entre Ríos,Paraná,1998,2415.0
+Entre Ríos,Tala,1998,2500.0
+Entre Ríos,Uruguay,1998,2250.0
+Entre Ríos,Victoria,1998,3000.0
+Entre Ríos,Villaguay,1998,2200.0
+La Pampa,Atreucó,1998,2009.0
+La Pampa,Caleu Caleu,1998,600.0
+La Pampa,Capital,1998,1818.0
+La Pampa,Catriló,1998,1960.0
+La Pampa,Chapaleufú,1998,2070.0
+La Pampa,Conhelo,1998,2111.0
+La Pampa,Guatraché,1998,1604.0
+La Pampa,Hucal,1998,702.0
+La Pampa,Loventué,1998,1565.0
+La Pampa,Maracó,1998,2204.0
+La Pampa,Quemú Quemú,1998,2194.0
+La Pampa,Rancul,1998,2079.0
+La Pampa,Realicó,1998,2125.0
+La Pampa,Toay,1998,1417.0
+La Pampa,Trenel,1998,2128.0
+La Pampa,Utracán,1998,800.0
+Santa Fe,9 de Julio,1998,2455.0
+Santa Fe,Belgrano,1998,2311.0
+Santa Fe,Caseros,1998,2857.0
+Santa Fe,Castellanos,1998,2308.0
+Santa Fe,Garay,1998,2400.0
+Santa Fe,General López,1998,2959.0
+Santa Fe,General Obligado,1998,1845.0
+Santa Fe,Iriondo,1998,2347.0
+Santa Fe,La Capital,1998,2439.0
+Santa Fe,Las Colonias,1998,2467.0
+Santa Fe,Rosario,1998,2462.0
+Santa Fe,San Cristóbal,1998,1917.0
+Santa Fe,San Javier,1998,2121.0
+Santa Fe,San Jerónimo,1998,2304.0
+Santa Fe,San Justo,1998,2250.0
+Santa Fe,San Lorenzo,1998,2583.0
+Santa Fe,San Martín,1998,2421.0
+Santa Fe,Vera,1998,2424.0
+Santa Fe,Villa Constitución,1998,2778.0
+Buenos Aires,25 de Mayo,1999,3307.0
+Buenos Aires,9 de Julio,1999,3576.0
+Buenos Aires,Adolfo Alsina,1999,1420.0
+Buenos Aires,Adolfo Gonzales Chaves,1999,2601.0
+Buenos Aires,Alberti,1999,3661.0
+Buenos Aires,Arrecifes,1999,3174.0
+Buenos Aires,Ayacucho,1999,2823.0
+Buenos Aires,Azul,1999,3134.0
+Buenos Aires,Bahía Blanca,1999,1174.0
+Buenos Aires,Balcarce,1999,3225.0
+Buenos Aires,Baradero,1999,3037.0
+Buenos Aires,Benito Juárez,1999,2942.0
+Buenos Aires,Bolívar,1999,2714.0
+Buenos Aires,Bragado,1999,3625.0
+Buenos Aires,Campana,1999,2800.0
+Buenos Aires,Cañuelas,1999,3111.0
+Buenos Aires,Capitán Sarmiento,1999,3101.0
+Buenos Aires,Carlos Casares,1999,2852.0
+Buenos Aires,Carlos Tejedor,1999,2672.0
+Buenos Aires,Carmen de Areco,1999,3015.0
+Buenos Aires,Castelli,1999,2759.0
+Buenos Aires,Chacabuco,1999,3233.0
+Buenos Aires,Chascomús,1999,3273.0
+Buenos Aires,Chivilcoy,1999,3691.0
+Buenos Aires,Colón,1999,3321.0
+Buenos Aires,Coronel de Marina Leonardo Rosales,1999,1286.0
+Buenos Aires,Coronel Dorrego,1999,1750.0
+Buenos Aires,Coronel Pringles,1999,1716.0
+Buenos Aires,Coronel Suárez,1999,1623.0
+Buenos Aires,Daireaux,1999,2239.0
+Buenos Aires,Dolores,1999,2680.0
+Buenos Aires,Exaltación de la Cruz,1999,3222.0
+Buenos Aires,Florentino Ameghino,1999,2833.0
+Buenos Aires,General Alvarado,1999,3111.0
+Buenos Aires,General Alvear,1999,2900.0
+Buenos Aires,General Arenales,1999,2929.0
+Buenos Aires,General Belgrano,1999,3158.0
+Buenos Aires,General Guido,1999,2551.0
+Buenos Aires,General Juan Madariaga,1999,2898.0
+Buenos Aires,General La Madrid,1999,1520.0
+Buenos Aires,General Las Heras,1999,3000.0
+Buenos Aires,General Lavalle,1999,2542.0
+Buenos Aires,General Pinto,1999,3125.0
+Buenos Aires,General Pueyrredón,1999,3015.0
+Buenos Aires,General Rodríguez,1999,2800.0
+Buenos Aires,General Viamonte,1999,3035.0
+Buenos Aires,General Villegas,1999,2964.0
+Buenos Aires,Guaminí,1999,1711.0
+Buenos Aires,Hipólito Yrigoyen,1999,2750.0
+Buenos Aires,Junín,1999,3128.0
+Buenos Aires,Laprida,1999,2222.0
+Buenos Aires,Las Flores,1999,3000.0
+Buenos Aires,Leandro N. Alem,1999,3227.0
+Buenos Aires,Lincoln,1999,3038.0
+Buenos Aires,Lobería,1999,2922.0
+Buenos Aires,Lobos,1999,3100.0
+Buenos Aires,Luján,1999,2889.0
+Buenos Aires,Maipú,1999,2706.0
+Buenos Aires,Mar Chiquita,1999,2813.0
+Buenos Aires,Marcos Paz,1999,3000.0
+Buenos Aires,Mercedes,1999,3000.0
+Buenos Aires,Monte,1999,3000.0
+Buenos Aires,Navarro,1999,3111.0
+Buenos Aires,Necochea,1999,3096.0
+Buenos Aires,Olavarría,1999,2833.0
+Buenos Aires,Patagones,1999,1029.0
+Buenos Aires,Pehuajó,1999,2769.0
+Buenos Aires,Pellegrini,1999,1922.0
+Buenos Aires,Pergamino,1999,3368.0
+Buenos Aires,Pilar,1999,3000.0
+Buenos Aires,Puán,1999,1021.0
+Buenos Aires,Ramallo,1999,2847.0
+Buenos Aires,Rauch,1999,2802.0
+Buenos Aires,Rivadavia,1999,2779.0
+Buenos Aires,Rojas,1999,3231.0
+Buenos Aires,Roque Pérez,1999,3176.0
+Buenos Aires,Saavedra,1999,1222.0
+Buenos Aires,Saladillo,1999,3259.0
+Buenos Aires,Salliqueló,1999,1400.0
+Buenos Aires,Salto,1999,3263.0
+Buenos Aires,San Andrés de Giles,1999,3040.0
+Buenos Aires,San Antonio de Areco,1999,3115.0
+Buenos Aires,San Cayetano,1999,2802.0
+Buenos Aires,San Nicolás,1999,2911.0
+Buenos Aires,San Pedro,1999,2935.0
+Buenos Aires,Suipacha,1999,3500.0
+Buenos Aires,Tandil,1999,3210.0
+Buenos Aires,Tapalqué,1999,2833.0
+Buenos Aires,Tornquist,1999,1120.0
+Buenos Aires,Trenque Lauquen,1999,2731.0
+Buenos Aires,Tres Arroyos,1999,3000.0
+Buenos Aires,Tres Lomas,1999,1406.0
+Buenos Aires,Villarino,1999,1013.0
+Buenos Aires,Zárate,1999,3000.0
+Córdoba,Calamuchita,1999,2000.0
+Córdoba,Capital,1999,2250.0
+Córdoba,Colón,1999,2438.0
+Córdoba,General Roca,1999,2201.0
+Córdoba,General San Martín,1999,2321.0
+Córdoba,Juárez Celman,1999,2185.0
+Córdoba,Marcos Juárez,1999,3250.0
+Córdoba,Presidente Roque Sáenz Peña,1999,2208.0
+Córdoba,Río Cuarto,1999,2138.0
+Córdoba,Río Primero,1999,2620.0
+Córdoba,Río Segundo,1999,2261.0
+Córdoba,San Alberto,1999,1500.0
+Córdoba,San Javier,1999,1222.0
+Córdoba,San Justo,1999,2485.0
+Córdoba,Santa María,1999,2233.0
+Córdoba,Tercero Arriba,1999,2273.0
+Córdoba,Totoral,1999,2667.0
+Córdoba,Tulumba,1999,1600.0
+Córdoba,Unión,1999,3100.0
+Entre Ríos,Colón,1999,1750.0
+Entre Ríos,Concordia,1999,2095.0
+Entre Ríos,Diamante,1999,2199.0
+Entre Ríos,Federación,1999,1920.0
+Entre Ríos,Federal,1999,2000.0
+Entre Ríos,Feliciano,1999,1882.0
+Entre Ríos,Gualeguay,1999,2200.0
+Entre Ríos,Gualeguaychú,1999,1950.0
+Entre Ríos,La Paz,1999,1901.0
+Entre Ríos,Nogoyá,1999,2000.0
+Entre Ríos,Paraná,1999,2101.0
+Entre Ríos,Tala,1999,1800.0
+Entre Ríos,Uruguay,1999,1800.0
+Entre Ríos,Victoria,1999,2300.0
+Entre Ríos,Villaguay,1999,1697.0
+La Pampa,Atreucó,1999,2308.0
+La Pampa,Caleu Caleu,1999,923.0
+La Pampa,Capital,1999,2273.0
+La Pampa,Catriló,1999,2310.0
+La Pampa,Chapaleufú,1999,2319.0
+La Pampa,Conhelo,1999,2300.0
+La Pampa,Guatraché,1999,1960.0
+La Pampa,Hucal,1999,1006.0
+La Pampa,Loventué,1999,2000.0
+La Pampa,Maracó,1999,2342.0
+La Pampa,Quemú Quemú,1999,2300.0
+La Pampa,Rancul,1999,2160.0
+La Pampa,Realicó,1999,2310.0
+La Pampa,Toay,1999,1948.0
+La Pampa,Trenel,1999,2127.0
+La Pampa,Utracán,1999,1646.0
+Santa Fe,9 de Julio,1999,1789.0
+Santa Fe,Belgrano,1999,3107.0
+Santa Fe,Caseros,1999,3058.0
+Santa Fe,Castellanos,1999,2764.0
+Santa Fe,Garay,1999,2400.0
+Santa Fe,General López,1999,3319.0
+Santa Fe,General Obligado,1999,1732.0
+Santa Fe,Iriondo,1999,3113.0
+Santa Fe,La Capital,1999,2520.0
+Santa Fe,Las Colonias,1999,2510.0
+Santa Fe,Rosario,1999,3051.0
+Santa Fe,San Cristóbal,1999,2411.0
+Santa Fe,San Javier,1999,1593.0
+Santa Fe,San Jerónimo,1999,2976.0
+Santa Fe,San Justo,1999,2333.0
+Santa Fe,San Lorenzo,1999,3067.0
+Santa Fe,San Martín,1999,3105.0
+Santa Fe,Vera,1999,1859.0
+Santa Fe,Villa Constitución,1999,3063.0
+Buenos Aires,25 de Mayo,2000,2890.0
+Buenos Aires,9 de Julio,2000,2500.0
+Buenos Aires,Adolfo Alsina,2000,2819.0
+Buenos Aires,Adolfo Gonzales Chaves,2000,2993.0
+Buenos Aires,Alberti,2000,3000.0
+Buenos Aires,Arrecifes,2000,2626.0
+Buenos Aires,Ayacucho,2000,2995.0
+Buenos Aires,Azul,2000,3500.0
+Buenos Aires,Bahía Blanca,2000,1736.0
+Buenos Aires,Balcarce,2000,3425.0
+Buenos Aires,Baradero,2000,2100.0
+Buenos Aires,Benito Juárez,2000,3190.0
+Buenos Aires,Bolívar,2000,2904.0
+Buenos Aires,Bragado,2000,3000.0
+Buenos Aires,Campana,2000,2300.0
+Buenos Aires,Cañuelas,2000,2702.0
+Buenos Aires,Capitán Sarmiento,2000,2500.0
+Buenos Aires,Carlos Casares,2000,3000.0
+Buenos Aires,Carlos Tejedor,2000,2209.0
+Buenos Aires,Carmen de Areco,2000,3000.0
+Buenos Aires,Castelli,2000,2700.0
+Buenos Aires,Chacabuco,2000,3000.0
+Buenos Aires,Chascomús,2000,2705.0
+Buenos Aires,Chivilcoy,2000,2200.0
+Buenos Aires,Colón,2000,2500.0
+Buenos Aires,Coronel de Marina Leonardo Rosales,2000,1838.0
+Buenos Aires,Coronel Dorrego,2000,2297.0
+Buenos Aires,Coronel Pringles,2000,2392.0
+Buenos Aires,Coronel Suárez,2000,2805.0
+Buenos Aires,Daireaux,2000,3000.0
+Buenos Aires,Dolores,2000,2700.0
+Buenos Aires,Exaltación de la Cruz,2000,2700.0
+Buenos Aires,Florentino Ameghino,2000,2636.0
+Buenos Aires,General Alvarado,2000,3502.0
+Buenos Aires,General Alvear,2000,2800.0
+Buenos Aires,General Arenales,2000,3200.0
+Buenos Aires,General Belgrano,2000,2800.0
+Buenos Aires,General Guido,2000,2600.0
+Buenos Aires,General Juan Madariaga,2000,3103.0
+Buenos Aires,General La Madrid,2000,2707.0
+Buenos Aires,General Las Heras,2000,2800.0
+Buenos Aires,General Lavalle,2000,2712.0
+Buenos Aires,General Pinto,2000,2647.0
+Buenos Aires,General Pueyrredón,2000,3396.0
+Buenos Aires,General Rodríguez,2000,2800.0
+Buenos Aires,General Viamonte,2000,3067.0
+Buenos Aires,General Villegas,2000,2889.0
+Buenos Aires,Guaminí,2000,2911.0
+Buenos Aires,Hipólito Yrigoyen,2000,2900.0
+Buenos Aires,Junín,2000,3000.0
+Buenos Aires,Laprida,2000,2791.0
+Buenos Aires,Las Flores,2000,2700.0
+Buenos Aires,Leandro N. Alem,2000,3067.0
+Buenos Aires,Lincoln,2000,2829.0
+Buenos Aires,Lobería,2000,3348.0
+Buenos Aires,Lobos,2000,2810.0
+Buenos Aires,Luján,2000,3000.0
+Buenos Aires,Maipú,2000,3014.0
+Buenos Aires,Mar Chiquita,2000,2995.0
+Buenos Aires,Marcos Paz,2000,2800.0
+Buenos Aires,Mercedes,2000,2404.0
+Buenos Aires,Monte,2000,2700.0
+Buenos Aires,Navarro,2000,2806.0
+Buenos Aires,Necochea,2000,3488.0
+Buenos Aires,Olavarría,2000,3189.0
+Buenos Aires,Patagones,2000,1823.0
+Buenos Aires,Pehuajó,2000,2904.0
+Buenos Aires,Pellegrini,2000,2800.0
+Buenos Aires,Pergamino,2000,2500.0
+Buenos Aires,Pilar,2000,2800.0
+Buenos Aires,Puán,2000,2402.0
+Buenos Aires,Ramallo,2000,2300.0
+Buenos Aires,Rauch,2000,3000.0
+Buenos Aires,Rivadavia,2000,2800.0
+Buenos Aires,Rojas,2000,3211.0
+Buenos Aires,Roque Pérez,2000,2803.0
+Buenos Aires,Saavedra,2000,2500.0
+Buenos Aires,Saladillo,2000,2900.0
+Buenos Aires,Salliqueló,2000,3045.0
+Buenos Aires,Salto,2000,2600.0
+Buenos Aires,San Andrés de Giles,2000,3000.0
+Buenos Aires,San Antonio de Areco,2000,2700.0
+Buenos Aires,San Cayetano,2000,2891.0
+Buenos Aires,San Nicolás,2000,2400.0
+Buenos Aires,San Pedro,2000,2700.0
+Buenos Aires,Suipacha,2000,2800.0
+Buenos Aires,Tandil,2000,3548.0
+Buenos Aires,Tapalqué,2000,3000.0
+Buenos Aires,Tornquist,2000,2115.0
+Buenos Aires,Trenque Lauquen,2000,2899.0
+Buenos Aires,Tres Arroyos,2000,3190.0
+Buenos Aires,Tres Lomas,2000,2950.0
+Buenos Aires,Villarino,2000,1840.0
+Buenos Aires,Zárate,2000,2200.0
+Córdoba,Calamuchita,2000,2010.0
+Córdoba,Capital,2000,1667.0
+Córdoba,Colón,2000,2333.0
+Córdoba,General Roca,2000,2504.0
+Córdoba,General San Martín,2000,2300.0
+Córdoba,Juárez Celman,2000,2011.0
+Córdoba,Marcos Juárez,2000,2517.0
+Córdoba,Presidente Roque Sáenz Peña,2000,2421.0
+Córdoba,Río Cuarto,2000,2000.0
+Córdoba,Río Primero,2000,2247.0
+Córdoba,Río Segundo,2000,2201.0
+Córdoba,San Alberto,2000,2000.0
+Córdoba,San Javier,2000,2000.0
+Córdoba,San Justo,2000,2327.0
+Córdoba,Santa María,2000,1727.0
+Córdoba,Tercero Arriba,2000,1902.0
+Córdoba,Totoral,2000,2424.0
+Córdoba,Tulumba,2000,1933.0
+Córdoba,Unión,2000,2307.0
+Entre Ríos,Colón,2000,1400.0
+Entre Ríos,Concordia,2000,1911.0
+Entre Ríos,Diamante,2000,2107.0
+Entre Ríos,Federación,2000,1900.0
+Entre Ríos,Federal,2000,1900.0
+Entre Ríos,Feliciano,2000,1800.0
+Entre Ríos,Gualeguay,2000,1905.0
+Entre Ríos,Gualeguaychú,2000,1811.0
+Entre Ríos,La Paz,2000,2110.0
+Entre Ríos,Nogoyá,2000,1802.0
+Entre Ríos,Paraná,2000,2000.0
+Entre Ríos,Tala,2000,1500.0
+Entre Ríos,Uruguay,2000,1400.0
+Entre Ríos,Victoria,2000,2105.0
+Entre Ríos,Villaguay,2000,1506.0
+La Pampa,Atreucó,2000,2257.0
+La Pampa,Caleu Caleu,2000,929.0
+La Pampa,Capital,2000,2264.0
+La Pampa,Catriló,2000,2326.0
+La Pampa,Chapaleufú,2000,2500.0
+La Pampa,Conhelo,2000,2000.0
+La Pampa,Guatraché,2000,2126.0
+La Pampa,Hucal,2000,1804.0
+La Pampa,Loventué,2000,2000.0
+La Pampa,Maracó,2000,2500.0
+La Pampa,Quemú Quemú,2000,2500.0
+La Pampa,Rancul,2000,2300.0
+La Pampa,Realicó,2000,2290.0
+La Pampa,Toay,2000,1988.0
+La Pampa,Trenel,2000,2300.0
+La Pampa,Utracán,2000,1907.0
+Santa Fe,9 de Julio,2000,1650.0
+Santa Fe,Belgrano,2000,2205.0
+Santa Fe,Caseros,2000,2000.0
+Santa Fe,Castellanos,2000,2300.0
+Santa Fe,Garay,2000,2200.0
+Santa Fe,General López,2000,2503.0
+Santa Fe,General Obligado,2000,1750.0
+Santa Fe,Iriondo,2000,2000.0
+Santa Fe,La Capital,2000,2100.0
+Santa Fe,Las Colonias,2000,2200.0
+Santa Fe,Rosario,2000,2000.0
+Santa Fe,San Cristóbal,2000,2300.0
+Santa Fe,San Javier,2000,1406.0
+Santa Fe,San Jerónimo,2000,2202.0
+Santa Fe,San Justo,2000,1900.0
+Santa Fe,San Lorenzo,2000,2060.0
+Santa Fe,San Martín,2000,2400.0
+Santa Fe,Vera,2000,1900.0
+Santa Fe,Villa Constitución,2000,2207.0
+Buenos Aires,25 de Mayo,2001,1706.0
+Buenos Aires,9 de Julio,2001,2211.0
+Buenos Aires,Adolfo Alsina,2001,2199.0
+Buenos Aires,Adolfo Gonzales Chaves,2001,3052.0
+Buenos Aires,Alberti,2001,1806.0
+Buenos Aires,Arrecifes,2001,1913.0
+Buenos Aires,Ayacucho,2001,2652.0
+Buenos Aires,Azul,2001,3037.0
+Buenos Aires,Bahía Blanca,2001,1846.0
+Buenos Aires,Balcarce,2001,3027.0
+Buenos Aires,Baradero,2001,1517.0
+Buenos Aires,Benito Juárez,2001,2869.0
+Buenos Aires,Bolívar,2001,2500.0
+Buenos Aires,Bragado,2001,2000.0
+Buenos Aires,Campana,2001,1167.0
+Buenos Aires,Cañuelas,2001,1805.0
+Buenos Aires,Capitán Sarmiento,2001,1935.0
+Buenos Aires,Carlos Casares,2001,2604.0
+Buenos Aires,Carlos Tejedor,2001,2514.0
+Buenos Aires,Carmen de Areco,2001,2000.0
+Buenos Aires,Castelli,2001,2653.0
+Buenos Aires,Chacabuco,2001,1800.0
+Buenos Aires,Chascomús,2001,1724.0
+Buenos Aires,Chivilcoy,2001,1807.0
+Buenos Aires,Colón,2001,2438.0
+Buenos Aires,Coronel de Marina Leonardo Rosales,2001,1812.0
+Buenos Aires,Coronel Dorrego,2001,2220.0
+Buenos Aires,Coronel Pringles,2001,2430.0
+Buenos Aires,Coronel Suárez,2001,2616.0
+Buenos Aires,Daireaux,2001,2700.0
+Buenos Aires,Dolores,2001,2609.0
+Buenos Aires,Exaltación de la Cruz,2001,1222.0
+Buenos Aires,Florentino Ameghino,2001,2304.0
+Buenos Aires,General Alvarado,2001,2968.0
+Buenos Aires,General Alvear,2001,2625.0
+Buenos Aires,General Arenales,2001,1814.0
+Buenos Aires,General Belgrano,2001,1813.0
+Buenos Aires,General Guido,2001,2653.0
+Buenos Aires,General Juan Madariaga,2001,2715.0
+Buenos Aires,General La Madrid,2001,2616.0
+Buenos Aires,General Las Heras,2001,1800.0
+Buenos Aires,General Lavalle,2001,2653.0
+Buenos Aires,General Pinto,2001,2407.0
+Buenos Aires,General Pueyrredón,2001,2909.0
+Buenos Aires,General Rodríguez,2001,1800.0
+Buenos Aires,General Viamonte,2001,2222.0
+Buenos Aires,General Villegas,2001,2202.0
+Buenos Aires,Guaminí,2001,2026.0
+Buenos Aires,Hipólito Yrigoyen,2001,2417.0
+Buenos Aires,Junín,2001,1806.0
+Buenos Aires,Laprida,2001,2830.0
+Buenos Aires,Las Flores,2001,1752.0
+Buenos Aires,Leandro N. Alem,2001,2302.0
+Buenos Aires,Lincoln,2001,2600.0
+Buenos Aires,Lobería,2001,2823.0
+Buenos Aires,Lobos,2001,1916.0
+Buenos Aires,Luján,2001,1813.0
+Buenos Aires,Maipú,2001,2711.0
+Buenos Aires,Mar Chiquita,2001,2712.0
+Buenos Aires,Marcos Paz,2001,1800.0
+Buenos Aires,Mercedes,2001,1200.0
+Buenos Aires,Monte,2001,1828.0
+Buenos Aires,Navarro,2001,1799.0
+Buenos Aires,Necochea,2001,3471.0
+Buenos Aires,Olavarría,2001,3013.0
+Buenos Aires,Patagones,2001,1860.0
+Buenos Aires,Pehuajó,2001,2500.0
+Buenos Aires,Pellegrini,2001,1905.0
+Buenos Aires,Pergamino,2001,2286.0
+Buenos Aires,Pilar,2001,1800.0
+Buenos Aires,Puán,2001,2312.0
+Buenos Aires,Ramallo,2001,2000.0
+Buenos Aires,Rauch,2001,2704.0
+Buenos Aires,Rivadavia,2001,2600.0
+Buenos Aires,Rojas,2001,2206.0
+Buenos Aires,Roque Pérez,2001,1813.0
+Buenos Aires,Saavedra,2001,2418.0
+Buenos Aires,Saladillo,2001,1698.0
+Buenos Aires,Salliqueló,2001,1667.0
+Buenos Aires,Salto,2001,2423.0
+Buenos Aires,San Andrés de Giles,2001,1500.0
+Buenos Aires,San Antonio de Areco,2001,1800.0
+Buenos Aires,San Cayetano,2001,2719.0
+Buenos Aires,San Nicolás,2001,1813.0
+Buenos Aires,San Pedro,2001,2071.0
+Buenos Aires,Suipacha,2001,1208.0
+Buenos Aires,Tandil,2001,2966.0
+Buenos Aires,Tapalqué,2001,3000.0
+Buenos Aires,Tornquist,2001,2305.0
+Buenos Aires,Trenque Lauquen,2001,2607.0
+Buenos Aires,Tres Arroyos,2001,3376.0
+Buenos Aires,Tres Lomas,2001,1778.0
+Buenos Aires,Villarino,2001,1957.0
+Buenos Aires,Zárate,2001,1200.0
+Córdoba,Calamuchita,2001,2000.0
+Córdoba,Capital,2001,1800.0
+Córdoba,Colón,2001,2810.0
+Córdoba,General Roca,2001,2300.0
+Córdoba,General San Martín,2001,2000.0
+Córdoba,Juárez Celman,2001,1800.0
+Córdoba,Marcos Juárez,2001,2280.0
+Córdoba,Presidente Roque Sáenz Peña,2001,2535.0
+Córdoba,Río Cuarto,2001,1800.0
+Córdoba,Río Primero,2001,2602.0
+Córdoba,Río Seco,2001,2700.0
+Córdoba,Río Segundo,2001,2151.0
+Córdoba,San Alberto,2001,2000.0
+Córdoba,San Javier,2001,2000.0
+Córdoba,San Justo,2001,2400.0
+Córdoba,Santa María,2001,1705.0
+Córdoba,Tercero Arriba,2001,1907.0
+Córdoba,Totoral,2001,2800.0
+Córdoba,Tulumba,2001,2702.0
+Córdoba,Unión,2001,2422.0
+Entre Ríos,Colón,2001,907.0
+Entre Ríos,Concordia,2001,1705.0
+Entre Ríos,Diamante,2001,1409.0
+Entre Ríos,Federación,2001,1600.0
+Entre Ríos,Federal,2001,1622.0
+Entre Ríos,Feliciano,2001,1632.0
+Entre Ríos,Gualeguay,2001,1300.0
+Entre Ríos,Gualeguaychú,2001,1205.0
+Entre Ríos,La Paz,2001,1622.0
+Entre Ríos,Nogoyá,2001,1200.0
+Entre Ríos,Paraná,2001,1410.0
+Entre Ríos,Tala,2001,1111.0
+Entre Ríos,Uruguay,2001,1216.0
+Entre Ríos,Victoria,2001,1303.0
+Entre Ríos,Villaguay,2001,1010.0
+La Pampa,Atreucó,2001,1950.0
+La Pampa,Caleu Caleu,2001,1600.0
+La Pampa,Capital,2001,2000.0
+La Pampa,Catriló,2001,2100.0
+La Pampa,Chapaleufú,2001,1953.0
+La Pampa,Conhelo,2001,1916.0
+La Pampa,Guatraché,2001,1980.0
+La Pampa,Hucal,2001,1850.0
+La Pampa,Maracó,2001,1899.0
+La Pampa,Quemú Quemú,2001,1900.0
+La Pampa,Rancul,2001,1847.0
+La Pampa,Realicó,2001,1807.0
+La Pampa,Toay,2001,1950.0
+La Pampa,Trenel,2001,1855.0
+La Pampa,Utracán,2001,1800.0
+Santa Fe,9 de Julio,2001,1400.0
+Santa Fe,Belgrano,2001,1800.0
+Santa Fe,Caseros,2001,1750.0
+Santa Fe,Castellanos,2001,1963.0
+Santa Fe,Garay,2001,1600.0
+Santa Fe,General López,2001,2492.0
+Santa Fe,General Obligado,2001,1500.0
+Santa Fe,Iriondo,2001,1900.0
+Santa Fe,La Capital,2001,1610.0
+Santa Fe,Las Colonias,2001,1869.0
+Santa Fe,Rosario,2001,1750.0
+Santa Fe,San Cristóbal,2001,2357.0
+Santa Fe,San Javier,2001,1200.0
+Santa Fe,San Jerónimo,2001,1800.0
+Santa Fe,San Justo,2001,1757.0
+Santa Fe,San Lorenzo,2001,1800.0
+Santa Fe,San Martín,2001,1800.0
+Santa Fe,Vera,2001,1600.0
+Santa Fe,Villa Constitución,2001,1750.0
+Buenos Aires,25 de Mayo,2002,2000.0
+Buenos Aires,9 de Julio,2002,2000.0
+Buenos Aires,Adolfo Alsina,2002,2200.0
+Buenos Aires,Adolfo Gonzales Chaves,2002,2495.0
+Buenos Aires,Alberti,2002,2200.0
+Buenos Aires,Arrecifes,2002,1900.0
+Buenos Aires,Ayacucho,2002,1900.0
+Buenos Aires,Azul,2002,2300.0
+Buenos Aires,Bahía Blanca,2002,1700.0
+Buenos Aires,Balcarce,2002,2291.0
+Buenos Aires,Baradero,2002,1500.0
+Buenos Aires,Benito Juárez,2002,2150.0
+Buenos Aires,Bolívar,2002,1700.0
+Buenos Aires,Bragado,2002,2400.0
+Buenos Aires,Campana,2002,1500.0
+Buenos Aires,Cañuelas,2002,1899.0
+Buenos Aires,Capitán Sarmiento,2002,1800.0
+Buenos Aires,Carlos Casares,2002,2300.0
+Buenos Aires,Carlos Tejedor,2002,2400.0
+Buenos Aires,Carmen de Areco,2002,2000.0
+Buenos Aires,Castelli,2002,1805.0
+Buenos Aires,Chacabuco,2002,2100.0
+Buenos Aires,Chascomús,2002,2000.0
+Buenos Aires,Chivilcoy,2002,2000.0
+Buenos Aires,Colón,2002,2400.0
+Buenos Aires,Coronel de Marina Leonardo Rosales,2002,1721.0
+Buenos Aires,Coronel Dorrego,2002,1986.0
+Buenos Aires,Coronel Pringles,2002,1818.0
+Buenos Aires,Coronel Suárez,2002,2353.0
+Buenos Aires,Daireaux,2002,2200.0
+Buenos Aires,Dolores,2002,1796.0
+Buenos Aires,Exaltación de la Cruz,2002,1600.0
+Buenos Aires,Florentino Ameghino,2002,2500.0
+Buenos Aires,General Alvarado,2002,2250.0
+Buenos Aires,General Alvear,2002,1700.0
+Buenos Aires,General Arenales,2002,1600.0
+Buenos Aires,General Belgrano,2002,1899.0
+Buenos Aires,General Guido,2002,1806.0
+Buenos Aires,General Juan Madariaga,2002,2000.0
+Buenos Aires,General La Madrid,2002,2209.0
+Buenos Aires,General Las Heras,2002,2000.0
+Buenos Aires,General Lavalle,2002,1806.0
+Buenos Aires,General Pinto,2002,2500.0
+Buenos Aires,General Pueyrredón,2002,2250.0
+Buenos Aires,General Rodríguez,2002,2000.0
+Buenos Aires,General Viamonte,2002,2400.0
+Buenos Aires,General Villegas,2002,2800.0
+Buenos Aires,Guaminí,2002,2300.0
+Buenos Aires,Hipólito Yrigoyen,2002,1900.0
+Buenos Aires,Junín,2002,2200.0
+Buenos Aires,Laprida,2002,1840.0
+Buenos Aires,Las Flores,2002,1797.0
+Buenos Aires,Leandro N. Alem,2002,2400.0
+Buenos Aires,Lincoln,2002,2600.0
+Buenos Aires,Lobería,2002,2089.0
+Buenos Aires,Lobos,2002,2000.0
+Buenos Aires,Luján,2002,2000.0
+Buenos Aires,Maipú,2002,1951.0
+Buenos Aires,Mar Chiquita,2002,1900.0
+Buenos Aires,Marcos Paz,2002,1800.0
+Buenos Aires,Mercedes,2002,1900.0
+Buenos Aires,Monte,2002,1801.0
+Buenos Aires,Navarro,2002,1900.0
+Buenos Aires,Necochea,2002,2600.0
+Buenos Aires,Olavarría,2002,1800.0
+Buenos Aires,Patagones,2002,1750.0
+Buenos Aires,Pehuajó,2002,2400.0
+Buenos Aires,Pellegrini,2002,2300.0
+Buenos Aires,Pergamino,2002,2200.0
+Buenos Aires,Pilar,2002,1800.0
+Buenos Aires,Puán,2002,2312.0
+Buenos Aires,Ramallo,2002,1600.0
+Buenos Aires,Rauch,2002,2000.0
+Buenos Aires,Rivadavia,2002,2700.0
+Buenos Aires,Rojas,2002,2500.0
+Buenos Aires,Roque Pérez,2002,2099.0
+Buenos Aires,Saavedra,2002,2211.0
+Buenos Aires,Saladillo,2002,1899.0
+Buenos Aires,Salliqueló,2002,2200.0
+Buenos Aires,Salto,2002,2300.0
+Buenos Aires,San Andrés de Giles,2002,2000.0
+Buenos Aires,San Antonio de Areco,2002,1500.0
+Buenos Aires,San Cayetano,2002,2074.0
+Buenos Aires,San Nicolás,2002,2000.0
+Buenos Aires,San Pedro,2002,1600.0
+Buenos Aires,Suipacha,2002,1800.0
+Buenos Aires,Tandil,2002,2300.0
+Buenos Aires,Tapalqué,2002,1800.0
+Buenos Aires,Tornquist,2002,2111.0
+Buenos Aires,Trenque Lauquen,2002,2600.0
+Buenos Aires,Tres Arroyos,2002,2532.0
+Buenos Aires,Tres Lomas,2002,2200.0
+Buenos Aires,Villarino,2002,2011.0
+Buenos Aires,Zárate,2002,1500.0
+Córdoba,Calamuchita,2002,1200.0
+Córdoba,Capital,2002,1306.0
+Córdoba,Colón,2002,1500.0
+Córdoba,General Roca,2002,2300.0
+Córdoba,General San Martín,2002,1550.0
+Córdoba,Ischilín,2002,1800.0
+Córdoba,Juárez Celman,2002,1200.0
+Córdoba,Marcos Juárez,2002,2310.0
+Córdoba,Presidente Roque Sáenz Peña,2002,2400.0
+Córdoba,Río Cuarto,2002,1200.0
+Córdoba,Río Primero,2002,1900.0
+Córdoba,Río Seco,2002,1600.0
+Córdoba,Río Segundo,2002,1650.0
+Córdoba,San Alberto,2002,1200.0
+Córdoba,San Javier,2002,1200.0
+Córdoba,San Justo,2002,2000.0
+Córdoba,Santa María,2002,1100.0
+Córdoba,Tercero Arriba,2002,1200.0
+Córdoba,Totoral,2002,1600.0
+Córdoba,Tulumba,2002,1400.0
+Córdoba,Unión,2002,2250.0
+Entre Ríos,Colón,2002,1100.0
+Entre Ríos,Concordia,2002,1500.0
+Entre Ríos,Diamante,2002,2100.0
+Entre Ríos,Federación,2002,1900.0
+Entre Ríos,Federal,2002,1400.0
+Entre Ríos,Feliciano,2002,1400.0
+Entre Ríos,Gualeguay,2002,2000.0
+Entre Ríos,Gualeguaychú,2002,1600.0
+Entre Ríos,La Paz,2002,1600.0
+Entre Ríos,Nogoyá,2002,1700.0
+Entre Ríos,Paraná,2002,1900.0
+Entre Ríos,Tala,2002,1650.0
+Entre Ríos,Uruguay,2002,1500.0
+Entre Ríos,Victoria,2002,2100.0
+Entre Ríos,Villaguay,2002,1200.0
+La Pampa,Atreucó,2002,2058.0
+La Pampa,Caleu Caleu,2002,1800.0
+La Pampa,Capital,2002,1960.0
+La Pampa,Catriló,2002,2050.0
+La Pampa,Chapaleufú,2002,2252.0
+La Pampa,Conhelo,2002,2051.0
+La Pampa,Guatraché,2002,1957.0
+La Pampa,Hucal,2002,1900.0
+La Pampa,Maracó,2002,2150.0
+La Pampa,Puelén,2002,1800.0
+La Pampa,Quemú Quemú,2002,2152.0
+La Pampa,Rancul,2002,1949.0
+La Pampa,Realicó,2002,2150.0
+La Pampa,Toay,2002,2000.0
+La Pampa,Trenel,2002,1949.0
+La Pampa,Utracán,2002,1900.0
+Santa Fe,9 de Julio,2002,1800.0
+Santa Fe,Belgrano,2002,2100.0
+Santa Fe,Caseros,2002,2400.0
+Santa Fe,Castellanos,2002,2000.0
+Santa Fe,General López,2002,2050.0
+Santa Fe,General Obligado,2002,1700.0
+Santa Fe,Iriondo,2002,2300.0
+Santa Fe,La Capital,2002,1800.0
+Santa Fe,Las Colonias,2002,2100.0
+Santa Fe,Rosario,2002,2300.0
+Santa Fe,San Cristóbal,2002,2000.0
+Santa Fe,San Javier,2002,1600.0
+Santa Fe,San Jerónimo,2002,2100.0
+Santa Fe,San Justo,2002,1700.0
+Santa Fe,San Lorenzo,2002,2400.0
+Santa Fe,San Martín,2002,2300.0
+Santa Fe,Vera,2002,1500.0
+Santa Fe,Villa Constitución,2002,2300.0
+Buenos Aires,25 de Mayo,2003,3900.0
+Buenos Aires,9 de Julio,2003,3000.0
+Buenos Aires,Adolfo Alsina,2003,1500.0
+Buenos Aires,Adolfo Gonzales Chaves,2003,3497.0
+Buenos Aires,Alberti,2003,3300.0
+Buenos Aires,Arrecifes,2003,3100.0
+Buenos Aires,Ayacucho,2003,3600.0
+Buenos Aires,Azul,2003,4100.0
+Buenos Aires,Bahía Blanca,2003,1201.0
+Buenos Aires,Balcarce,2003,4203.0
+Buenos Aires,Baradero,2003,3000.0
+Buenos Aires,Benito Juárez,2003,4000.0
+Buenos Aires,Bolívar,2003,3000.0
+Buenos Aires,Bragado,2003,3500.0
+Buenos Aires,Campana,2003,2800.0
+Buenos Aires,Cañuelas,2003,3800.0
+Buenos Aires,Capitán Sarmiento,2003,3200.0
+Buenos Aires,Carlos Casares,2003,3500.0
+Buenos Aires,Carlos Tejedor,2003,3099.0
+Buenos Aires,Carmen de Areco,2003,3600.0
+Buenos Aires,Castelli,2003,3500.0
+Buenos Aires,Chacabuco,2003,3400.0
+Buenos Aires,Chascomús,2003,3600.0
+Buenos Aires,Chivilcoy,2003,3500.0
+Buenos Aires,Colón,2003,3300.0
+Buenos Aires,Coronel de Marina Leonardo Rosales,2003,1652.0
+Buenos Aires,Coronel Dorrego,2003,3000.0
+Buenos Aires,Coronel Pringles,2003,2209.0
+Buenos Aires,Coronel Suárez,2003,2200.0
+Buenos Aires,Daireaux,2003,2900.0
+Buenos Aires,Dolores,2003,3402.0
+Buenos Aires,Exaltación de la Cruz,2003,3200.0
+Buenos Aires,Florentino Ameghino,2003,3200.0
+Buenos Aires,General Alvarado,2003,4200.0
+Buenos Aires,General Alvear,2003,2900.0
+Buenos Aires,General Arenales,2003,3200.0
+Buenos Aires,General Belgrano,2003,3699.0
+Buenos Aires,General Guido,2003,3308.0
+Buenos Aires,General Juan Madariaga,2003,4000.0
+Buenos Aires,General La Madrid,2003,2200.0
+Buenos Aires,General Las Heras,2003,3000.0
+Buenos Aires,General Lavalle,2003,3308.0
+Buenos Aires,General Pinto,2003,3300.0
+Buenos Aires,General Pueyrredón,2003,4100.0
+Buenos Aires,General Rodríguez,2003,3000.0
+Buenos Aires,General Viamonte,2003,3500.0
+Buenos Aires,General Villegas,2003,3000.0
+Buenos Aires,Guaminí,2003,1800.0
+Buenos Aires,Hipólito Yrigoyen,2003,3200.0
+Buenos Aires,Junín,2003,3200.0
+Buenos Aires,Laprida,2003,2902.0
+Buenos Aires,Las Flores,2003,3699.0
+Buenos Aires,Leandro N. Alem,2003,3400.0
+Buenos Aires,Lincoln,2003,3500.0
+Buenos Aires,Lobería,2003,4001.0
+Buenos Aires,Lobos,2003,3701.0
+Buenos Aires,Luján,2003,2700.0
+Buenos Aires,Maipú,2003,3901.0
+Buenos Aires,Mar Chiquita,2003,3600.0
+Buenos Aires,Marcos Paz,2003,3000.0
+Buenos Aires,Mercedes,2003,2800.0
+Buenos Aires,Monte,2003,3701.0
+Buenos Aires,Navarro,2003,3699.0
+Buenos Aires,Necochea,2003,4098.0
+Buenos Aires,Olavarría,2003,3000.0
+Buenos Aires,Patagones,2003,1621.0
+Buenos Aires,Pehuajó,2003,3300.0
+Buenos Aires,Pellegrini,2003,1400.0
+Buenos Aires,Pergamino,2003,3200.0
+Buenos Aires,Pilar,2003,3000.0
+Buenos Aires,Puán,2003,1500.0
+Buenos Aires,Ramallo,2003,2901.0
+Buenos Aires,Rauch,2003,3701.0
+Buenos Aires,Rivadavia,2003,3300.0
+Buenos Aires,Rojas,2003,3500.0
+Buenos Aires,Roque Pérez,2003,3701.0
+Buenos Aires,Saavedra,2003,1700.0
+Buenos Aires,Saladillo,2003,3700.0
+Buenos Aires,Salliqueló,2003,1900.0
+Buenos Aires,Salto,2003,3400.0
+Buenos Aires,San Andrés de Giles,2003,3000.0
+Buenos Aires,San Antonio de Areco,2003,3300.0
+Buenos Aires,San Cayetano,2003,3493.0
+Buenos Aires,San Nicolás,2003,2800.0
+Buenos Aires,San Pedro,2003,2900.0
+Buenos Aires,Suipacha,2003,2800.0
+Buenos Aires,Tandil,2003,4200.0
+Buenos Aires,Tapalqué,2003,3000.0
+Buenos Aires,Tornquist,2003,1300.0
+Buenos Aires,Trenque Lauquen,2003,2900.0
+Buenos Aires,Tres Arroyos,2003,3507.0
+Buenos Aires,Tres Lomas,2003,1600.0
+Buenos Aires,Villarino,2003,1667.0
+Buenos Aires,Zárate,2003,2700.0
+Córdoba,Calamuchita,2003,1100.0
+Córdoba,Capital,2003,1700.0
+Córdoba,Colón,2003,2100.0
+Córdoba,General Roca,2003,1700.0
+Córdoba,General San Martín,2003,1700.0
+Córdoba,Ischilín,2003,2100.0
+Córdoba,Juárez Celman,2003,1100.0
+Córdoba,Marcos Juárez,2003,3180.0
+Córdoba,Presidente Roque Sáenz Peña,2003,2300.0
+Córdoba,Río Cuarto,2003,800.0
+Córdoba,Río Primero,2003,2100.0
+Córdoba,Río Seco,2003,3000.0
+Córdoba,Río Segundo,2003,1850.0
+Córdoba,San Alberto,2003,1013.0
+Córdoba,San Javier,2003,1008.0
+Córdoba,San Justo,2003,2500.0
+Córdoba,Santa María,2003,1100.0
+Córdoba,Tercero Arriba,2003,1300.0
+Córdoba,Totoral,2003,2000.0
+Córdoba,Tulumba,2003,2800.0
+Córdoba,Unión,2003,2830.0
+Entre Ríos,Colón,2003,2425.0
+Entre Ríos,Concordia,2003,2400.0
+Entre Ríos,Diamante,2003,2900.0
+Entre Ríos,Federación,2003,2200.0
+Entre Ríos,Federal,2003,2300.0
+Entre Ríos,Feliciano,2003,2200.0
+Entre Ríos,Gualeguay,2003,3000.0
+Entre Ríos,Gualeguaychú,2003,2700.0
+Entre Ríos,La Paz,2003,2500.0
+Entre Ríos,Nogoyá,2003,3000.0
+Entre Ríos,Paraná,2003,2700.0
+Entre Ríos,Tala,2003,2500.0
+Entre Ríos,Uruguay,2003,2500.0
+Entre Ríos,Victoria,2003,3100.0
+Entre Ríos,Villaguay,2003,2300.0
+La Pampa,Atreucó,2003,1199.0
+La Pampa,Caleu Caleu,2003,1100.0
+La Pampa,Capital,2003,1100.0
+La Pampa,Catriló,2003,1100.0
+La Pampa,Chapaleufú,2003,1697.0
+La Pampa,Conhelo,2003,798.0
+La Pampa,Guatraché,2003,1100.0
+La Pampa,Hucal,2003,1100.0
+La Pampa,Maracó,2003,1302.0
+La Pampa,Puelén,2003,1400.0
+La Pampa,Quemú Quemú,2003,1308.0
+La Pampa,Rancul,2003,797.0
+La Pampa,Realicó,2003,1098.0
+La Pampa,Toay,2003,1100.0
+La Pampa,Trenel,2003,1009.0
+La Pampa,Utracán,2003,1000.0
+Santa Fe,9 de Julio,2003,1850.0
+Santa Fe,Belgrano,2003,2900.0
+Santa Fe,Caseros,2003,2700.0
+Santa Fe,Castellanos,2003,2800.0
+Santa Fe,General López,2003,3350.0
+Santa Fe,General Obligado,2003,1600.0
+Santa Fe,Iriondo,2003,3200.0
+Santa Fe,La Capital,2003,2400.0
+Santa Fe,Las Colonias,2003,2750.0
+Santa Fe,Rosario,2003,2900.0
+Santa Fe,San Cristóbal,2003,2600.0
+Santa Fe,San Javier,2003,1400.0
+Santa Fe,San Jerónimo,2003,3200.0
+Santa Fe,San Justo,2003,2550.0
+Santa Fe,San Lorenzo,2003,3000.0
+Santa Fe,San Martín,2003,3000.0
+Santa Fe,Vera,2003,2000.0
+Santa Fe,Villa Constitución,2003,2700.0
+Buenos Aires,25 de Mayo,2004,4100.0
+Buenos Aires,9 de Julio,2004,4200.0
+Buenos Aires,Adolfo Alsina,2004,2400.0
+Buenos Aires,Adolfo Gonzales Chaves,2004,2960.0
+Buenos Aires,Alberti,2004,4000.0
+Buenos Aires,Arrecifes,2004,3300.0
+Buenos Aires,Ayacucho,2004,3500.0
+Buenos Aires,Azul,2004,3900.0
+Buenos Aires,Bahía Blanca,2004,2172.0
+Buenos Aires,Balcarce,2004,3900.0
+Buenos Aires,Baradero,2004,3000.0
+Buenos Aires,Benito Juárez,2004,3700.0
+Buenos Aires,Bolívar,2004,3200.0
+Buenos Aires,Bragado,2004,4000.0
+Buenos Aires,Campana,2004,3000.0
+Buenos Aires,Cañuelas,2004,3900.0
+Buenos Aires,Capitán Sarmiento,2004,3200.0
+Buenos Aires,Carlos Casares,2004,3500.0
+Buenos Aires,Carlos Tejedor,2004,3100.0
+Buenos Aires,Carmen de Areco,2004,3800.0
+Buenos Aires,Castelli,2004,3400.0
+Buenos Aires,Chacabuco,2004,3700.0
+Buenos Aires,Chascomús,2004,3700.0
+Buenos Aires,Chivilcoy,2004,4300.0
+Buenos Aires,Colón,2004,3400.0
+Buenos Aires,Coronel de Marina Leonardo Rosales,2004,2035.0
+Buenos Aires,Coronel Dorrego,2004,2470.0
+Buenos Aires,Coronel Pringles,2004,2560.0
+Buenos Aires,Coronel Suárez,2004,2600.0
+Buenos Aires,Daireaux,2004,3300.0
+Buenos Aires,Dolores,2004,3402.0
+Buenos Aires,Exaltación de la Cruz,2004,3300.0
+Buenos Aires,Florentino Ameghino,2004,3100.0
+Buenos Aires,General Alvarado,2004,3800.0
+Buenos Aires,General Alvear,2004,3000.0
+Buenos Aires,General Arenales,2004,3800.0
+Buenos Aires,General Belgrano,2004,3900.0
+Buenos Aires,General Guido,2004,3308.0
+Buenos Aires,General Juan Madariaga,2004,3701.0
+Buenos Aires,General La Madrid,2004,2500.0
+Buenos Aires,General Las Heras,2004,3200.0
+Buenos Aires,General Lavalle,2004,3294.0
+Buenos Aires,General Pinto,2004,3100.0
+Buenos Aires,General Pueyrredón,2004,3700.0
+Buenos Aires,General Rodríguez,2004,3200.0
+Buenos Aires,General Viamonte,2004,3800.0
+Buenos Aires,General Villegas,2004,3500.0
+Buenos Aires,Guaminí,2004,2500.0
+Buenos Aires,Hipólito Yrigoyen,2004,3500.0
+Buenos Aires,Junín,2004,3400.0
+Buenos Aires,Laprida,2004,2750.0
+Buenos Aires,Las Flores,2004,3900.0
+Buenos Aires,Leandro N. Alem,2004,4000.0
+Buenos Aires,Lincoln,2004,4000.0
+Buenos Aires,Lobería,2004,3600.0
+Buenos Aires,Lobos,2004,4000.0
+Buenos Aires,Luján,2004,3200.0
+Buenos Aires,Maipú,2004,3500.0
+Buenos Aires,Mar Chiquita,2004,3400.0
+Buenos Aires,Marcos Paz,2004,3200.0
+Buenos Aires,Mercedes,2004,3500.0
+Buenos Aires,Monte,2004,3900.0
+Buenos Aires,Navarro,2004,4100.0
+Buenos Aires,Necochea,2004,3550.0
+Buenos Aires,Olavarría,2004,3312.0
+Buenos Aires,Patagones,2004,2235.0
+Buenos Aires,Pehuajó,2004,3300.0
+Buenos Aires,Pellegrini,2004,2200.0
+Buenos Aires,Pergamino,2004,3400.0
+Buenos Aires,Pilar,2004,3400.0
+Buenos Aires,Puán,2004,2201.0
+Buenos Aires,Ramallo,2004,3000.0
+Buenos Aires,Rauch,2004,3501.0
+Buenos Aires,Rivadavia,2004,3300.0
+Buenos Aires,Rojas,2004,4000.0
+Buenos Aires,Roque Pérez,2004,4200.0
+Buenos Aires,Saavedra,2004,2201.0
+Buenos Aires,Saladillo,2004,4000.0
+Buenos Aires,Salliqueló,2004,2500.0
+Buenos Aires,Salto,2004,3400.0
+Buenos Aires,San Andrés de Giles,2004,3600.0
+Buenos Aires,San Antonio de Areco,2004,3300.0
+Buenos Aires,San Cayetano,2004,2950.0
+Buenos Aires,San Nicolás,2004,2902.0
+Buenos Aires,San Pedro,2004,3000.0
+Buenos Aires,Suipacha,2004,3800.0
+Buenos Aires,Tandil,2004,3900.0
+Buenos Aires,Tapalqué,2004,3300.0
+Buenos Aires,Tornquist,2004,2201.0
+Buenos Aires,Trenque Lauquen,2004,2900.0
+Buenos Aires,Tres Arroyos,2004,3160.0
+Buenos Aires,Tres Lomas,2004,2400.0
+Buenos Aires,Villarino,2004,2289.0
+Buenos Aires,Zárate,2004,3000.0
+Córdoba,Calamuchita,2004,2799.0
+Córdoba,Capital,2004,1700.0
+Córdoba,Colón,2004,1100.0
+Córdoba,General Roca,2004,2580.0
+Córdoba,General San Martín,2004,2900.0
+Córdoba,Ischilín,2004,600.0
+Córdoba,Juárez Celman,2004,2800.0
+Córdoba,Marcos Juárez,2004,3150.0
+Córdoba,Presidente Roque Sáenz Peña,2004,2650.0
+Córdoba,Río Cuarto,2004,2800.0
+Córdoba,Río Primero,2004,1200.0
+Córdoba,Río Seco,2004,700.0
+Córdoba,Río Segundo,2004,1600.0
+Córdoba,San Alberto,2004,2798.0
+Córdoba,San Javier,2004,2799.0
+Córdoba,San Justo,2004,1100.0
+Córdoba,Santa María,2004,1650.0
+Córdoba,Tercero Arriba,2004,2200.0
+Córdoba,Totoral,2004,1100.0
+Córdoba,Tulumba,2004,800.0
+Córdoba,Unión,2004,3000.0
+Entre Ríos,Colón,2004,2500.0
+Entre Ríos,Concordia,2004,2200.0
+Entre Ríos,Diamante,2004,2900.0
+Entre Ríos,Federación,2004,2000.0
+Entre Ríos,Federal,2004,2000.0
+Entre Ríos,Feliciano,2004,2000.0
+Entre Ríos,Gualeguay,2004,3000.0
+Entre Ríos,Gualeguaychú,2004,2800.0
+Entre Ríos,La Paz,2004,2200.0
+Entre Ríos,Nogoyá,2004,2900.0
+Entre Ríos,Paraná,2004,2700.0
+Entre Ríos,San Salvador,2004,2500.0
+Entre Ríos,Tala,2004,2600.0
+Entre Ríos,Uruguay,2004,2600.0
+Entre Ríos,Victoria,2004,3300.0
+Entre Ríos,Villaguay,2004,2600.0
+La Pampa,Atreucó,2004,1998.0
+La Pampa,Caleu Caleu,2004,1600.0
+La Pampa,Capital,2004,1700.0
+La Pampa,Catriló,2004,1600.0
+La Pampa,Chapaleufú,2004,3000.0
+La Pampa,Conhelo,2004,2200.0
+La Pampa,Guatraché,2004,1998.0
+La Pampa,Hucal,2004,1950.0
+La Pampa,Loventué,2004,2000.0
+La Pampa,Maracó,2004,2400.0
+La Pampa,Puelén,2004,1867.0
+La Pampa,Quemú Quemú,2004,2300.0
+La Pampa,Rancul,2004,2300.0
+La Pampa,Realicó,2004,2500.0
+La Pampa,Toay,2004,1600.0
+La Pampa,Trenel,2004,2300.0
+La Pampa,Utracán,2004,1800.0
+Santa Fe,9 de Julio,2004,1200.0
+Santa Fe,Belgrano,2004,2900.0
+Santa Fe,Caseros,2004,3200.0
+Santa Fe,Castellanos,2004,1750.0
+Santa Fe,General López,2004,3800.0
+Santa Fe,General Obligado,2004,1300.0
+Santa Fe,Iriondo,2004,3200.0
+Santa Fe,La Capital,2004,2100.0
+Santa Fe,Las Colonias,2004,2200.0
+Santa Fe,Rosario,2004,3000.0
+Santa Fe,San Cristóbal,2004,1300.0
+Santa Fe,San Javier,2004,1700.0
+Santa Fe,San Jerónimo,2004,3200.0
+Santa Fe,San Justo,2004,2000.0
+Santa Fe,San Lorenzo,2004,3200.0
+Santa Fe,San Martín,2004,2900.0
+Santa Fe,Vera,2004,1400.0
+Santa Fe,Villa Constitución,2004,3200.0
+Buenos Aires,25 de Mayo,2005,4500.0
+Buenos Aires,9 de Julio,2005,4000.0
+Buenos Aires,Adolfo Alsina,2005,1499.0
+Buenos Aires,Adolfo Gonzales Chaves,2005,2906.0
+Buenos Aires,Alberti,2005,4500.0
+Buenos Aires,Arrecifes,2005,3600.0
+Buenos Aires,Ayacucho,2005,3701.0
+Buenos Aires,Azul,2005,4200.0
+Buenos Aires,Bahía Blanca,2005,639.0
+Buenos Aires,Balcarce,2005,4300.0
+Buenos Aires,Baradero,2005,3300.0
+Buenos Aires,Benito Juárez,2005,3600.0
+Buenos Aires,Bolívar,2005,3800.0
+Buenos Aires,Bragado,2005,4000.0
+Buenos Aires,Campana,2005,3300.0
+Buenos Aires,Cañuelas,2005,4100.0
+Buenos Aires,Capitán Sarmiento,2005,3600.0
+Buenos Aires,Carlos Casares,2005,3908.0
+Buenos Aires,Carlos Tejedor,2005,3700.0
+Buenos Aires,Carmen de Areco,2005,3800.0
+Buenos Aires,Castelli,2005,3600.0
+Buenos Aires,Chacabuco,2005,4200.0
+Buenos Aires,Chascomús,2005,4100.0
+Buenos Aires,Chivilcoy,2005,4000.0
+Buenos Aires,Colón,2005,3700.0
+Buenos Aires,Coronel de Marina Leonardo Rosales,2005,1107.0
+Buenos Aires,Coronel Dorrego,2005,1700.0
+Buenos Aires,Coronel Pringles,2005,1109.0
+Buenos Aires,Coronel Suárez,2005,1800.0
+Buenos Aires,Daireaux,2005,3800.0
+Buenos Aires,Dolores,2005,3303.0
+Buenos Aires,Exaltación de la Cruz,2005,3400.0
+Buenos Aires,Florentino Ameghino,2005,3200.0
+Buenos Aires,General Alvarado,2005,4200.0
+Buenos Aires,General Alvear,2005,3800.0
+Buenos Aires,General Arenales,2005,4000.0
+Buenos Aires,General Belgrano,2005,4200.0
+Buenos Aires,General Guido,2005,3390.0
+Buenos Aires,General Juan Madariaga,2005,4101.0
+Buenos Aires,General La Madrid,2005,1800.0
+Buenos Aires,General Las Heras,2005,3500.0
+Buenos Aires,General Lavalle,2005,3390.0
+Buenos Aires,General Pinto,2005,3800.0
+Buenos Aires,General Pueyrredón,2005,4200.0
+Buenos Aires,General Rodríguez,2005,3500.0
+Buenos Aires,General Viamonte,2005,4500.0
+Buenos Aires,General Villegas,2005,3500.0
+Buenos Aires,Guaminí,2005,1699.0
+Buenos Aires,Hipólito Yrigoyen,2005,3800.0
+Buenos Aires,Junín,2005,3800.0
+Buenos Aires,Laprida,2005,1900.0
+Buenos Aires,Las Flores,2005,4400.0
+Buenos Aires,Leandro N. Alem,2005,4000.0
+Buenos Aires,Lincoln,2005,4000.0
+Buenos Aires,Lobería,2005,3702.0
+Buenos Aires,Lobos,2005,4300.0
+Buenos Aires,Luján,2005,3500.0
+Buenos Aires,Maipú,2005,3700.0
+Buenos Aires,Mar Chiquita,2005,3700.0
+Buenos Aires,Marcos Paz,2005,3500.0
+Buenos Aires,Mercedes,2005,2900.0
+Buenos Aires,Monte,2005,4200.0
+Buenos Aires,Navarro,2005,4300.0
+Buenos Aires,Necochea,2005,4290.0
+Buenos Aires,Olavarría,2005,3732.0
+Buenos Aires,Patagones,2005,877.0
+Buenos Aires,Pehuajó,2005,3800.0
+Buenos Aires,Pellegrini,2005,2000.0
+Buenos Aires,Pergamino,2005,3700.0
+Buenos Aires,Pilar,2005,3500.0
+Buenos Aires,Puán,2005,800.0
+Buenos Aires,Ramallo,2005,3500.0
+Buenos Aires,Rauch,2005,3800.0
+Buenos Aires,Rivadavia,2005,3700.0
+Buenos Aires,Rojas,2005,4000.0
+Buenos Aires,Roque Pérez,2005,4400.0
+Buenos Aires,Saavedra,2005,1000.0
+Buenos Aires,Saladillo,2005,4400.0
+Buenos Aires,Salliqueló,2005,2100.0
+Buenos Aires,Salto,2005,3800.0
+Buenos Aires,San Andrés de Giles,2005,3800.0
+Buenos Aires,San Antonio de Areco,2005,3600.0
+Buenos Aires,San Cayetano,2005,3200.0
+Buenos Aires,San Nicolás,2005,3400.0
+Buenos Aires,San Pedro,2005,3500.0
+Buenos Aires,Suipacha,2005,2800.0
+Buenos Aires,Tandil,2005,4300.0
+Buenos Aires,Tapalqué,2005,3700.0
+Buenos Aires,Tornquist,2005,800.0
+Buenos Aires,Trenque Lauquen,2005,3530.0
+Buenos Aires,Tres Arroyos,2005,2812.0
+Buenos Aires,Tres Lomas,2005,2200.0
+Buenos Aires,Villarino,2005,1057.0
+Buenos Aires,Zárate,2005,3400.0
+Córdoba,Calamuchita,2005,1600.0
+Córdoba,Capital,2005,1700.0
+Córdoba,Colón,2005,1600.0
+Córdoba,General Roca,2005,2380.0
+Córdoba,General San Martín,2005,1850.0
+Córdoba,Ischilín,2005,1300.0
+Córdoba,Juárez Celman,2005,1700.0
+Córdoba,Marcos Juárez,2005,2950.0
+Córdoba,Presidente Roque Sáenz Peña,2005,2670.0
+Córdoba,Río Cuarto,2005,1600.0
+Córdoba,Río Primero,2005,2000.0
+Córdoba,Río Seco,2005,2300.0
+Córdoba,Río Segundo,2005,2400.0
+Córdoba,San Javier,2005,2500.0
+Córdoba,San Justo,2005,2000.0
+Córdoba,Santa María,2005,1300.0
+Córdoba,Tercero Arriba,2005,1600.0
+Córdoba,Totoral,2005,1500.0
+Córdoba,Tulumba,2005,2100.0
+Córdoba,Unión,2005,2600.0
+Entre Ríos,Colón,2005,2300.0
+Entre Ríos,Concordia,2005,2400.0
+Entre Ríos,Diamante,2005,3500.0
+Entre Ríos,Federación,2005,2000.0
+Entre Ríos,Federal,2005,2400.0
+Entre Ríos,Feliciano,2005,2200.0
+Entre Ríos,Gualeguay,2005,3200.0
+Entre Ríos,Gualeguaychú,2005,3400.0
+Entre Ríos,La Paz,2005,2700.0
+Entre Ríos,Nogoyá,2005,3250.0
+Entre Ríos,Paraná,2005,3300.0
+Entre Ríos,San Salvador,2005,2350.0
+Entre Ríos,Tala,2005,2650.0
+Entre Ríos,Uruguay,2005,2750.0
+Entre Ríos,Victoria,2005,3600.0
+Entre Ríos,Villaguay,2005,2500.0
+La Pampa,Atreucó,2005,1199.0
+La Pampa,Caleu Caleu,2005,600.0
+La Pampa,Capital,2005,1150.0
+La Pampa,Catriló,2005,1400.0
+La Pampa,Chapaleufú,2005,2590.0
+La Pampa,Conhelo,2005,1200.0
+La Pampa,Guatraché,2005,1100.0
+La Pampa,Hucal,2005,700.0
+La Pampa,Loventué,2005,969.0
+La Pampa,Maracó,2005,1900.0
+La Pampa,Puelén,2005,1200.0
+La Pampa,Quemú Quemú,2005,1500.0
+La Pampa,Rancul,2005,1400.0
+La Pampa,Realicó,2005,1700.0
+La Pampa,Toay,2005,1000.0
+La Pampa,Trenel,2005,1400.0
+La Pampa,Utracán,2005,1000.0
+Santa Fe,9 de Julio,2005,1800.0
+Santa Fe,Belgrano,2005,3500.0
+Santa Fe,Caseros,2005,3600.0
+Santa Fe,Castellanos,2005,2900.0
+Santa Fe,General López,2005,3800.0
+Santa Fe,General Obligado,2005,1700.0
+Santa Fe,Iriondo,2005,3500.0
+Santa Fe,La Capital,2005,2751.0
+Santa Fe,Las Colonias,2005,3100.0
+Santa Fe,Rosario,2005,3800.0
+Santa Fe,San Cristóbal,2005,2500.0
+Santa Fe,San Javier,2005,1800.0
+Santa Fe,San Jerónimo,2005,3400.0
+Santa Fe,San Justo,2005,2500.0
+Santa Fe,San Lorenzo,2005,3600.0
+Santa Fe,San Martín,2005,3300.0
+Santa Fe,Vera,2005,2000.0
+Santa Fe,Villa Constitución,2005,3200.0
+Buenos Aires,25 de Mayo,2006,4500.0
+Buenos Aires,9 de Julio,2006,4000.0
+Buenos Aires,Adolfo Alsina,2006,1800.0
+Buenos Aires,Adolfo Gonzales Chaves,2006,3071.0
+Buenos Aires,Alberti,2006,4100.0
+Buenos Aires,Arrecifes,2006,3800.0
+Buenos Aires,Ayacucho,2006,3700.0
+Buenos Aires,Azul,2006,4400.0
+Buenos Aires,Bahía Blanca,2006,1149.0
+Buenos Aires,Balcarce,2006,4372.0
+Buenos Aires,Baradero,2006,3700.0
+Buenos Aires,Benito Juárez,2006,3800.0
+Buenos Aires,Bolívar,2006,4100.0
+Buenos Aires,Bragado,2006,4100.0
+Buenos Aires,Campana,2006,3600.0
+Buenos Aires,Cañuelas,2006,4300.0
+Buenos Aires,Capitán Sarmiento,2006,3800.0
+Buenos Aires,Carlos Casares,2006,3997.0
+Buenos Aires,Carlos Tejedor,2006,3900.0
+Buenos Aires,Carmen de Areco,2006,4100.0
+Buenos Aires,Castelli,2006,3800.0
+Buenos Aires,Chacabuco,2006,4100.0
+Buenos Aires,Chascomús,2006,4300.0
+Buenos Aires,Chivilcoy,2006,4600.0
+Buenos Aires,Colón,2006,4000.0
+Buenos Aires,Coronel de Marina Leonardo Rosales,2006,1713.0
+Buenos Aires,Coronel Dorrego,2006,2191.0
+Buenos Aires,Coronel Pringles,2006,1986.0
+Buenos Aires,Coronel Suárez,2006,2195.0
+Buenos Aires,Daireaux,2006,4000.0
+Buenos Aires,Dolores,2006,3803.0
+Buenos Aires,Exaltación de la Cruz,2006,3800.0
+Buenos Aires,Florentino Ameghino,2006,3600.0
+Buenos Aires,General Alvarado,2006,4400.0
+Buenos Aires,General Alvear,2006,4000.0
+Buenos Aires,General Arenales,2006,4100.0
+Buenos Aires,General Belgrano,2006,4400.0
+Buenos Aires,General Guido,2006,3517.0
+Buenos Aires,General Juan Madariaga,2006,4400.0
+Buenos Aires,General La Madrid,2006,2099.0
+Buenos Aires,General Las Heras,2006,3900.0
+Buenos Aires,General Lavalle,2006,3586.0
+Buenos Aires,General Pinto,2006,4200.0
+Buenos Aires,General Pueyrredón,2006,4300.0
+Buenos Aires,General Rodríguez,2006,3900.0
+Buenos Aires,General Viamonte,2006,4100.0
+Buenos Aires,General Villegas,2006,3500.0
+Buenos Aires,Guaminí,2006,2190.0
+Buenos Aires,Hipólito Yrigoyen,2006,4000.0
+Buenos Aires,Junín,2006,4100.0
+Buenos Aires,Laprida,2006,2800.0
+Buenos Aires,Las Flores,2006,4400.0
+Buenos Aires,Leandro N. Alem,2006,4200.0
+Buenos Aires,Lincoln,2006,4300.0
+Buenos Aires,Lobería,2006,3860.0
+Buenos Aires,Lobos,2006,4400.0
+Buenos Aires,Luján,2006,3600.0
+Buenos Aires,Maipú,2006,4099.0
+Buenos Aires,Mar Chiquita,2006,3901.0
+Buenos Aires,Marcos Paz,2006,3900.0
+Buenos Aires,Mercedes,2006,3600.0
+Buenos Aires,Monte,2006,4400.0
+Buenos Aires,Navarro,2006,4500.0
+Buenos Aires,Necochea,2006,3688.0
+Buenos Aires,Olavarría,2006,4000.0
+Buenos Aires,Patagones,2006,1754.0
+Buenos Aires,Pehuajó,2006,3800.0
+Buenos Aires,Pellegrini,2006,2286.0
+Buenos Aires,Pergamino,2006,4000.0
+Buenos Aires,Pilar,2006,3900.0
+Buenos Aires,Puán,2006,1098.0
+Buenos Aires,Ramallo,2006,3700.0
+Buenos Aires,Rauch,2006,3900.0
+Buenos Aires,Rivadavia,2006,3800.0
+Buenos Aires,Rojas,2006,4300.0
+Buenos Aires,Roque Pérez,2006,4500.0
+Buenos Aires,Saavedra,2006,1498.0
+Buenos Aires,Saladillo,2006,4500.0
+Buenos Aires,Salliqueló,2006,2267.0
+Buenos Aires,Salto,2006,4100.0
+Buenos Aires,San Andrés de Giles,2006,3900.0
+Buenos Aires,San Antonio de Areco,2006,3900.0
+Buenos Aires,San Cayetano,2006,3285.0
+Buenos Aires,San Nicolás,2006,3700.0
+Buenos Aires,San Pedro,2006,3800.0
+Buenos Aires,Suipacha,2006,3600.0
+Buenos Aires,Tandil,2006,4500.0
+Buenos Aires,Tapalqué,2006,4000.0
+Buenos Aires,Tornquist,2006,1198.0
+Buenos Aires,Trenque Lauquen,2006,3500.0
+Buenos Aires,Tres Arroyos,2006,2980.0
+Buenos Aires,Tres Lomas,2006,2300.0
+Buenos Aires,Villarino,2006,1842.0
+Buenos Aires,Zárate,2006,3702.0
+Córdoba,Calamuchita,2006,1750.0
+Córdoba,Capital,2006,1400.0
+Córdoba,Colón,2006,1400.0
+Córdoba,General Roca,2006,1900.0
+Córdoba,General San Martín,2006,1650.0
+Córdoba,Ischilín,2006,1300.0
+Córdoba,Juárez Celman,2006,1750.0
+Córdoba,Marcos Juárez,2006,2700.0
+Córdoba,Presidente Roque Sáenz Peña,2006,2300.0
+Córdoba,Río Cuarto,2006,1650.0
+Córdoba,Río Primero,2006,1300.0
+Córdoba,Río Seco,2006,1000.0
+Córdoba,Río Segundo,2006,1350.0
+Córdoba,San Javier,2006,2100.0
+Córdoba,San Justo,2006,1500.0
+Córdoba,Santa María,2006,1100.0
+Córdoba,Tercero Arriba,2006,1300.0
+Córdoba,Totoral,2006,1500.0
+Córdoba,Tulumba,2006,1200.0
+Córdoba,Unión,2006,2400.0
+Entre Ríos,Colón,2006,2900.0
+Entre Ríos,Concordia,2006,2400.0
+Entre Ríos,Diamante,2006,3500.0
+Entre Ríos,Federación,2006,2400.0
+Entre Ríos,Federal,2006,2400.0
+Entre Ríos,Feliciano,2006,2200.0
+Entre Ríos,Gualeguay,2006,3400.0
+Entre Ríos,Gualeguaychú,2006,3200.0
+Entre Ríos,La Paz,2006,3000.0
+Entre Ríos,Nogoyá,2006,2900.0
+Entre Ríos,Paraná,2006,3300.0
+Entre Ríos,San Salvador,2006,2800.0
+Entre Ríos,Tala,2006,2900.0
+Entre Ríos,Uruguay,2006,3000.0
+Entre Ríos,Victoria,2006,3300.0
+Entre Ríos,Villaguay,2006,2900.0
+La Pampa,Atreucó,2006,1150.0
+La Pampa,Capital,2006,1000.0
+La Pampa,Catriló,2006,1300.0
+La Pampa,Chapaleufú,2006,1800.0
+La Pampa,Conhelo,2006,1410.0
+La Pampa,Guatraché,2006,1100.0
+La Pampa,Hucal,2006,800.0
+La Pampa,Loventué,2006,1000.0
+La Pampa,Maracó,2006,1700.0
+La Pampa,Quemú Quemú,2006,1621.0
+La Pampa,Rancul,2006,1500.0
+La Pampa,Realicó,2006,1700.0
+La Pampa,Toay,2006,1000.0
+La Pampa,Trenel,2006,1414.0
+La Pampa,Utracán,2006,900.0
+Santa Fe,9 de Julio,2006,1800.0
+Santa Fe,Belgrano,2006,2900.0
+Santa Fe,Caseros,2006,3400.0
+Santa Fe,Castellanos,2006,2200.0
+Santa Fe,General López,2006,3900.0
+Santa Fe,General Obligado,2006,1200.0
+Santa Fe,Iriondo,2006,3100.0
+Santa Fe,La Capital,2006,2400.0
+Santa Fe,Las Colonias,2006,2400.0
+Santa Fe,Rosario,2006,3400.0
+Santa Fe,San Cristóbal,2006,2000.0
+Santa Fe,San Javier,2006,1200.0
+Santa Fe,San Jerónimo,2006,2500.0
+Santa Fe,San Justo,2006,2100.0
+Santa Fe,San Lorenzo,2006,3700.0
+Santa Fe,San Martín,2006,2300.0
+Santa Fe,Vera,2006,1950.0
+Santa Fe,Villa Constitución,2006,3600.0
+Buenos Aires,25 de Mayo,2007,3600.0
+Buenos Aires,9 de Julio,2007,3200.0
+Buenos Aires,Adolfo Alsina,2007,2798.0
+Buenos Aires,Adolfo Gonzales Chaves,2007,1794.0
+Buenos Aires,Alberti,2007,3200.0
+Buenos Aires,Arrecifes,2007,4300.0
+Buenos Aires,Ayacucho,2007,2500.0
+Buenos Aires,Azul,2007,1810.0
+Buenos Aires,Bahía Blanca,2007,1849.0
+Buenos Aires,Balcarce,2007,2908.0
+Buenos Aires,Baradero,2007,4200.0
+Buenos Aires,Benito Juárez,2007,1800.0
+Buenos Aires,Bolívar,2007,2500.0
+Buenos Aires,Bragado,2007,3200.0
+Buenos Aires,Campana,2007,4100.0
+Buenos Aires,Cañuelas,2007,3501.0
+Buenos Aires,Capitán Sarmiento,2007,4301.0
+Buenos Aires,Carlos Casares,2007,3905.0
+Buenos Aires,Carlos Tejedor,2007,3801.0
+Buenos Aires,Carmen de Areco,2007,4400.0
+Buenos Aires,Castelli,2007,2702.0
+Buenos Aires,Chacabuco,2007,4300.0
+Buenos Aires,Chascomús,2007,3400.0
+Buenos Aires,Chivilcoy,2007,3500.0
+Buenos Aires,Colón,2007,4500.0
+Buenos Aires,Coronel de Marina Leonardo Rosales,2007,2020.0
+Buenos Aires,Coronel Dorrego,2007,2788.0
+Buenos Aires,Coronel Pringles,2007,2084.0
+Buenos Aires,Coronel Suárez,2007,2100.0
+Buenos Aires,Daireaux,2007,2800.0
+Buenos Aires,Dolores,2007,2599.0
+Buenos Aires,Exaltación de la Cruz,2007,4200.0
+Buenos Aires,Florentino Ameghino,2007,3900.0
+Buenos Aires,General Alvarado,2007,4000.0
+Buenos Aires,General Alvear,2007,2500.0
+Buenos Aires,General Arenales,2007,4300.0
+Buenos Aires,General Belgrano,2007,3400.0
+Buenos Aires,General Guido,2007,2517.0
+Buenos Aires,General Juan Madariaga,2007,4200.0
+Buenos Aires,General La Madrid,2007,2000.0
+Buenos Aires,General Las Heras,2007,3800.0
+Buenos Aires,General Lavalle,2007,2517.0
+Buenos Aires,General Pinto,2007,4000.0
+Buenos Aires,General Pueyrredón,2007,3900.0
+Buenos Aires,General Rodríguez,2007,3800.0
+Buenos Aires,General Viamonte,2007,4400.0
+Buenos Aires,General Villegas,2007,4100.0
+Buenos Aires,Guaminí,2007,2886.0
+Buenos Aires,Hipólito Yrigoyen,2007,3100.0
+Buenos Aires,Junín,2007,4200.0
+Buenos Aires,Laprida,2007,1900.0
+Buenos Aires,Las Flores,2007,3400.0
+Buenos Aires,Leandro N. Alem,2007,4200.0
+Buenos Aires,Lincoln,2007,4200.0
+Buenos Aires,Lobería,2007,2108.0
+Buenos Aires,Lobos,2007,3301.0
+Buenos Aires,Luján,2007,3900.0
+Buenos Aires,Maipú,2007,3500.0
+Buenos Aires,Mar Chiquita,2007,3101.0
+Buenos Aires,Marcos Paz,2007,3800.0
+Buenos Aires,Mercedes,2007,2800.0
+Buenos Aires,Monte,2007,3300.0
+Buenos Aires,Navarro,2007,3301.0
+Buenos Aires,Necochea,2007,2997.0
+Buenos Aires,Olavarría,2007,2000.0
+Buenos Aires,Patagones,2007,832.0
+Buenos Aires,Pehuajó,2007,3900.0
+Buenos Aires,Pellegrini,2007,2971.0
+Buenos Aires,Pergamino,2007,4600.0
+Buenos Aires,Pilar,2007,3800.0
+Buenos Aires,Puán,2007,2000.0
+Buenos Aires,Ramallo,2007,4100.0
+Buenos Aires,Rauch,2007,2800.0
+Buenos Aires,Rivadavia,2007,3902.0
+Buenos Aires,Rojas,2007,4500.0
+Buenos Aires,Roque Pérez,2007,3500.0
+Buenos Aires,Saavedra,2007,2200.0
+Buenos Aires,Saladillo,2007,3500.0
+Buenos Aires,Salliqueló,2007,2765.0
+Buenos Aires,Salto,2007,4500.0
+Buenos Aires,San Andrés de Giles,2007,4400.0
+Buenos Aires,San Antonio de Areco,2007,4300.0
+Buenos Aires,San Cayetano,2007,1998.0
+Buenos Aires,San Nicolás,2007,4200.0
+Buenos Aires,San Pedro,2007,4200.0
+Buenos Aires,Suipacha,2007,2800.0
+Buenos Aires,Tandil,2007,2500.0
+Buenos Aires,Tapalqué,2007,2000.0
+Buenos Aires,Tornquist,2007,1900.0
+Buenos Aires,Trenque Lauquen,2007,3802.0
+Buenos Aires,Tres Arroyos,2007,2390.0
+Buenos Aires,Tres Lomas,2007,2690.0
+Buenos Aires,Villarino,2007,1730.0
+Buenos Aires,Zárate,2007,4102.0
+Córdoba,Calamuchita,2007,4500.0
+Córdoba,Capital,2007,2700.0
+Córdoba,Colón,2007,2800.0
+Córdoba,General Roca,2007,3400.0
+Córdoba,General San Martín,2007,3300.0
+Córdoba,Ischilín,2007,2000.0
+Córdoba,Juárez Celman,2007,3000.0
+Córdoba,Marcos Juárez,2007,4100.0
+Córdoba,Presidente Roque Sáenz Peña,2007,3700.0
+Córdoba,Río Cuarto,2007,3000.0
+Córdoba,Río Primero,2007,2700.0
+Córdoba,Río Seco,2007,2300.0
+Córdoba,Río Segundo,2007,3000.0
+Córdoba,San Javier,2007,4500.0
+Córdoba,San Justo,2007,2800.0
+Córdoba,Santa María,2007,2300.0
+Córdoba,Tercero Arriba,2007,2700.0
+Córdoba,Totoral,2007,2600.0
+Córdoba,Tulumba,2007,2200.0
+Córdoba,Unión,2007,3800.0
+Entre Ríos,Colón,2007,2300.0
+Entre Ríos,Concordia,2007,2600.0
+Entre Ríos,Diamante,2007,3600.0
+Entre Ríos,Federación,2007,2600.0
+Entre Ríos,Federal,2007,2600.0
+Entre Ríos,Feliciano,2007,2200.0
+Entre Ríos,Gualeguay,2007,3300.0
+Entre Ríos,Gualeguaychú,2007,2800.0
+Entre Ríos,La Paz,2007,3200.0
+Entre Ríos,Nogoyá,2007,2850.0
+Entre Ríos,Paraná,2007,3400.0
+Entre Ríos,San Salvador,2007,2100.0
+Entre Ríos,Tala,2007,2700.0
+Entre Ríos,Uruguay,2007,2700.0
+Entre Ríos,Victoria,2007,3100.0
+Entre Ríos,Villaguay,2007,2300.0
+La Pampa,Atreucó,2007,2100.0
+La Pampa,Capital,2007,2200.0
+La Pampa,Catriló,2007,2600.0
+La Pampa,Chapaleufú,2007,4000.0
+La Pampa,Conhelo,2007,2800.0
+La Pampa,Guatraché,2007,2500.0
+La Pampa,Hucal,2007,2500.0
+La Pampa,Loventué,2007,2000.0
+La Pampa,Maracó,2007,3000.0
+La Pampa,Quemú Quemú,2007,2800.0
+La Pampa,Rancul,2007,3000.0
+La Pampa,Realicó,2007,2800.0
+La Pampa,Toay,2007,2200.0
+La Pampa,Trenel,2007,3000.0
+La Pampa,Utracán,2007,2200.0
+Santa Fe,9 de Julio,2007,1500.0
+Santa Fe,Belgrano,2007,3700.0
+Santa Fe,Caseros,2007,4200.0
+Santa Fe,Castellanos,2007,3300.0
+Santa Fe,General López,2007,4600.0
+Santa Fe,General Obligado,2007,1600.0
+Santa Fe,Iriondo,2007,3800.0
+Santa Fe,La Capital,2007,2500.0
+Santa Fe,Las Colonias,2007,3000.0
+Santa Fe,Rosario,2007,3800.0
+Santa Fe,San Cristóbal,2007,2500.0
+Santa Fe,San Javier,2007,1800.0
+Santa Fe,San Jerónimo,2007,3000.0
+Santa Fe,San Justo,2007,2600.0
+Santa Fe,San Lorenzo,2007,4200.0
+Santa Fe,San Martín,2007,3300.0
+Santa Fe,Vera,2007,1700.0
+Santa Fe,Villa Constitución,2007,4200.0
+Buenos Aires,25 de Mayo,2008,3600.0
+Buenos Aires,9 de Julio,2008,2500.0
+Buenos Aires,Adolfo Alsina,2008,1302.0
+Buenos Aires,Adolfo Gonzales Chaves,2008,1808.0
+Buenos Aires,Alberti,2008,2900.0
+Buenos Aires,Arrecifes,2008,2300.0
+Buenos Aires,Ayacucho,2008,2901.0
+Buenos Aires,Azul,2008,3004.0
+Buenos Aires,Bahía Blanca,2008,670.0
+Buenos Aires,Balcarce,2008,3406.0
+Buenos Aires,Baradero,2008,1700.0
+Buenos Aires,Benito Juárez,2008,2900.0
+Buenos Aires,Bolívar,2008,3300.0
+Buenos Aires,Bragado,2008,2800.0
+Buenos Aires,Campana,2008,1900.0
+Buenos Aires,Cañuelas,2008,3000.0
+Buenos Aires,Capitán Sarmiento,2008,2200.0
+Buenos Aires,Carlos Casares,2008,2430.0
+Buenos Aires,Carlos Tejedor,2008,2408.0
+Buenos Aires,Carmen de Areco,2008,2600.0
+Buenos Aires,Castelli,2008,3000.0
+Buenos Aires,Chacabuco,2008,2900.0
+Buenos Aires,Chascomús,2008,3000.0
+Buenos Aires,Chivilcoy,2008,2800.0
+Buenos Aires,Colón,2008,2600.0
+Buenos Aires,Coronel de Marina Leonardo Rosales,2008,1016.0
+Buenos Aires,Coronel Dorrego,2008,1450.0
+Buenos Aires,Coronel Pringles,2008,1120.0
+Buenos Aires,Coronel Suárez,2008,2000.0
+Buenos Aires,Daireaux,2008,3100.0
+Buenos Aires,Dolores,2008,2899.0
+Buenos Aires,Exaltación de la Cruz,2008,2100.0
+Buenos Aires,Florentino Ameghino,2008,2500.0
+Buenos Aires,General Alvarado,2008,4100.0
+Buenos Aires,General Alvear,2008,3300.0
+Buenos Aires,General Arenales,2008,3200.0
+Buenos Aires,General Belgrano,2008,2900.0
+Buenos Aires,General Guido,2008,2694.0
+Buenos Aires,General Juan Madariaga,2008,4400.0
+Buenos Aires,General La Madrid,2008,2000.0
+Buenos Aires,General Las Heras,2008,2600.0
+Buenos Aires,General Lavalle,2008,2898.0
+Buenos Aires,General Pinto,2008,3300.0
+Buenos Aires,General Pueyrredón,2008,3800.0
+Buenos Aires,General Rodríguez,2008,2600.0
+Buenos Aires,General Viamonte,2008,4000.0
+Buenos Aires,General Villegas,2008,3100.0
+Buenos Aires,Guaminí,2008,2097.0
+Buenos Aires,Hipólito Yrigoyen,2008,3500.0
+Buenos Aires,Junín,2008,2800.0
+Buenos Aires,Laprida,2008,1798.0
+Buenos Aires,Las Flores,2008,3300.0
+Buenos Aires,Leandro N. Alem,2008,3400.0
+Buenos Aires,Lincoln,2008,3500.0
+Buenos Aires,Lobería,2008,3103.0
+Buenos Aires,Lobos,2008,3200.0
+Buenos Aires,Luján,2008,2600.0
+Buenos Aires,Maipú,2008,3799.0
+Buenos Aires,Mar Chiquita,2008,3101.0
+Buenos Aires,Marcos Paz,2008,2600.0
+Buenos Aires,Mercedes,2008,1800.0
+Buenos Aires,Monte,2008,3500.0
+Buenos Aires,Navarro,2008,3700.0
+Buenos Aires,Necochea,2008,3067.0
+Buenos Aires,Olavarría,2008,2652.0
+Buenos Aires,Patagones,2008,593.0
+Buenos Aires,Pehuajó,2008,2504.0
+Buenos Aires,Pellegrini,2008,2191.0
+Buenos Aires,Pergamino,2008,2400.0
+Buenos Aires,Pilar,2008,2800.0
+Buenos Aires,Puán,2008,800.0
+Buenos Aires,Ramallo,2008,2200.0
+Buenos Aires,Rauch,2008,3101.0
+Buenos Aires,Rivadavia,2008,2307.0
+Buenos Aires,Rojas,2008,3000.0
+Buenos Aires,Roque Pérez,2008,3500.0
+Buenos Aires,Saavedra,2008,1200.0
+Buenos Aires,Saladillo,2008,3400.0
+Buenos Aires,Salliqueló,2008,2282.0
+Buenos Aires,Salto,2008,2400.0
+Buenos Aires,San Andrés de Giles,2008,2800.0
+Buenos Aires,San Antonio de Areco,2008,2300.0
+Buenos Aires,San Cayetano,2008,2104.0
+Buenos Aires,San Nicolás,2008,2100.0
+Buenos Aires,San Pedro,2008,2200.0
+Buenos Aires,Suipacha,2008,1800.0
+Buenos Aires,Tandil,2008,3600.0
+Buenos Aires,Tapalqué,2008,2600.0
+Buenos Aires,Tornquist,2008,800.0
+Buenos Aires,Trenque Lauquen,2008,2206.0
+Buenos Aires,Tres Arroyos,2008,2112.0
+Buenos Aires,Tres Lomas,2008,2395.0
+Buenos Aires,Villarino,2008,819.0
+Buenos Aires,Zárate,2008,2200.0
+Córdoba,Calamuchita,2008,1200.0
+Córdoba,Capital,2008,1400.0
+Córdoba,Colón,2008,1000.0
+Córdoba,General Roca,2008,1600.0
+Córdoba,General San Martín,2008,1600.0
+Córdoba,Ischilín,2008,900.0
+Córdoba,Juárez Celman,2008,1500.0
+Córdoba,Marcos Juárez,2008,1500.0
+Córdoba,Presidente Roque Sáenz Peña,2008,1800.0
+Córdoba,Río Cuarto,2008,1600.0
+Córdoba,Río Primero,2008,1400.0
+Córdoba,Río Seco,2008,1000.0
+Córdoba,Río Segundo,2008,2100.0
+Córdoba,San Javier,2008,2200.0
+Córdoba,San Justo,2008,1500.0
+Córdoba,Santa María,2008,1300.0
+Córdoba,Tercero Arriba,2008,1800.0
+Córdoba,Totoral,2008,1500.0
+Córdoba,Tulumba,2008,1300.0
+Córdoba,Unión,2008,1600.0
+Entre Ríos,Colón,2008,2450.0
+Entre Ríos,Concordia,2008,2400.0
+Entre Ríos,Diamante,2008,1600.0
+Entre Ríos,Federación,2008,2400.0
+Entre Ríos,Federal,2008,2400.0
+Entre Ríos,Feliciano,2008,2800.0
+Entre Ríos,Gualeguay,2008,1750.0
+Entre Ríos,Gualeguaychú,2008,2200.0
+Entre Ríos,La Paz,2008,1800.0
+Entre Ríos,Nogoyá,2008,2200.0
+Entre Ríos,Paraná,2008,1600.0
+Entre Ríos,San Salvador,2008,2900.0
+Entre Ríos,Tala,2008,2200.0
+Entre Ríos,Uruguay,2008,2600.0
+Entre Ríos,Victoria,2008,2100.0
+Entre Ríos,Villaguay,2008,2500.0
+La Pampa,Atreucó,2008,1200.0
+La Pampa,Capital,2008,1299.0
+La Pampa,Catriló,2008,1400.0
+La Pampa,Chapaleufú,2008,2200.0
+La Pampa,Conhelo,2008,800.0
+La Pampa,Guatraché,2008,1000.0
+La Pampa,Hucal,2008,700.0
+La Pampa,Loventué,2008,0.0
+La Pampa,Maracó,2008,1500.0
+La Pampa,Quemú Quemú,2008,1300.0
+La Pampa,Rancul,2008,900.0
+La Pampa,Realicó,2008,900.0
+La Pampa,Toay,2008,900.0
+La Pampa,Trenel,2008,800.0
+La Pampa,Utracán,2008,800.0
+Santa Fe,Belgrano,2008,1600.0
+Santa Fe,Caseros,2008,1200.0
+Santa Fe,Castellanos,2008,1400.0
+Santa Fe,General López,2008,2700.0
+Santa Fe,General Obligado,2008,1300.0
+Santa Fe,Iriondo,2008,1500.0
+Santa Fe,La Capital,2008,700.0
+Santa Fe,Las Colonias,2008,1100.0
+Santa Fe,Rosario,2008,1000.0
+Santa Fe,San Cristóbal,2008,900.0
+Santa Fe,San Javier,2008,1300.0
+Santa Fe,San Jerónimo,2008,1200.0
+Santa Fe,San Justo,2008,1100.0
+Santa Fe,San Lorenzo,2008,1100.0
+Santa Fe,San Martín,2008,1400.0
+Santa Fe,Vera,2008,800.0
+Santa Fe,Villa Constitución,2008,1200.0
+Buenos Aires,25 de Mayo,2009,736.0
+Buenos Aires,9 de Julio,2009,3282.0
+Buenos Aires,Adolfo Alsina,2009,1157.0
+Buenos Aires,Adolfo Gonzales Chaves,2009,2305.0
+Buenos Aires,Alberti,2009,3727.0
+Buenos Aires,Arrecifes,2009,4506.0
+Buenos Aires,Ayacucho,2009,3855.0
+Buenos Aires,Azul,2009,4685.0
+Buenos Aires,Bahía Blanca,2009,693.0
+Buenos Aires,Balcarce,2009,4323.0
+Buenos Aires,Baradero,2009,4183.0
+Buenos Aires,Benito Juárez,2009,3762.0
+Buenos Aires,Bolívar,2009,3473.0
+Buenos Aires,Bragado,2009,3805.0
+Buenos Aires,Campana,2009,4317.0
+Buenos Aires,Cañuelas,2009,2817.0
+Buenos Aires,Capitán Sarmiento,2009,4739.0
+Buenos Aires,Carlos Casares,2009,2272.0
+Buenos Aires,Carlos Tejedor,2009,1918.0
+Buenos Aires,Carmen de Areco,2009,4339.0
+Buenos Aires,Castelli,2009,4515.0
+Buenos Aires,Chacabuco,2009,4728.0
+Buenos Aires,Chascomús,2009,4862.0
+Buenos Aires,Chivilcoy,2009,3949.0
+Buenos Aires,Colón,2009,5284.0
+Buenos Aires,Coronel de Marina Leonardo Rosales,2009,816.0
+Buenos Aires,Coronel Dorrego,2009,1431.0
+Buenos Aires,Coronel Pringles,2009,1023.0
+Buenos Aires,Coronel Suárez,2009,1717.0
+Buenos Aires,Daireaux,2009,2894.0
+Buenos Aires,Dolores,2009,4364.0
+Buenos Aires,Exaltación de la Cruz,2009,4295.0
+Buenos Aires,Florentino Ameghino,2009,1337.0
+Buenos Aires,General Alvarado,2009,4684.0
+Buenos Aires,General Alvear,2009,3473.0
+Buenos Aires,General Arenales,2009,4005.0
+Buenos Aires,General Belgrano,2009,3154.0
+Buenos Aires,General Guido,2009,3880.0
+Buenos Aires,General Juan Madariaga,2009,5904.0
+Buenos Aires,General La Madrid,2009,1616.0
+Buenos Aires,General Las Heras,2009,3608.0
+Buenos Aires,General Lavalle,2009,3760.0
+Buenos Aires,General Pinto,2009,2559.0
+Buenos Aires,General Pueyrredón,2009,4862.0
+Buenos Aires,General Rodríguez,2009,3613.0
+Buenos Aires,General Viamonte,2009,3950.0
+Buenos Aires,General Villegas,2009,1335.0
+Buenos Aires,Guaminí,2009,1553.0
+Buenos Aires,Hipólito Yrigoyen,2009,2894.0
+Buenos Aires,Junín,2009,3949.0
+Buenos Aires,Laprida,2009,1273.0
+Buenos Aires,Las Flores,2009,6851.0
+Buenos Aires,Leandro N. Alem,2009,3638.0
+Buenos Aires,Lincoln,2009,3226.0
+Buenos Aires,Lobería,2009,4446.0
+Buenos Aires,Lobos,2009,1895.0
+Buenos Aires,Luján,2009,3837.0
+Buenos Aires,Maipú,2009,4480.0
+Buenos Aires,Mar Chiquita,2009,4225.0
+Buenos Aires,Marcos Paz,2009,3667.0
+Buenos Aires,Mercedes,2009,3616.0
+Buenos Aires,Monte,2009,7186.0
+Buenos Aires,Navarro,2009,4909.0
+Buenos Aires,Necochea,2009,3875.0
+Buenos Aires,Olavarría,2009,3664.0
+Buenos Aires,Patagones,2009,1767.0
+Buenos Aires,Pehuajó,2009,3412.0
+Buenos Aires,Pellegrini,2009,1880.0
+Buenos Aires,Pergamino,2009,5396.0
+Buenos Aires,Pilar,2009,3839.0
+Buenos Aires,Puán,2009,806.0
+Buenos Aires,Ramallo,2009,4394.0
+Buenos Aires,Rauch,2009,4167.0
+Buenos Aires,Rivadavia,2009,2154.0
+Buenos Aires,Rojas,2009,4472.0
+Buenos Aires,Roque Pérez,2009,4099.0
+Buenos Aires,Saavedra,2009,1037.0
+Buenos Aires,Saladillo,2009,4928.0
+Buenos Aires,Salliqueló,2009,1665.0
+Buenos Aires,Salto,2009,5396.0
+Buenos Aires,San Andrés de Giles,2009,4728.0
+Buenos Aires,San Antonio de Areco,2009,4528.0
+Buenos Aires,San Cayetano,2009,3289.0
+Buenos Aires,San Nicolás,2009,4606.0
+Buenos Aires,San Pedro,2009,4506.0
+Buenos Aires,Suipacha,2009,3370.0
+Buenos Aires,Tandil,2009,4804.0
+Buenos Aires,Tapalqué,2009,3590.0
+Buenos Aires,Tornquist,2009,922.0
+Buenos Aires,Trenque Lauquen,2009,2043.0
+Buenos Aires,Tres Arroyos,2009,3388.0
+Buenos Aires,Tres Lomas,2009,2026.0
+Buenos Aires,Villarino,2009,2032.0
+Buenos Aires,Zárate,2009,4406.0
+Córdoba,Calamuchita,2009,1274.0
+Córdoba,Capital,2009,1039.0
+Córdoba,Colón,2009,810.0
+Córdoba,General Roca,2009,984.0
+Córdoba,General San Martín,2009,1446.0
+Córdoba,Juárez Celman,2009,1447.0
+Córdoba,Marcos Juárez,2009,2663.0
+Córdoba,Presidente Roque Sáenz Peña,2009,810.0
+Córdoba,Río Cuarto,2009,1447.0
+Córdoba,Río Primero,2009,1099.0
+Córdoba,Río Segundo,2009,926.0
+Córdoba,San Javier,2009,4747.0
+Córdoba,San Justo,2009,1099.0
+Córdoba,Santa María,2009,693.0
+Córdoba,Tercero Arriba,2009,983.0
+Córdoba,Totoral,2009,2430.0
+Córdoba,Unión,2009,2142.0
+Entre Ríos,Colón,2009,4074.0
+Entre Ríos,Concordia,2009,3878.0
+Entre Ríos,Diamante,2009,4665.0
+Entre Ríos,Federación,2009,3763.0
+Entre Ríos,Federal,2009,4110.0
+Entre Ríos,Feliciano,2009,3876.0
+Entre Ríos,Gualeguay,2009,4897.0
+Entre Ríos,Gualeguaychú,2009,4121.0
+Entre Ríos,La Paz,2009,4306.0
+Entre Ríos,Nogoyá,2009,4353.0
+Entre Ríos,Paraná,2009,4457.0
+Entre Ríos,San Salvador,2009,3646.0
+Entre Ríos,Tala,2009,3635.0
+Entre Ríos,Uruguay,2009,4341.0
+Entre Ríos,Victoria,2009,4688.0
+Entre Ríos,Villaguay,2009,4098.0
+La Pampa,Atreucó,2009,1042.0
+La Pampa,Capital,2009,1157.0
+La Pampa,Catriló,2009,1099.0
+La Pampa,Chapaleufú,2009,1216.0
+La Pampa,Conhelo,2009,810.0
+La Pampa,Guatraché,2009,984.0
+La Pampa,Hucal,2009,926.0
+La Pampa,Maracó,2009,1216.0
+La Pampa,Quemú Quemú,2009,1006.0
+La Pampa,Rancul,2009,812.0
+La Pampa,Realicó,2009,925.0
+La Pampa,Toay,2009,1041.0
+La Pampa,Trenel,2009,753.0
+La Pampa,Utracán,2009,984.0
+Santa Fe,Belgrano,2009,3126.0
+Santa Fe,Caseros,2009,4341.0
+Santa Fe,Castellanos,2009,2026.0
+Santa Fe,General López,2009,3878.0
+Santa Fe,General Obligado,2009,1158.0
+Santa Fe,Iriondo,2009,4167.0
+Santa Fe,La Capital,2009,3415.0
+Santa Fe,Las Colonias,2009,2825.0
+Santa Fe,Rosario,2009,4167.0
+Santa Fe,San Cristóbal,2009,1961.0
+Santa Fe,San Javier,2009,1792.0
+Santa Fe,San Jerónimo,2009,4283.0
+Santa Fe,San Justo,2009,2720.0
+Santa Fe,San Lorenzo,2009,4688.0
+Santa Fe,San Martín,2009,1736.0
+Santa Fe,Vera,2009,1853.0
+Santa Fe,Villa Constitución,2009,4688.0
+Buenos Aires,25 de Mayo,2010,4544.0
+Buenos Aires,9 de Julio,2010,5680.0
+Buenos Aires,Adolfo Alsina,2010,2838.0
+Buenos Aires,Adolfo Gonzales Chaves,2010,4135.0
+Buenos Aires,Alberti,2010,4131.0
+Buenos Aires,Arrecifes,2010,4234.0
+Buenos Aires,Ayacucho,2010,4854.0
+Buenos Aires,Azul,2010,5111.0
+Buenos Aires,Bahía Blanca,2010,1383.0
+Buenos Aires,Balcarce,2010,5345.0
+Buenos Aires,Baradero,2010,4337.0
+Buenos Aires,Benito Juárez,2010,5009.0
+Buenos Aires,Bolívar,2010,4028.0
+Buenos Aires,Bragado,2010,5163.0
+Buenos Aires,Campana,2010,4234.0
+Buenos Aires,Cañuelas,2010,4029.0
+Buenos Aires,Capitán Sarmiento,2010,4441.0
+Buenos Aires,Carlos Casares,2010,4016.0
+Buenos Aires,Carlos Tejedor,2010,3927.0
+Buenos Aires,Carmen de Areco,2010,5164.0
+Buenos Aires,Castelli,2010,4338.0
+Buenos Aires,Chacabuco,2010,5370.0
+Buenos Aires,Chascomús,2010,4130.0
+Buenos Aires,Chivilcoy,2010,5163.0
+Buenos Aires,Colón,2010,4854.0
+Buenos Aires,Coronel de Marina Leonardo Rosales,2010,1910.0
+Buenos Aires,Coronel Dorrego,2010,2911.0
+Buenos Aires,Coronel Pringles,2010,3326.0
+Buenos Aires,Coronel Suárez,2010,3714.0
+Buenos Aires,Daireaux,2010,3924.0
+Buenos Aires,Dolores,2010,4234.0
+Buenos Aires,Exaltación de la Cruz,2010,4234.0
+Buenos Aires,Florentino Ameghino,2010,5061.0
+Buenos Aires,General Alvarado,2010,5266.0
+Buenos Aires,General Alvear,2010,4028.0
+Buenos Aires,General Arenales,2010,5577.0
+Buenos Aires,General Belgrano,2010,4338.0
+Buenos Aires,General Guido,2010,4234.0
+Buenos Aires,General Juan Madariaga,2010,5783.0
+Buenos Aires,General La Madrid,2010,3715.0
+Buenos Aires,General Las Heras,2010,3920.0
+Buenos Aires,General Lavalle,2010,4336.0
+Buenos Aires,General Pinto,2010,4647.0
+Buenos Aires,General Pueyrredón,2010,5370.0
+Buenos Aires,General Rodríguez,2010,3933.0
+Buenos Aires,General Viamonte,2010,4854.0
+Buenos Aires,General Villegas,2010,4957.0
+Buenos Aires,Guaminí,2010,3089.0
+Buenos Aires,Hipólito Yrigoyen,2010,4028.0
+Buenos Aires,Junín,2010,5577.0
+Buenos Aires,Laprida,2010,4337.0
+Buenos Aires,Las Flores,2010,4130.0
+Buenos Aires,Leandro N. Alem,2010,5060.0
+Buenos Aires,Lincoln,2010,4854.0
+Buenos Aires,Lobería,2010,5276.0
+Buenos Aires,Lobos,2010,4131.0
+Buenos Aires,Luján,2010,5164.0
+Buenos Aires,Maipú,2010,5267.0
+Buenos Aires,Mar Chiquita,2010,5163.0
+Buenos Aires,Marcos Paz,2010,3920.0
+Buenos Aires,Mercedes,2010,4648.0
+Buenos Aires,Monte,2010,4233.0
+Buenos Aires,Navarro,2010,4131.0
+Buenos Aires,Necochea,2010,5876.0
+Buenos Aires,Olavarría,2010,3941.0
+Buenos Aires,Patagones,2010,1727.0
+Buenos Aires,Pehuajó,2010,4026.0
+Buenos Aires,Pellegrini,2010,3182.0
+Buenos Aires,Pergamino,2010,4957.0
+Buenos Aires,Pilar,2010,4125.0
+Buenos Aires,Puán,2010,1959.0
+Buenos Aires,Ramallo,2010,4234.0
+Buenos Aires,Rauch,2010,4905.0
+Buenos Aires,Rivadavia,2010,4023.0
+Buenos Aires,Rojas,2010,5370.0
+Buenos Aires,Roque Pérez,2010,4234.0
+Buenos Aires,Saavedra,2010,2526.0
+Buenos Aires,Saladillo,2010,4441.0
+Buenos Aires,Salliqueló,2010,2883.0
+Buenos Aires,Salto,2010,4751.0
+Buenos Aires,San Andrés de Giles,2010,5164.0
+Buenos Aires,San Antonio de Areco,2010,4337.0
+Buenos Aires,San Cayetano,2010,4326.0
+Buenos Aires,San Nicolás,2010,4234.0
+Buenos Aires,San Pedro,2010,4234.0
+Buenos Aires,Suipacha,2010,4649.0
+Buenos Aires,Tandil,2010,5266.0
+Buenos Aires,Tapalqué,2010,3720.0
+Buenos Aires,Tornquist,2010,2164.0
+Buenos Aires,Trenque Lauquen,2010,3921.0
+Buenos Aires,Tres Arroyos,2010,4519.0
+Buenos Aires,Tres Lomas,2010,2892.0
+Buenos Aires,Villarino,2010,1145.0
+Buenos Aires,Zárate,2010,4234.0
+Córdoba,Calamuchita,2010,2168.0
+Córdoba,Capital,2010,2167.0
+Córdoba,Colón,2010,2685.0
+Córdoba,General Roca,2010,2891.0
+Córdoba,General San Martín,2010,3511.0
+Córdoba,Juárez Celman,2010,2375.0
+Córdoba,Marcos Juárez,2010,5480.0
+Córdoba,Presidente Roque Sáenz Peña,2010,3511.0
+Córdoba,Río Cuarto,2010,2375.0
+Córdoba,Río Primero,2010,2685.0
+Córdoba,Río Seco,2010,1960.0
+Córdoba,Río Segundo,2010,2790.0
+Córdoba,San Javier,2010,4750.0
+Córdoba,San Justo,2010,2892.0
+Córdoba,Santa María,2010,1137.0
+Córdoba,Tercero Arriba,2010,2582.0
+Córdoba,Totoral,2010,1963.0
+Córdoba,Tulumba,2010,1960.0
+Córdoba,Unión,2010,5180.0
+Entre Ríos,Colón,2010,3201.0
+Entre Ríos,Concordia,2010,3511.0
+Entre Ríos,Diamante,2010,4234.0
+Entre Ríos,Federación,2010,3511.0
+Entre Ríos,Federal,2010,3615.0
+Entre Ríos,Feliciano,2010,3615.0
+Entre Ríos,Gualeguay,2010,4596.0
+Entre Ríos,Gualeguaychú,2010,3615.0
+Entre Ríos,La Paz,2010,4028.0
+Entre Ríos,Nogoyá,2010,4028.0
+Entre Ríos,Paraná,2010,4131.0
+Entre Ríos,San Salvador,2010,3201.0
+Entre Ríos,Tala,2010,4028.0
+Entre Ríos,Uruguay,2010,3408.0
+Entre Ríos,Victoria,2010,4750.0
+Entre Ríos,Villaguay,2010,3408.0
+La Pampa,Atreucó,2010,1859.0
+La Pampa,Capital,2010,1858.0
+La Pampa,Catriló,2010,2478.0
+La Pampa,Chapaleufú,2010,3098.0
+La Pampa,Conhelo,2010,2582.0
+La Pampa,Guatraché,2010,1342.0
+La Pampa,Hucal,2010,1549.0
+La Pampa,Maracó,2010,3098.0
+La Pampa,Quemú Quemú,2010,2582.0
+La Pampa,Rancul,2010,2065.0
+La Pampa,Realicó,2010,2479.0
+La Pampa,Toay,2010,1550.0
+La Pampa,Trenel,2010,2272.0
+La Pampa,Utracán,2010,1859.0
+Santa Fe,9 de Julio,2010,1652.0
+Santa Fe,Belgrano,2010,5060.0
+Santa Fe,Caseros,2010,5061.0
+Santa Fe,Castellanos,2010,3718.0
+Santa Fe,General López,2010,5160.0
+Santa Fe,General Obligado,2010,2892.0
+Santa Fe,Iriondo,2010,5060.0
+Santa Fe,La Capital,2010,3511.0
+Santa Fe,Las Colonias,2010,3614.0
+Santa Fe,Rosario,2010,4750.0
+Santa Fe,San Cristóbal,2010,2686.0
+Santa Fe,San Javier,2010,2580.0
+Santa Fe,San Jerónimo,2010,4544.0
+Santa Fe,San Justo,2010,3202.0
+Santa Fe,San Lorenzo,2010,4751.0
+Santa Fe,San Martín,2010,4441.0
+Santa Fe,Vera,2010,3098.0
+Santa Fe,Villa Constitución,2010,4751.0
+Buenos Aires,25 de Mayo,2011,4700.0
+Buenos Aires,9 de Julio,2011,5000.0
+Buenos Aires,Adolfo Alsina,2011,2798.0
+Buenos Aires,Adolfo Gonzales Chaves,2011,4279.0
+Buenos Aires,Alberti,2011,5000.0
+Buenos Aires,Arrecifes,2011,4500.0
+Buenos Aires,Ayacucho,2011,4700.0
+Buenos Aires,Azul,2011,4905.0
+Buenos Aires,Bahía Blanca,2011,1075.0
+Buenos Aires,Balcarce,2011,5586.0
+Buenos Aires,Baradero,2011,4400.0
+Buenos Aires,Benito Juárez,2011,5300.0
+Buenos Aires,Bolívar,2011,4200.0
+Buenos Aires,Bragado,2011,4700.0
+Buenos Aires,Campana,2011,4400.0
+Buenos Aires,Cañuelas,2011,4100.0
+Buenos Aires,Capitán Sarmiento,2011,4500.0
+Buenos Aires,Carlos Casares,2011,3208.0
+Buenos Aires,Carlos Tejedor,2011,3208.0
+Buenos Aires,Carmen de Areco,2011,4900.0
+Buenos Aires,Castelli,2011,3900.0
+Buenos Aires,Chacabuco,2011,5000.0
+Buenos Aires,Chascomús,2011,4200.0
+Buenos Aires,Chivilcoy,2011,4400.0
+Buenos Aires,Colón,2011,4900.0
+Buenos Aires,Coronel de Marina Leonardo Rosales,2011,1079.0
+Buenos Aires,Coronel Dorrego,2011,3235.0
+Buenos Aires,Coronel Pringles,2011,3352.0
+Buenos Aires,Coronel Suárez,2011,3190.0
+Buenos Aires,Daireaux,2011,4000.0
+Buenos Aires,Dolores,2011,3800.0
+Buenos Aires,Exaltación de la Cruz,2011,4400.0
+Buenos Aires,Florentino Ameghino,2011,2600.0
+Buenos Aires,General Alvarado,2011,5598.0
+Buenos Aires,General Alvear,2011,4400.0
+Buenos Aires,General Arenales,2011,5000.0
+Buenos Aires,General Belgrano,2011,4300.0
+Buenos Aires,General Guido,2011,3902.0
+Buenos Aires,General Juan Madariaga,2011,4200.0
+Buenos Aires,General La Madrid,2011,3191.0
+Buenos Aires,General Las Heras,2011,4800.0
+Buenos Aires,General Lavalle,2011,5200.0
+Buenos Aires,General Pinto,2011,3600.0
+Buenos Aires,General Pueyrredón,2011,5400.0
+Buenos Aires,General Rodríguez,2011,4800.0
+Buenos Aires,General Viamonte,2011,4500.0
+Buenos Aires,General Villegas,2011,3500.0
+Buenos Aires,Guaminí,2011,3090.0
+Buenos Aires,Hipólito Yrigoyen,2011,4200.0
+Buenos Aires,Junín,2011,5000.0
+Buenos Aires,Laprida,2011,3600.0
+Buenos Aires,Las Flores,2011,4200.0
+Buenos Aires,Leandro N. Alem,2011,4100.0
+Buenos Aires,Lincoln,2011,3800.0
+Buenos Aires,Lobería,2011,5495.0
+Buenos Aires,Lobos,2011,4500.0
+Buenos Aires,Luján,2011,4800.0
+Buenos Aires,Maipú,2011,5100.0
+Buenos Aires,Mar Chiquita,2011,4900.0
+Buenos Aires,Marcos Paz,2011,4800.0
+Buenos Aires,Mercedes,2011,3500.0
+Buenos Aires,Monte,2011,4300.0
+Buenos Aires,Navarro,2011,4500.0
+Buenos Aires,Necochea,2011,5574.0
+Buenos Aires,Olavarría,2011,4163.0
+Buenos Aires,Patagones,2011,1013.0
+Buenos Aires,Pehuajó,2011,3211.0
+Buenos Aires,Pellegrini,2011,3084.0
+Buenos Aires,Pergamino,2011,4900.0
+Buenos Aires,Pilar,2011,4800.0
+Buenos Aires,Puán,2011,2497.0
+Buenos Aires,Ramallo,2011,4500.0
+Buenos Aires,Rauch,2011,4900.0
+Buenos Aires,Rivadavia,2011,3305.0
+Buenos Aires,Rojas,2011,5200.0
+Buenos Aires,Roque Pérez,2011,4500.0
+Buenos Aires,Saavedra,2011,2795.0
+Buenos Aires,Saladillo,2011,4600.0
+Buenos Aires,Salliqueló,2011,2793.0
+Buenos Aires,Salto,2011,4900.0
+Buenos Aires,San Andrés de Giles,2011,4900.0
+Buenos Aires,San Antonio de Areco,2011,4600.0
+Buenos Aires,San Cayetano,2011,4461.0
+Buenos Aires,San Nicolás,2011,4500.0
+Buenos Aires,San Pedro,2011,4400.0
+Buenos Aires,Suipacha,2011,3700.0
+Buenos Aires,Tandil,2011,5499.0
+Buenos Aires,Tapalqué,2011,4200.0
+Buenos Aires,Tornquist,2011,2195.0
+Buenos Aires,Trenque Lauquen,2011,3104.0
+Buenos Aires,Tres Arroyos,2011,4893.0
+Buenos Aires,Tres Lomas,2011,2892.0
+Buenos Aires,Villarino,2011,1170.0
+Buenos Aires,Zárate,2011,4400.0
+Córdoba,Calamuchita,2011,1600.0
+Córdoba,Capital,2011,2300.0
+Córdoba,Colón,2011,2300.0
+Córdoba,General Roca,2011,2500.0
+Córdoba,General San Martín,2011,2750.0
+Córdoba,Juárez Celman,2011,1600.0
+Córdoba,Marcos Juárez,2011,4300.0
+Córdoba,Presidente Roque Sáenz Peña,2011,2500.0
+Córdoba,Río Cuarto,2011,1500.0
+Córdoba,Río Primero,2011,2200.0
+Córdoba,Río Segundo,2011,2770.0
+Córdoba,San Javier,2011,3800.0
+Córdoba,San Justo,2011,3100.0
+Córdoba,Santa María,2011,1800.0
+Córdoba,Tercero Arriba,2011,2500.0
+Córdoba,Totoral,2011,0.0
+Córdoba,Unión,2011,4100.0
+Entre Ríos,Colón,2011,3400.0
+Entre Ríos,Concordia,2011,2900.0
+Entre Ríos,Diamante,2011,3900.0
+Entre Ríos,Federación,2011,2700.0
+Entre Ríos,Federal,2011,2900.0
+Entre Ríos,Feliciano,2011,3000.0
+Entre Ríos,Gualeguay,2011,4100.0
+Entre Ríos,Gualeguaychú,2011,3700.0
+Entre Ríos,La Paz,2011,3600.0
+Entre Ríos,Nogoyá,2011,3100.0
+Entre Ríos,Paraná,2011,3800.0
+Entre Ríos,San Salvador,2011,3100.0
+Entre Ríos,Tala,2011,3650.0
+Entre Ríos,Uruguay,2011,3600.0
+Entre Ríos,Victoria,2011,3800.0
+Entre Ríos,Villaguay,2011,3500.0
+La Pampa,Atreucó,2011,2400.0
+La Pampa,Capital,2011,2300.0
+La Pampa,Catriló,2011,2300.0
+La Pampa,Chapaleufú,2011,3100.0
+La Pampa,Conhelo,2011,2900.0
+La Pampa,Guatraché,2011,2300.0
+La Pampa,Hucal,2011,2200.0
+La Pampa,Maracó,2011,3000.0
+La Pampa,Quemú Quemú,2011,2800.0
+La Pampa,Rancul,2011,2600.0
+La Pampa,Realicó,2011,2800.0
+La Pampa,Toay,2011,2000.0
+La Pampa,Trenel,2011,2700.0
+La Pampa,Utracán,2011,2100.0
+Santa Fe,9 de Julio,2011,1600.0
+Santa Fe,Belgrano,2011,3900.0
+Santa Fe,Caseros,2011,4500.0
+Santa Fe,Castellanos,2011,4000.0
+Santa Fe,General López,2011,3800.0
+Santa Fe,General Obligado,2011,1800.0
+Santa Fe,Iriondo,2011,4000.0
+Santa Fe,La Capital,2011,3500.0
+Santa Fe,Las Colonias,2011,3800.0
+Santa Fe,Rosario,2011,4500.0
+Santa Fe,San Cristóbal,2011,3100.0
+Santa Fe,San Javier,2011,2000.0
+Santa Fe,San Jerónimo,2011,4000.0
+Santa Fe,San Justo,2011,3400.0
+Santa Fe,San Lorenzo,2011,4500.0
+Santa Fe,San Martín,2011,4100.0
+Santa Fe,Vera,2011,2700.0
+Santa Fe,Villa Constitución,2011,4500.0
+Buenos Aires,25 de Mayo,2012,2800.0
+Buenos Aires,9 de Julio,2012,3000.0
+Buenos Aires,Adolfo Alsina,2012,3097.0
+Buenos Aires,Adolfo Gonzales Chaves,2012,2707.0
+Buenos Aires,Alberti,2012,3000.0
+Buenos Aires,Arrecifes,2012,2800.0
+Buenos Aires,Ayacucho,2012,3600.0
+Buenos Aires,Azul,2012,3589.0
+Buenos Aires,Bahía Blanca,2012,1300.0
+Buenos Aires,Balcarce,2012,4409.0
+Buenos Aires,Baradero,2012,2900.0
+Buenos Aires,Benito Juárez,2012,3800.0
+Buenos Aires,Bolívar,2012,3000.0
+Buenos Aires,Bragado,2012,3000.0
+Buenos Aires,Campana,2012,3000.0
+Buenos Aires,Cañuelas,2012,2700.0
+Buenos Aires,Capitán Sarmiento,2012,2900.0
+Buenos Aires,Carlos Casares,2012,2050.0
+Buenos Aires,Carlos Tejedor,2012,2034.0
+Buenos Aires,Carmen de Areco,2012,3300.0
+Buenos Aires,Castelli,2012,3000.0
+Buenos Aires,Chacabuco,2012,3500.0
+Buenos Aires,Chascomús,2012,2500.0
+Buenos Aires,Chivilcoy,2012,3000.0
+Buenos Aires,Colón,2012,3300.0
+Buenos Aires,Coronel de Marina Leonardo Rosales,2012,1400.0
+Buenos Aires,Coronel Dorrego,2012,2673.0
+Buenos Aires,Coronel Pringles,2012,2801.0
+Buenos Aires,Coronel Suárez,2012,3986.0
+Buenos Aires,Daireaux,2012,2800.0
+Buenos Aires,Dolores,2012,3200.0
+Buenos Aires,Exaltación de la Cruz,2012,2800.0
+Buenos Aires,Florentino Ameghino,2012,2900.0
+Buenos Aires,General Alvarado,2012,4390.0
+Buenos Aires,General Alvear,2012,2800.0
+Buenos Aires,General Arenales,2012,3700.0
+Buenos Aires,General Belgrano,2012,2500.0
+Buenos Aires,General Guido,2012,3200.0
+Buenos Aires,General Juan Madariaga,2012,5100.0
+Buenos Aires,General La Madrid,2012,3789.0
+Buenos Aires,General Las Heras,2012,2901.0
+Buenos Aires,General Lavalle,2012,3200.0
+Buenos Aires,General Pinto,2012,3000.0
+Buenos Aires,General Pueyrredón,2012,4800.0
+Buenos Aires,General Rodríguez,2012,2800.0
+Buenos Aires,General Viamonte,2012,3100.0
+Buenos Aires,General Villegas,2012,3300.0
+Buenos Aires,Guaminí,2012,3093.0
+Buenos Aires,Hipólito Yrigoyen,2012,2800.0
+Buenos Aires,Junín,2012,3500.0
+Buenos Aires,Laprida,2012,2900.0
+Buenos Aires,Las Flores,2012,2700.0
+Buenos Aires,Leandro N. Alem,2012,3200.0
+Buenos Aires,Lincoln,2012,3100.0
+Buenos Aires,Lobería,2012,4540.0
+Buenos Aires,Lobos,2012,2500.0
+Buenos Aires,Luján,2012,3300.0
+Buenos Aires,Maipú,2012,5300.0
+Buenos Aires,Mar Chiquita,2012,3000.0
+Buenos Aires,Marcos Paz,2012,3100.0
+Buenos Aires,Mercedes,2012,2400.0
+Buenos Aires,Monte,2012,2700.0
+Buenos Aires,Navarro,2012,2800.0
+Buenos Aires,Necochea,2012,4681.0
+Buenos Aires,Olavarría,2012,3085.0
+Buenos Aires,Patagones,2012,1104.0
+Buenos Aires,Pehuajó,2012,2041.0
+Buenos Aires,Pellegrini,2012,2804.0
+Buenos Aires,Pergamino,2012,3100.0
+Buenos Aires,Pila,2012,3700.0
+Buenos Aires,Pilar,2012,2900.0
+Buenos Aires,Puán,2012,2984.0
+Buenos Aires,Ramallo,2012,2800.0
+Buenos Aires,Rauch,2012,3900.0
+Buenos Aires,Rivadavia,2012,2127.0
+Buenos Aires,Rojas,2012,3700.0
+Buenos Aires,Roque Pérez,2012,2800.0
+Buenos Aires,Saavedra,2012,3491.0
+Buenos Aires,Saladillo,2012,2800.0
+Buenos Aires,Salliqueló,2012,2996.0
+Buenos Aires,Salto,2012,3200.0
+Buenos Aires,San Andrés de Giles,2012,3300.0
+Buenos Aires,San Antonio de Areco,2012,2900.0
+Buenos Aires,San Cayetano,2012,3584.0
+Buenos Aires,San Nicolás,2012,3000.0
+Buenos Aires,San Pedro,2012,2900.0
+Buenos Aires,Suipacha,2012,2400.0
+Buenos Aires,Tandil,2012,4576.0
+Buenos Aires,Tapalqué,2012,2800.0
+Buenos Aires,Tornquist,2012,2698.0
+Buenos Aires,Trenque Lauquen,2012,2050.0
+Buenos Aires,Tres Arroyos,2012,3890.0
+Buenos Aires,Tres Lomas,2012,2897.0
+Buenos Aires,Villarino,2012,1000.0
+Buenos Aires,Zárate,2012,2900.0
+Córdoba,Calamuchita,2012,2300.0
+Córdoba,Capital,2012,2604.0
+Córdoba,Colón,2012,1300.0
+Córdoba,General Roca,2012,2900.0
+Córdoba,General San Martín,2012,3100.0
+Córdoba,Juárez Celman,2012,2400.0
+Córdoba,Marcos Juárez,2012,3200.0
+Córdoba,Presidente Roque Sáenz Peña,2012,3000.0
+Córdoba,Río Cuarto,2012,2400.0
+Córdoba,Río Primero,2012,2300.0
+Córdoba,Río Segundo,2012,2900.0
+Córdoba,San Javier,2012,3300.0
+Córdoba,San Justo,2012,3100.0
+Córdoba,Santa María,2012,2299.0
+Córdoba,Tercero Arriba,2012,2000.0
+Córdoba,Unión,2012,3300.0
+Entre Ríos,Colón,2012,1700.0
+Entre Ríos,Concordia,2012,2700.0
+Entre Ríos,Diamante,2012,3300.0
+Entre Ríos,Federación,2012,2700.0
+Entre Ríos,Federal,2012,2500.0
+Entre Ríos,Feliciano,2012,2500.0
+Entre Ríos,Gualeguay,2012,2500.0
+Entre Ríos,Gualeguaychú,2012,2200.0
+Entre Ríos,La Paz,2012,3000.0
+Entre Ríos,Nogoyá,2012,2200.0
+Entre Ríos,Paraná,2012,3200.0
+Entre Ríos,San Salvador,2012,2100.0
+Entre Ríos,Tala,2012,2200.0
+Entre Ríos,Uruguay,2012,2200.0
+Entre Ríos,Victoria,2012,2700.0
+Entre Ríos,Villaguay,2012,2250.0
+La Pampa,Atreucó,2012,2500.0
+La Pampa,Capital,2012,2300.0
+La Pampa,Catriló,2012,2500.0
+La Pampa,Chapaleufú,2012,3300.0
+La Pampa,Conhelo,2012,3000.0
+La Pampa,Guatraché,2012,2300.0
+La Pampa,Hucal,2012,2200.0
+La Pampa,Maracó,2012,3100.0
+La Pampa,Quemú Quemú,2012,2900.0
+La Pampa,Rancul,2012,2900.0
+La Pampa,Realicó,2012,3100.0
+La Pampa,Toay,2012,2100.0
+La Pampa,Trenel,2012,2900.0
+La Pampa,Utracán,2012,2100.0
+Santa Fe,9 de Julio,2012,2200.0
+Santa Fe,Belgrano,2012,3300.0
+Santa Fe,Caseros,2012,3200.0
+Santa Fe,Castellanos,2012,2800.0
+Santa Fe,General López,2012,3300.0
+Santa Fe,General Obligado,2012,2500.0
+Santa Fe,Iriondo,2012,3300.0
+Santa Fe,La Capital,2012,2000.0
+Santa Fe,Las Colonias,2012,2500.0
+Santa Fe,Rosario,2012,3200.0
+Santa Fe,San Cristóbal,2012,1600.0
+Santa Fe,San Javier,2012,2301.0
+Santa Fe,San Jerónimo,2012,2500.0
+Santa Fe,San Justo,2012,1700.0
+Santa Fe,San Lorenzo,2012,3200.0
+Santa Fe,San Martín,2012,2600.0
+Santa Fe,Vera,2012,2699.0
+Santa Fe,Villa Constitución,2012,3200.0
+Buenos Aires,25 de Mayo,2013,3900.0
+Buenos Aires,9 de Julio,2013,4800.0
+Buenos Aires,Adolfo Alsina,2013,2001.0
+Buenos Aires,Adolfo Gonzales Chaves,2013,3756.0
+Buenos Aires,Alberti,2013,4200.0
+Buenos Aires,Arrecifes,2013,4100.0
+Buenos Aires,Ayacucho,2013,4600.0
+Buenos Aires,Azul,2013,5147.0
+Buenos Aires,Bahía Blanca,2013,2100.0
+Buenos Aires,Balcarce,2013,5221.0
+Buenos Aires,Baradero,2013,4000.0
+Buenos Aires,Benito Juárez,2013,5200.0
+Buenos Aires,Bolívar,2013,4000.0
+Buenos Aires,Bragado,2013,4000.0
+Buenos Aires,Campana,2013,4100.0
+Buenos Aires,Cañuelas,2013,3800.0
+Buenos Aires,Capitán Sarmiento,2013,4200.0
+Buenos Aires,Carlos Casares,2013,3228.0
+Buenos Aires,Carlos Tejedor,2013,3304.0
+Buenos Aires,Carmen de Areco,2013,3800.0
+Buenos Aires,Castelli,2013,4800.0
+Buenos Aires,Chacabuco,2013,4500.0
+Buenos Aires,Chascomús,2013,3800.0
+Buenos Aires,Chivilcoy,2013,4000.0
+Buenos Aires,Colón,2013,4600.0
+Buenos Aires,Coronel de Marina Leonardo Rosales,2013,2300.0
+Buenos Aires,Coronel Dorrego,2013,3107.0
+Buenos Aires,Coronel Pringles,2013,3101.0
+Buenos Aires,Coronel Suárez,2013,3200.0
+Buenos Aires,Daireaux,2013,4000.0
+Buenos Aires,Dolores,2013,3800.0
+Buenos Aires,Exaltación de la Cruz,2013,4000.0
+Buenos Aires,Florentino Ameghino,2013,3000.0
+Buenos Aires,General Alvarado,2013,5000.0
+Buenos Aires,General Alvear,2013,4000.0
+Buenos Aires,General Arenales,2013,4400.0
+Buenos Aires,General Belgrano,2013,3702.0
+Buenos Aires,General Guido,2013,4700.0
+Buenos Aires,General Juan Madariaga,2013,5800.0
+Buenos Aires,General La Madrid,2013,3300.0
+Buenos Aires,General Las Heras,2013,3000.0
+Buenos Aires,General Lavalle,2013,5000.0
+Buenos Aires,General Pinto,2013,3300.0
+Buenos Aires,General Pueyrredón,2013,5200.0
+Buenos Aires,General Rodríguez,2013,3000.0
+Buenos Aires,General Viamonte,2013,4100.0
+Buenos Aires,General Villegas,2013,3300.0
+Buenos Aires,Guaminí,2013,2790.0
+Buenos Aires,Hipólito Yrigoyen,2013,4000.0
+Buenos Aires,Junín,2013,4000.0
+Buenos Aires,Laprida,2013,3600.0
+Buenos Aires,Las Flores,2013,3899.0
+Buenos Aires,Leandro N. Alem,2013,3600.0
+Buenos Aires,Lincoln,2013,3400.0
+Buenos Aires,Lobería,2013,5170.0
+Buenos Aires,Lobos,2013,3900.0
+Buenos Aires,Luján,2013,3700.0
+Buenos Aires,Maipú,2013,5800.0
+Buenos Aires,Mar Chiquita,2013,4500.0
+Buenos Aires,Marcos Paz,2013,3800.0
+Buenos Aires,Mercedes,2013,3800.0
+Buenos Aires,Monte,2013,3900.0
+Buenos Aires,Navarro,2013,3900.0
+Buenos Aires,Necochea,2013,5194.0
+Buenos Aires,Olavarría,2013,3856.0
+Buenos Aires,Patagones,2013,1120.0
+Buenos Aires,Pehuajó,2013,3308.0
+Buenos Aires,Pellegrini,2013,2597.0
+Buenos Aires,Pergamino,2013,4500.0
+Buenos Aires,Pila,2013,5300.0
+Buenos Aires,Pilar,2013,3000.0
+Buenos Aires,Puán,2013,2200.0
+Buenos Aires,Ramallo,2013,4100.0
+Buenos Aires,Rauch,2013,5000.0
+Buenos Aires,Rivadavia,2013,3411.0
+Buenos Aires,Rojas,2013,4200.0
+Buenos Aires,Roque Pérez,2013,3800.0
+Buenos Aires,Saavedra,2013,2305.0
+Buenos Aires,Saladillo,2013,3900.0
+Buenos Aires,Salliqueló,2013,2495.0
+Buenos Aires,Salto,2013,4600.0
+Buenos Aires,San Andrés de Giles,2013,4000.0
+Buenos Aires,San Antonio de Areco,2013,4200.0
+Buenos Aires,San Cayetano,2013,3783.0
+Buenos Aires,San Nicolás,2013,4000.0
+Buenos Aires,San Pedro,2013,4100.0
+Buenos Aires,Suipacha,2013,4000.0
+Buenos Aires,Tandil,2013,5204.0
+Buenos Aires,Tapalqué,2013,4000.0
+Buenos Aires,Tordillo,2013,3700.0
+Buenos Aires,Tornquist,2013,2301.0
+Buenos Aires,Trenque Lauquen,2013,3513.0
+Buenos Aires,Tres Arroyos,2013,4280.0
+Buenos Aires,Tres Lomas,2013,2598.0
+Buenos Aires,Villarino,2013,1400.0
+Buenos Aires,Zárate,2013,4000.0
+Córdoba,Calamuchita,2013,1200.0
+Córdoba,Capital,2013,1100.0
+Córdoba,Colón,2013,3200.0
+Córdoba,General Roca,2013,2200.0
+Córdoba,General San Martín,2013,1600.0
+Córdoba,Ischilín,2013,0.0
+Córdoba,Juárez Celman,2013,1500.0
+Córdoba,Marcos Juárez,2013,2900.0
+Córdoba,Presidente Roque Sáenz Peña,2013,2400.0
+Córdoba,Río Cuarto,2013,1300.0
+Córdoba,Río Primero,2013,900.0
+Córdoba,Río Segundo,2013,770.0
+Córdoba,San Javier,2013,3200.0
+Córdoba,San Justo,2013,700.0
+Córdoba,Santa María,2013,800.0
+Córdoba,Tercero Arriba,2013,1050.0
+Córdoba,Totoral,2013,3000.0
+Córdoba,Tulumba,2013,600.0
+Córdoba,Unión,2013,2700.0
+Entre Ríos,Colón,2013,2400.0
+Entre Ríos,Concordia,2013,2400.0
+Entre Ríos,Diamante,2013,3200.0
+Entre Ríos,Federación,2013,2200.0
+Entre Ríos,Federal,2013,2400.0
+Entre Ríos,Feliciano,2013,2000.0
+Entre Ríos,Gualeguay,2013,3100.0
+Entre Ríos,Gualeguaychú,2013,3200.0
+Entre Ríos,La Paz,2013,2800.0
+Entre Ríos,Nogoyá,2013,2700.0
+Entre Ríos,Paraná,2013,3000.0
+Entre Ríos,San Salvador,2013,2300.0
+Entre Ríos,Tala,2013,3150.0
+Entre Ríos,Uruguay,2013,3050.0
+Entre Ríos,Victoria,2013,2700.0
+Entre Ríos,Villaguay,2013,2500.0
+La Pampa,Atreucó,2013,1600.0
+La Pampa,Capital,2013,2000.0
+La Pampa,Catriló,2013,2200.0
+La Pampa,Chapaleufú,2013,1800.0
+La Pampa,Conhelo,2013,1500.0
+La Pampa,Guatraché,2013,1600.0
+La Pampa,Hucal,2013,1400.0
+La Pampa,Maracó,2013,1800.0
+La Pampa,Quemú Quemú,2013,1600.0
+La Pampa,Rancul,2013,1400.0
+La Pampa,Realicó,2013,1400.0
+La Pampa,Toay,2013,1300.0
+La Pampa,Trenel,2013,1500.0
+La Pampa,Utracán,2013,1500.0
+Santa Fe,9 de Julio,2013,800.0
+Santa Fe,Belgrano,2013,2200.0
+Santa Fe,Caseros,2013,2200.0
+Santa Fe,Castellanos,2013,1700.0
+Santa Fe,General López,2013,3300.0
+Santa Fe,General Obligado,2013,1500.0
+Santa Fe,Iriondo,2013,2300.0
+Santa Fe,La Capital,2013,1900.0
+Santa Fe,Las Colonias,2013,2200.0
+Santa Fe,Rosario,2013,2000.0
+Santa Fe,San Cristóbal,2013,800.0
+Santa Fe,San Javier,2013,1400.0
+Santa Fe,San Jerónimo,2013,2300.0
+Santa Fe,San Justo,2013,1600.0
+Santa Fe,San Lorenzo,2013,2200.0
+Santa Fe,San Martín,2013,2100.0
+Santa Fe,Vera,2013,1300.0
+Santa Fe,Villa Constitución,2013,2400.0
+Buenos Aires,25 de Mayo,2014,3700.0
+Buenos Aires,9 de Julio,2014,4100.0
+Buenos Aires,Adolfo Alsina,2014,2698.0
+Buenos Aires,Adolfo Gonzales Chaves,2014,2597.0
+Buenos Aires,Alberti,2014,4101.0
+Buenos Aires,Arrecifes,2014,3500.0
+Buenos Aires,Ayacucho,2014,3700.0
+Buenos Aires,Azul,2014,3681.0
+Buenos Aires,Bahía Blanca,2014,1700.0
+Buenos Aires,Balcarce,2014,3590.0
+Buenos Aires,Baradero,2014,3500.0
+Buenos Aires,Benito Juárez,2014,3600.0
+Buenos Aires,Bolívar,2014,2800.0
+Buenos Aires,Bragado,2014,4100.0
+Buenos Aires,Brandsen,2014,3500.0
+Buenos Aires,Campana,2014,3400.0
+Buenos Aires,Cañuelas,2014,3598.0
+Buenos Aires,Capitán Sarmiento,2014,3549.0
+Buenos Aires,Carlos Casares,2014,2816.0
+Buenos Aires,Carlos Tejedor,2014,2802.0
+Buenos Aires,Carmen de Areco,2014,3800.0
+Buenos Aires,Castelli,2014,3600.0
+Buenos Aires,Chacabuco,2014,4100.0
+Buenos Aires,Chascomús,2014,3400.0
+Buenos Aires,Chivilcoy,2014,4100.0
+Buenos Aires,Colón,2014,3900.0
+Buenos Aires,Coronel de Marina Leonardo Rosales,2014,2101.0
+Buenos Aires,Coronel Dorrego,2014,2575.0
+Buenos Aires,Coronel Pringles,2014,2716.0
+Buenos Aires,Coronel Suárez,2014,3003.0
+Buenos Aires,Daireaux,2014,2800.0
+Buenos Aires,Dolores,2014,0.0
+Buenos Aires,Exaltación de la Cruz,2014,3378.0
+Buenos Aires,Florentino Ameghino,2014,3800.0
+Buenos Aires,General Alvarado,2014,3491.0
+Buenos Aires,General Alvear,2014,2800.0
+Buenos Aires,General Arenales,2014,4100.0
+Buenos Aires,General Belgrano,2014,3200.0
+Buenos Aires,General Guido,2014,3500.0
+Buenos Aires,General Juan Madariaga,2014,3700.0
+Buenos Aires,General La Madrid,2014,3002.0
+Buenos Aires,General Las Heras,2014,3514.0
+Buenos Aires,General Lavalle,2014,3600.0
+Buenos Aires,General Paz,2014,3400.0
+Buenos Aires,General Pinto,2014,3900.0
+Buenos Aires,General Pueyrredón,2014,3500.0
+Buenos Aires,General Rodríguez,2014,3615.0
+Buenos Aires,General Viamonte,2014,4100.0
+Buenos Aires,General Villegas,2014,3800.0
+Buenos Aires,Guaminí,2014,2795.0
+Buenos Aires,Hipólito Yrigoyen,2014,2800.0
+Buenos Aires,Junín,2014,3900.0
+Buenos Aires,Laprida,2014,2700.0
+Buenos Aires,Las Flores,2014,3600.0
+Buenos Aires,Leandro N. Alem,2014,4000.0
+Buenos Aires,Lincoln,2014,3900.0
+Buenos Aires,Lobería,2014,3583.0
+Buenos Aires,Lobos,2014,3700.0
+Buenos Aires,Luján,2014,3595.0
+Buenos Aires,Magdalena,2014,3500.0
+Buenos Aires,Maipú,2014,3700.0
+Buenos Aires,Mar Chiquita,2014,3800.0
+Buenos Aires,Marcos Paz,2014,3602.0
+Buenos Aires,Mercedes,2014,2700.0
+Buenos Aires,Monte,2014,3702.0
+Buenos Aires,Navarro,2014,3700.0
+Buenos Aires,Necochea,2014,3794.0
+Buenos Aires,Olavarría,2014,2890.0
+Buenos Aires,Patagones,2014,1686.0
+Buenos Aires,Pehuajó,2014,3500.0
+Buenos Aires,Pellegrini,2014,2698.0
+Buenos Aires,Pergamino,2014,3900.0
+Buenos Aires,Pila,2014,3700.0
+Buenos Aires,Pilar,2014,3722.0
+Buenos Aires,Puán,2014,2602.0
+Buenos Aires,Punta Indio,2014,3200.0
+Buenos Aires,Ramallo,2014,3553.0
+Buenos Aires,Rauch,2014,3600.0
+Buenos Aires,Rivadavia,2014,3309.0
+Buenos Aires,Rojas,2014,4200.0
+Buenos Aires,Roque Pérez,2014,3807.0
+Buenos Aires,Saavedra,2014,2603.0
+Buenos Aires,Saladillo,2014,3800.0
+Buenos Aires,Salliqueló,2014,2694.0
+Buenos Aires,Salto,2014,3800.0
+Buenos Aires,San Andrés de Giles,2014,3900.0
+Buenos Aires,San Antonio de Areco,2014,3558.0
+Buenos Aires,San Cayetano,2014,2778.0
+Buenos Aires,San Nicolás,2014,3600.0
+Buenos Aires,San Pedro,2014,3600.0
+Buenos Aires,San Vicente,2014,3711.0
+Buenos Aires,Suipacha,2014,2698.0
+Buenos Aires,Tandil,2014,3794.0
+Buenos Aires,Tapalqué,2014,2800.0
+Buenos Aires,Tordillo,2014,3600.0
+Buenos Aires,Tornquist,2014,2601.0
+Buenos Aires,Trenque Lauquen,2014,3104.0
+Buenos Aires,Tres Arroyos,2014,3610.0
+Buenos Aires,Tres Lomas,2014,2699.0
+Buenos Aires,Villarino,2014,1603.0
+Buenos Aires,Zárate,2014,3600.0
+Córdoba,Calamuchita,2014,2100.0
+Córdoba,Capital,2014,2400.0
+Córdoba,Colón,2014,2500.0
+Córdoba,General Roca,2014,3000.0
+Córdoba,General San Martín,2014,2600.0
+Córdoba,Ischilín,2014,1800.0
+Córdoba,Juárez Celman,2014,2300.0
+Córdoba,Marcos Juárez,2014,3300.0
+Córdoba,Presidente Roque Sáenz Peña,2014,3200.0
+Córdoba,Río Cuarto,2014,2200.0
+Córdoba,Río Primero,2014,2600.0
+Córdoba,Río Seco,2014,2800.0
+Córdoba,Río Segundo,2014,2200.0
+Córdoba,San Javier,2014,3100.0
+Córdoba,San Justo,2014,2600.0
+Córdoba,Santa María,2014,2400.0
+Córdoba,Tercero Arriba,2014,2400.0
+Córdoba,Totoral,2014,2800.0
+Córdoba,Tulumba,2014,1500.0
+Córdoba,Unión,2014,3300.0
+Entre Ríos,Colón,2014,2000.0
+Entre Ríos,Concordia,2014,1600.0
+Entre Ríos,Diamante,2014,3050.0
+Entre Ríos,Federación,2014,1600.0
+Entre Ríos,Federal,2014,2800.0
+Entre Ríos,Feliciano,2014,1600.0
+Entre Ríos,Gualeguay,2014,2600.0
+Entre Ríos,Gualeguaychú,2014,2500.0
+Entre Ríos,La Paz,2014,2900.0
+Entre Ríos,Nogoyá,2014,2400.0
+Entre Ríos,Paraná,2014,3050.0
+Entre Ríos,San Salvador,2014,2200.0
+Entre Ríos,Tala,2014,2300.0
+Entre Ríos,Uruguay,2014,2300.0
+Entre Ríos,Victoria,2014,2600.0
+Entre Ríos,Villaguay,2014,2300.0
+La Pampa,Atreucó,2014,2600.0
+La Pampa,Capital,2014,2500.0
+La Pampa,Catriló,2014,2600.0
+La Pampa,Chapaleufú,2014,2800.0
+La Pampa,Conhelo,2014,2700.0
+La Pampa,Guatraché,2014,2500.0
+La Pampa,Hucal,2014,2500.0
+La Pampa,Maracó,2014,2800.0
+La Pampa,Quemú Quemú,2014,2600.0
+La Pampa,Rancul,2014,2500.0
+La Pampa,Realicó,2014,2700.0
+La Pampa,Toay,2014,2200.0
+La Pampa,Trenel,2014,2600.0
+La Pampa,Utracán,2014,2100.0
+Santa Fe,9 de Julio,2014,1800.0
+Santa Fe,Belgrano,2014,3300.0
+Santa Fe,Caseros,2014,3300.0
+Santa Fe,Castellanos,2014,2300.0
+Santa Fe,General López,2014,3700.0
+Santa Fe,General Obligado,2014,1900.0
+Santa Fe,Iriondo,2014,3000.0
+Santa Fe,La Capital,2014,2301.0
+Santa Fe,Las Colonias,2014,2400.0
+Santa Fe,Rosario,2014,3300.0
+Santa Fe,San Cristóbal,2014,2100.0
+Santa Fe,San Javier,2014,1800.0
+Santa Fe,San Jerónimo,2014,2900.0
+Santa Fe,San Justo,2014,2300.0
+Santa Fe,San Lorenzo,2014,3300.0
+Santa Fe,San Martín,2014,2800.0
+Santa Fe,Vera,2014,2400.0
+Santa Fe,Villa Constitución,2014,3400.0
+Buenos Aires,25 de Mayo,2015,3000.0
+Buenos Aires,9 de Julio,2015,4000.0
+Buenos Aires,Adolfo Alsina,2015,2699.0
+Buenos Aires,Adolfo Gonzales Chaves,2015,3600.0
+Buenos Aires,Alberti,2015,4000.0
+Buenos Aires,Arrecifes,2015,4000.0
+Buenos Aires,Ayacucho,2015,4000.0
+Buenos Aires,Azul,2015,4094.0
+Buenos Aires,Bahía Blanca,2015,2600.0
+Buenos Aires,Balcarce,2015,4773.0
+Buenos Aires,Baradero,2015,4100.0
+Buenos Aires,Benito Juárez,2015,3900.0
+Buenos Aires,Bolívar,2015,3900.0
+Buenos Aires,Bragado,2015,4000.0
+Buenos Aires,Brandsen,2015,2797.0
+Buenos Aires,Campana,2015,4200.0
+Buenos Aires,Cañuelas,2015,2801.0
+Buenos Aires,Capitán Sarmiento,2015,3900.0
+Buenos Aires,Carlos Casares,2015,3500.0
+Buenos Aires,Carlos Tejedor,2015,3200.0
+Buenos Aires,Carmen de Areco,2015,4200.0
+Buenos Aires,Castelli,2015,3200.0
+Buenos Aires,Chacabuco,2015,4500.0
+Buenos Aires,Chascomús,2015,2502.0
+Buenos Aires,Chivilcoy,2015,4000.0
+Buenos Aires,Colón,2015,4300.0
+Buenos Aires,Coronel de Marina Leonardo Rosales,2015,2798.0
+Buenos Aires,Coronel Dorrego,2015,3608.0
+Buenos Aires,Coronel Pringles,2015,3923.0
+Buenos Aires,Coronel Suárez,2015,3200.0
+Buenos Aires,Daireaux,2015,3900.0
+Buenos Aires,Exaltación de la Cruz,2015,3846.0
+Buenos Aires,Florentino Ameghino,2015,3800.0
+Buenos Aires,General Alvarado,2015,4872.0
+Buenos Aires,General Alvear,2015,3900.0
+Buenos Aires,General Arenales,2015,4600.0
+Buenos Aires,General Belgrano,2015,2900.0
+Buenos Aires,General Guido,2015,0.0
+Buenos Aires,General Juan Madariaga,2015,5000.0
+Buenos Aires,General La Madrid,2015,3000.0
+Buenos Aires,General Las Heras,2015,2616.0
+Buenos Aires,General Lavalle,2015,2800.0
+Buenos Aires,General Paz,2015,2398.0
+Buenos Aires,General Pinto,2015,4000.0
+Buenos Aires,General Pueyrredón,2015,5000.0
+Buenos Aires,General Rodríguez,2015,2727.0
+Buenos Aires,General Viamonte,2015,4000.0
+Buenos Aires,General Villegas,2015,3700.0
+Buenos Aires,Guaminí,2015,2698.0
+Buenos Aires,Hipólito Yrigoyen,2015,3900.0
+Buenos Aires,Junín,2015,4500.0
+Buenos Aires,La Plata,2015,2519.0
+Buenos Aires,Laprida,2015,3600.0
+Buenos Aires,Las Flores,2015,3000.0
+Buenos Aires,Leandro N. Alem,2015,4101.0
+Buenos Aires,Lincoln,2015,3900.0
+Buenos Aires,Lobería,2015,3926.0
+Buenos Aires,Lobos,2015,3100.0
+Buenos Aires,Luján,2015,2809.0
+Buenos Aires,Magdalena,2015,2395.0
+Buenos Aires,Maipú,2015,4500.0
+Buenos Aires,Mar Chiquita,2015,4000.0
+Buenos Aires,Marcos Paz,2015,2593.0
+Buenos Aires,Mercedes,2015,3000.0
+Buenos Aires,Monte,2015,3200.0
+Buenos Aires,Navarro,2015,3000.0
+Buenos Aires,Necochea,2015,4490.0
+Buenos Aires,Olavarría,2015,4037.0
+Buenos Aires,Patagones,2015,1904.0
+Buenos Aires,Pehuajó,2015,3300.0
+Buenos Aires,Pellegrini,2015,2790.0
+Buenos Aires,Pergamino,2015,4200.0
+Buenos Aires,Pila,2015,2600.0
+Buenos Aires,Pilar,2015,2869.0
+Buenos Aires,Puán,2015,3187.0
+Buenos Aires,Punta Indio,2015,2590.0
+Buenos Aires,Ramallo,2015,3947.0
+Buenos Aires,Rauch,2015,3800.0
+Buenos Aires,Rivadavia,2015,3000.0
+Buenos Aires,Rojas,2015,5000.0
+Buenos Aires,Roque Pérez,2015,2903.0
+Buenos Aires,Saavedra,2015,3000.0
+Buenos Aires,Saladillo,2015,3000.0
+Buenos Aires,Salliqueló,2015,2698.0
+Buenos Aires,Salto,2015,4400.0
+Buenos Aires,San Andrés de Giles,2015,4199.0
+Buenos Aires,San Antonio de Areco,2015,3779.0
+Buenos Aires,San Cayetano,2015,3902.0
+Buenos Aires,San Nicolás,2015,4100.0
+Buenos Aires,San Pedro,2015,4000.0
+Buenos Aires,San Vicente,2015,2595.0
+Buenos Aires,Suipacha,2015,3000.0
+Buenos Aires,Tandil,2015,4395.0
+Buenos Aires,Tapalqué,2015,3900.0
+Buenos Aires,Tornquist,2015,2989.0
+Buenos Aires,Trenque Lauquen,2015,3300.0
+Buenos Aires,Tres Arroyos,2015,4000.0
+Buenos Aires,Tres Lomas,2015,2696.0
+Buenos Aires,Villarino,2015,2008.0
+Buenos Aires,Zárate,2015,4000.0
+Córdoba,Calamuchita,2015,2000.0
+Córdoba,Capital,2015,2500.0
+Córdoba,Colón,2015,2000.0
+Córdoba,General Roca,2015,2600.0
+Córdoba,General San Martín,2015,2600.0
+Córdoba,Ischilín,2015,2000.0
+Córdoba,Juárez Celman,2015,2200.0
+Córdoba,Marcos Juárez,2015,3600.0
+Córdoba,Presidente Roque Sáenz Peña,2015,2700.0
+Córdoba,Río Cuarto,2015,1900.0
+Córdoba,Río Primero,2015,2200.0
+Córdoba,Río Seco,2015,2000.0
+Córdoba,Río Segundo,2015,2240.0
+Córdoba,San Javier,2015,3200.0
+Córdoba,San Justo,2015,2400.0
+Córdoba,Santa María,2015,2200.0
+Córdoba,Tercero Arriba,2015,2240.0
+Córdoba,Totoral,2015,2500.0
+Córdoba,Tulumba,2015,2200.0
+Córdoba,Unión,2015,3400.0
+Entre Ríos,Colón,2015,3100.0
+Entre Ríos,Concordia,2015,2600.0
+Entre Ríos,Diamante,2015,3300.0
+Entre Ríos,Federación,2015,2400.0
+Entre Ríos,Federal,2015,2800.0
+Entre Ríos,Feliciano,2015,2200.0
+Entre Ríos,Gualeguay,2015,3300.0
+Entre Ríos,Gualeguaychú,2015,3300.0
+Entre Ríos,La Paz,2015,2900.0
+Entre Ríos,Nogoyá,2015,2800.0
+Entre Ríos,Paraná,2015,3200.0
+Entre Ríos,San Salvador,2015,2500.0
+Entre Ríos,Tala,2015,2600.0
+Entre Ríos,Uruguay,2015,3400.0
+Entre Ríos,Victoria,2015,3500.0
+Entre Ríos,Villaguay,2015,2700.0
+La Pampa,Atreucó,2015,2100.0
+La Pampa,Capital,2015,2100.0
+La Pampa,Catriló,2015,2200.0
+La Pampa,Chapaleufú,2015,2500.0
+La Pampa,Conhelo,2015,2300.0
+La Pampa,Guatraché,2015,2100.0
+La Pampa,Hucal,2015,2200.0
+La Pampa,Maracó,2015,2500.0
+La Pampa,Quemú Quemú,2015,2300.0
+La Pampa,Rancul,2015,2100.0
+La Pampa,Realicó,2015,2200.0
+La Pampa,Toay,2015,1900.0
+La Pampa,Trenel,2015,2200.0
+La Pampa,Utracán,2015,1900.0
+Santa Fe,9 de Julio,2015,2500.0
+Santa Fe,Belgrano,2015,3700.0
+Santa Fe,Caseros,2015,3700.0
+Santa Fe,Castellanos,2015,2600.0
+Santa Fe,General López,2015,3800.0
+Santa Fe,General Obligado,2015,2300.0
+Santa Fe,Iriondo,2015,3500.0
+Santa Fe,La Capital,2015,2400.0
+Santa Fe,Las Colonias,2015,2900.0
+Santa Fe,Rosario,2015,3500.0
+Santa Fe,San Cristóbal,2015,2300.0
+Santa Fe,San Javier,2015,2400.0
+Santa Fe,San Jerónimo,2015,3400.0
+Santa Fe,San Justo,2015,2700.0
+Santa Fe,San Lorenzo,2015,3700.0
+Santa Fe,San Martín,2015,3500.0
+Santa Fe,Vera,2015,2500.0
+Santa Fe,Villa Constitución,2015,3600.0
+Buenos Aires,25 de Mayo,2016,3700.0
+Buenos Aires,9 de Julio,2016,4200.0
+Buenos Aires,Adolfo Alsina,2016,2898.0
+Buenos Aires,Adolfo Gonzales Chaves,2016,2700.0
+Buenos Aires,Alberti,2016,4200.0
+Buenos Aires,Arrecifes,2016,4400.0
+Buenos Aires,Ayacucho,2016,3100.0
+Buenos Aires,Azul,2016,3800.0
+Buenos Aires,Bahía Blanca,2016,1900.0
+Buenos Aires,Balcarce,2016,3700.0
+Buenos Aires,Baradero,2016,4300.0
+Buenos Aires,Benito Juárez,2016,3400.0
+Buenos Aires,Bolívar,2016,4400.0
+Buenos Aires,Bragado,2016,4200.0
+Buenos Aires,Brandsen,2016,3900.0
+Buenos Aires,Campana,2016,4400.0
+Buenos Aires,Cañuelas,2016,4300.0
+Buenos Aires,Capitán Sarmiento,2016,4500.0
+Buenos Aires,Carlos Casares,2016,5000.0
+Buenos Aires,Carlos Tejedor,2016,4700.0
+Buenos Aires,Carmen de Areco,2016,4700.0
+Buenos Aires,Castelli,2016,3400.0
+Buenos Aires,Chacabuco,2016,4800.0
+Buenos Aires,Chascomús,2016,3600.0
+Buenos Aires,Chivilcoy,2016,4200.0
+Buenos Aires,Colón,2016,4700.0
+Buenos Aires,Coronel de Marina Leonardo Rosales,2016,2000.0
+Buenos Aires,Coronel Dorrego,2016,2300.0
+Buenos Aires,Coronel Pringles,2016,2300.0
+Buenos Aires,Coronel Suárez,2016,2900.0
+Buenos Aires,Daireaux,2016,3900.0
+Buenos Aires,Exaltación de la Cruz,2016,4200.0
+Buenos Aires,Florentino Ameghino,2016,4100.0
+Buenos Aires,General Alvarado,2016,3900.0
+Buenos Aires,General Alvear,2016,4400.0
+Buenos Aires,General Arenales,2016,5000.0
+Buenos Aires,General Belgrano,2016,3400.0
+Buenos Aires,General Guido,2016,2700.0
+Buenos Aires,General Juan Madariaga,2016,4100.0
+Buenos Aires,General La Madrid,2016,2800.0
+Buenos Aires,General Las Heras,2016,4600.0
+Buenos Aires,General Lavalle,2016,2700.0
+Buenos Aires,General Paz,2016,4300.0
+Buenos Aires,General Pinto,2016,4200.0
+Buenos Aires,General Pueyrredón,2016,3600.0
+Buenos Aires,General Rodríguez,2016,4400.0
+Buenos Aires,General Viamonte,2016,4000.0
+Buenos Aires,General Villegas,2016,3800.0
+Buenos Aires,Guaminí,2016,3690.0
+Buenos Aires,Hipólito Yrigoyen,2016,3900.0
+Buenos Aires,Junín,2016,4900.0
+Buenos Aires,La Plata,2016,3900.0
+Buenos Aires,Laprida,2016,2400.0
+Buenos Aires,Las Flores,2016,3500.0
+Buenos Aires,Leandro N. Alem,2016,4300.0
+Buenos Aires,Lincoln,2016,4200.0
+Buenos Aires,Lobería,2016,3700.0
+Buenos Aires,Lobos,2016,3600.0
+Buenos Aires,Luján,2016,4500.0
+Buenos Aires,Magdalena,2016,3800.0
+Buenos Aires,Maipú,2016,3900.0
+Buenos Aires,Mar Chiquita,2016,3700.0
+Buenos Aires,Marcos Paz,2016,4500.0
+Buenos Aires,Mercedes,2016,3400.0
+Buenos Aires,Monte,2016,3700.0
+Buenos Aires,Navarro,2016,3800.0
+Buenos Aires,Necochea,2016,3700.0
+Buenos Aires,Olavarría,2016,3900.0
+Buenos Aires,Patagones,2016,1700.0
+Buenos Aires,Pehuajó,2016,5000.0
+Buenos Aires,Pellegrini,2016,3672.0
+Buenos Aires,Pergamino,2016,4800.0
+Buenos Aires,Pila,2016,3500.0
+Buenos Aires,Pilar,2016,4600.0
+Buenos Aires,Puán,2016,2800.0
+Buenos Aires,Punta Indio,2016,3400.0
+Buenos Aires,Ramallo,2016,4500.0
+Buenos Aires,Rauch,2016,3100.0
+Buenos Aires,Rivadavia,2016,5000.0
+Buenos Aires,Rojas,2016,5000.0
+Buenos Aires,Roque Pérez,2016,3700.0
+Buenos Aires,Saavedra,2016,2800.0
+Buenos Aires,Saladillo,2016,3700.0
+Buenos Aires,Salliqueló,2016,3481.0
+Buenos Aires,Salto,2016,4700.0
+Buenos Aires,San Andrés de Giles,2016,4500.0
+Buenos Aires,San Antonio de Areco,2016,4500.0
+Buenos Aires,San Cayetano,2016,2700.0
+Buenos Aires,San Nicolás,2016,4400.0
+Buenos Aires,San Pedro,2016,4300.0
+Buenos Aires,San Vicente,2016,4600.0
+Buenos Aires,Suipacha,2016,3400.0
+Buenos Aires,Tandil,2016,3800.0
+Buenos Aires,Tapalqué,2016,3700.0
+Buenos Aires,Tornquist,2016,2800.0
+Buenos Aires,Trenque Lauquen,2016,4900.0
+Buenos Aires,Tres Arroyos,2016,2800.0
+Buenos Aires,Tres Lomas,2016,3785.0
+Buenos Aires,Villarino,2016,1200.0
+Buenos Aires,Zárate,2016,4400.0
+Córdoba,Calamuchita,2016,2700.0
+Córdoba,Capital,2016,2700.0
+Córdoba,Colón,2016,2700.0
+Córdoba,General Roca,2016,3200.0
+Córdoba,General San Martín,2016,3500.0
+Córdoba,Ischilín,2016,2600.0
+Córdoba,Juárez Celman,2016,3000.0
+Córdoba,Marcos Juárez,2016,4600.0
+Córdoba,Presidente Roque Sáenz Peña,2016,3400.0
+Córdoba,Río Cuarto,2016,2900.0
+Córdoba,Río Primero,2016,3200.0
+Córdoba,Río Seco,2016,2900.0
+Córdoba,Río Segundo,2016,3000.0
+Córdoba,San Javier,2016,3700.0
+Córdoba,San Justo,2016,3300.0
+Córdoba,Santa María,2016,2700.0
+Córdoba,Tercero Arriba,2016,3300.0
+Córdoba,Totoral,2016,2900.0
+Córdoba,Tulumba,2016,2700.0
+Córdoba,Unión,2016,4400.0
+Entre Ríos,Colón,2016,2700.0
+Entre Ríos,Concordia,2016,2600.0
+Entre Ríos,Diamante,2016,3500.0
+Entre Ríos,Federación,2016,2600.0
+Entre Ríos,Federal,2016,3200.0
+Entre Ríos,Feliciano,2016,2400.0
+Entre Ríos,Gualeguay,2016,3600.0
+Entre Ríos,Gualeguaychú,2016,3100.0
+Entre Ríos,La Paz,2016,3200.0
+Entre Ríos,Nogoyá,2016,3200.0
+Entre Ríos,Paraná,2016,3400.0
+Entre Ríos,San Salvador,2016,2700.0
+Entre Ríos,Tala,2016,3000.0
+Entre Ríos,Uruguay,2016,3200.0
+Entre Ríos,Victoria,2016,3400.0
+Entre Ríos,Villaguay,2016,2900.0
+La Pampa,Atreucó,2016,1900.0
+La Pampa,Capital,2016,2400.0
+La Pampa,Catriló,2016,2700.0
+La Pampa,Chapaleufú,2016,3700.0
+La Pampa,Conhelo,2016,3400.0
+La Pampa,Guatraché,2016,1900.0
+La Pampa,Hucal,2016,2700.0
+La Pampa,Maracó,2016,3700.0
+La Pampa,Quemú Quemú,2016,3500.0
+La Pampa,Rancul,2016,3100.0
+La Pampa,Realicó,2016,3400.0
+La Pampa,Toay,2016,1800.0
+La Pampa,Trenel,2016,3500.0
+La Pampa,Utracán,2016,1900.0
+Santa Fe,9 de Julio,2016,2400.0
+Santa Fe,Belgrano,2016,3900.0
+Santa Fe,Caseros,2016,4200.0
+Santa Fe,Castellanos,2016,3000.0
+Santa Fe,General López,2016,4300.0
+Santa Fe,General Obligado,2016,2200.0
+Santa Fe,Iriondo,2016,3900.0
+Santa Fe,La Capital,2016,2900.0
+Santa Fe,Las Colonias,2016,3200.0
+Santa Fe,Rosario,2016,4100.0
+Santa Fe,San Cristóbal,2016,2800.0
+Santa Fe,San Javier,2016,2700.0
+Santa Fe,San Jerónimo,2016,3500.0
+Santa Fe,San Justo,2016,2900.0
+Santa Fe,San Lorenzo,2016,3900.0
+Santa Fe,San Martín,2016,3400.0
+Santa Fe,Vera,2016,2500.0
+Santa Fe,Villa Constitución,2016,3900.0
+Buenos Aires,25 de Mayo,2017,3950.0
+Buenos Aires,9 de Julio,2017,5000.0
+Buenos Aires,Adolfo Alsina,2017,2499.0
+Buenos Aires,Adolfo Gonzales Chaves,2017,4000.0
+Buenos Aires,Alberti,2017,5000.0
+Buenos Aires,Arrecifes,2017,4300.0
+Buenos Aires,Ayacucho,2017,3800.0
+Buenos Aires,Azul,2017,4200.0
+Buenos Aires,Bahía Blanca,2017,1800.0
+Buenos Aires,Balcarce,2017,4400.0
+Buenos Aires,Baradero,2017,4300.0
+Buenos Aires,Benito Juárez,2017,4200.0
+Buenos Aires,Bolívar,2017,3000.0
+Buenos Aires,Bragado,2017,5000.0
+Buenos Aires,Brandsen,2017,4800.0
+Buenos Aires,Campana,2017,4400.0
+Buenos Aires,Cañuelas,2017,4800.0
+Buenos Aires,Capitán Sarmiento,2017,4500.0
+Buenos Aires,Carlos Casares,2017,4800.0
+Buenos Aires,Carlos Tejedor,2017,4700.0
+Buenos Aires,Carmen de Areco,2017,4500.0
+Buenos Aires,Chacabuco,2017,4800.0
+Buenos Aires,Chascomús,2017,4800.0
+Buenos Aires,Chivilcoy,2017,4000.0
+Buenos Aires,Colón,2017,4600.0
+Buenos Aires,Coronel de Marina Leonardo Rosales,2017,3500.0
+Buenos Aires,Coronel Dorrego,2017,3300.0
+Buenos Aires,Coronel Pringles,2017,3300.0
+Buenos Aires,Coronel Suárez,2017,3200.0
+Buenos Aires,Daireaux,2017,3500.0
+Buenos Aires,Exaltación de la Cruz,2017,4300.0
+Buenos Aires,Florentino Ameghino,2017,4200.0
+Buenos Aires,General Alvarado,2017,4300.0
+Buenos Aires,General Alvear,2017,3500.0
+Buenos Aires,General Arenales,2017,4500.0
+Buenos Aires,General Belgrano,2017,3600.0
+Buenos Aires,General Guido,2017,4600.0
+Buenos Aires,General Juan Madariaga,2017,5500.0
+Buenos Aires,General La Madrid,2017,3000.0
+Buenos Aires,General Las Heras,2017,4800.0
+Buenos Aires,General Lavalle,2017,5000.0
+Buenos Aires,General Paz,2017,4800.0
+Buenos Aires,General Pinto,2017,3900.0
+Buenos Aires,General Pueyrredón,2017,4500.0
+Buenos Aires,General Rodríguez,2017,4800.0
+Buenos Aires,General Viamonte,2017,4050.0
+Buenos Aires,General Villegas,2017,3800.0
+Buenos Aires,Guaminí,2017,2500.0
+Buenos Aires,Hipólito Yrigoyen,2017,3000.0
+Buenos Aires,Junín,2017,5200.0
+Buenos Aires,La Plata,2017,4500.0
+Buenos Aires,Laprida,2017,3400.0
+Buenos Aires,Las Flores,2017,3700.0
+Buenos Aires,Leandro N. Alem,2017,4100.0
+Buenos Aires,Lincoln,2017,4100.0
+Buenos Aires,Lobería,2017,4500.0
+Buenos Aires,Lobos,2017,3700.0
+Buenos Aires,Luján,2017,4800.0
+Buenos Aires,Magdalena,2017,4503.0
+Buenos Aires,Maipú,2017,5200.0
+Buenos Aires,Mar Chiquita,2017,4200.0
+Buenos Aires,Marcos Paz,2017,4800.0
+Buenos Aires,Mercedes,2017,4000.0
+Buenos Aires,Monte,2017,3800.0
+Buenos Aires,Navarro,2017,3800.0
+Buenos Aires,Necochea,2017,4500.0
+Buenos Aires,Olavarría,2017,4000.0
+Buenos Aires,Patagones,2017,1100.0
+Buenos Aires,Pehuajó,2017,4800.0
+Buenos Aires,Pellegrini,2017,2222.0
+Buenos Aires,Pergamino,2017,4600.0
+Buenos Aires,Pila,2017,3800.0
+Buenos Aires,Pilar,2017,5000.0
+Buenos Aires,Puán,2017,3000.0
+Buenos Aires,Ramallo,2017,4400.0
+Buenos Aires,Rauch,2017,3200.0
+Buenos Aires,Rivadavia,2017,4700.0
+Buenos Aires,Rojas,2017,5200.0
+Buenos Aires,Roque Pérez,2017,3800.0
+Buenos Aires,Saavedra,2017,3100.0
+Buenos Aires,Saladillo,2017,3800.0
+Buenos Aires,Salliqueló,2017,2305.0
+Buenos Aires,Salto,2017,4600.0
+Buenos Aires,San Andrés de Giles,2017,4500.0
+Buenos Aires,San Antonio de Areco,2017,4400.0
+Buenos Aires,San Cayetano,2017,4000.0
+Buenos Aires,San Nicolás,2017,4400.0
+Buenos Aires,San Pedro,2017,4300.0
+Buenos Aires,San Vicente,2017,4900.0
+Buenos Aires,Suipacha,2017,4000.0
+Buenos Aires,Tandil,2017,4500.0
+Buenos Aires,Tapalqué,2017,4000.0
+Buenos Aires,Tornquist,2017,3000.0
+Buenos Aires,Trenque Lauquen,2017,4800.0
+Buenos Aires,Tres Arroyos,2017,4900.0
+Buenos Aires,Tres Lomas,2017,2404.0
+Buenos Aires,Villarino,2017,1500.0
+Buenos Aires,Zárate,2017,4300.0
+Córdoba,Calamuchita,2017,2300.0
+Córdoba,Capital,2017,2000.0
+Córdoba,Colón,2017,2800.0
+Córdoba,General Roca,2017,3900.0
+Córdoba,General San Martín,2017,3500.0
+Córdoba,Ischilín,2017,2700.0
+Córdoba,Juárez Celman,2017,2800.0
+Córdoba,Marcos Juárez,2017,4800.0
+Córdoba,Presidente Roque Sáenz Peña,2017,3900.0
+Córdoba,Río Cuarto,2017,2500.0
+Córdoba,Río Primero,2017,2800.0
+Córdoba,Río Seco,2017,2700.0
+Córdoba,Río Segundo,2017,3300.0
+Córdoba,San Javier,2017,3800.0
+Córdoba,San Justo,2017,2900.0
+Córdoba,Santa María,2017,2000.0
+Córdoba,Tercero Arriba,2017,3300.0
+Córdoba,Totoral,2017,2700.0
+Córdoba,Tulumba,2017,2700.0
+Córdoba,Unión,2017,4500.0
+Entre Ríos,Colón,2017,2100.0
+Entre Ríos,Concordia,2017,2400.0
+Entre Ríos,Diamante,2017,3000.0
+Entre Ríos,Federación,2017,2200.0
+Entre Ríos,Federal,2017,2800.0
+Entre Ríos,Feliciano,2017,1800.0
+Entre Ríos,Gualeguay,2017,2900.0
+Entre Ríos,Gualeguaychú,2017,2350.0
+Entre Ríos,La Paz,2017,2800.0
+Entre Ríos,Nogoyá,2017,2650.0
+Entre Ríos,Paraná,2017,3000.0
+Entre Ríos,San Salvador,2017,2100.0
+Entre Ríos,Tala,2017,2250.0
+Entre Ríos,Uruguay,2017,2500.0
+Entre Ríos,Victoria,2017,2850.0
+Entre Ríos,Villaguay,2017,2200.0
+La Pampa,Atreucó,2017,2300.0
+La Pampa,Capital,2017,2100.0
+La Pampa,Catriló,2017,2600.0
+La Pampa,Chapaleufú,2017,3700.0
+La Pampa,Conhelo,2017,2700.0
+La Pampa,Guatraché,2017,1600.0
+La Pampa,Hucal,2017,1900.0
+La Pampa,Maracó,2017,3400.0
+La Pampa,Quemú Quemú,2017,3200.0
+La Pampa,Rancul,2017,2700.0
+La Pampa,Realicó,2017,3000.0
+La Pampa,Toay,2017,1600.0
+La Pampa,Trenel,2017,2700.0
+La Pampa,Utracán,2017,1600.0
+Santa Fe,9 de Julio,2017,2600.0
+Santa Fe,Belgrano,2017,4100.0
+Santa Fe,Caseros,2017,4400.0
+Santa Fe,Castellanos,2017,3000.0
+Santa Fe,General López,2017,4300.0
+Santa Fe,General Obligado,2017,1700.0
+Santa Fe,Iriondo,2017,3900.0
+Santa Fe,La Capital,2017,2500.0
+Santa Fe,Las Colonias,2017,2800.0
+Santa Fe,Rosario,2017,4300.0
+Santa Fe,San Cristóbal,2017,2500.0
+Santa Fe,San Javier,2017,1600.0
+Santa Fe,San Jerónimo,2017,3500.0
+Santa Fe,San Justo,2017,2400.0
+Santa Fe,San Lorenzo,2017,4300.0
+Santa Fe,San Martín,2017,3700.0
+Santa Fe,Vera,2017,1800.0
+Santa Fe,Villa Constitución,2017,4100.0
+Buenos Aires,25 de Mayo,2018,3700.0
+Buenos Aires,9 de Julio,2018,4000.0
+Buenos Aires,Adolfo Alsina,2018,2999.0
+Buenos Aires,Adolfo Gonzales Chaves,2018,4201.0
+Buenos Aires,Alberti,2018,4000.0
+Buenos Aires,Arrecifes,2018,4400.0
+Buenos Aires,Ayacucho,2018,4000.0
+Buenos Aires,Azul,2018,4003.0
+Buenos Aires,Bahía Blanca,2018,2800.0
+Buenos Aires,Balcarce,2018,4400.0
+Buenos Aires,Baradero,2018,4300.0
+Buenos Aires,Benito Juárez,2018,4004.0
+Buenos Aires,Bolívar,2018,4000.0
+Buenos Aires,Bragado,2018,4000.0
+Buenos Aires,Brandsen,2018,4000.0
+Buenos Aires,Campana,2018,4500.0
+Buenos Aires,Cañuelas,2018,4100.0
+Buenos Aires,Capitán Sarmiento,2018,4500.0
+Buenos Aires,Carlos Casares,2018,5700.0
+Buenos Aires,Carlos Tejedor,2018,4300.0
+Buenos Aires,Carmen de Areco,2018,4800.0
+Buenos Aires,Castelli,2018,4500.0
+Buenos Aires,Chacabuco,2018,4800.0
+Buenos Aires,Chascomús,2018,4100.0
+Buenos Aires,Chivilcoy,2018,4000.0
+Buenos Aires,Colón,2018,4800.0
+Buenos Aires,Coronel de Marina Leonardo Rosales,2018,3500.0
+Buenos Aires,Coronel Dorrego,2018,4171.0
+Buenos Aires,Coronel Pringles,2018,4180.0
+Buenos Aires,Coronel Suárez,2018,3000.0
+Buenos Aires,Daireaux,2018,4000.0
+Buenos Aires,Exaltación de la Cruz,2018,4300.0
+Buenos Aires,Florentino Ameghino,2018,4200.0
+Buenos Aires,General Alvarado,2018,4600.0
+Buenos Aires,General Alvear,2018,4000.0
+Buenos Aires,General Arenales,2018,4800.0
+Buenos Aires,General Belgrano,2018,3530.0
+Buenos Aires,General Guido,2018,5000.0
+Buenos Aires,General Juan Madariaga,2018,5400.0
+Buenos Aires,General La Madrid,2018,2696.0
+Buenos Aires,General Las Heras,2018,4099.0
+Buenos Aires,General Paz,2018,4101.0
+Buenos Aires,General Pinto,2018,4000.0
+Buenos Aires,General Pueyrredón,2018,5000.0
+Buenos Aires,General Rodríguez,2018,4097.0
+Buenos Aires,General Viamonte,2018,3700.0
+Buenos Aires,General Villegas,2018,4100.0
+Buenos Aires,Guaminí,2018,3197.0
+Buenos Aires,Hipólito Yrigoyen,2018,4000.0
+Buenos Aires,Junín,2018,4800.0
+Buenos Aires,La Plata,2018,4097.0
+Buenos Aires,Laprida,2018,4100.0
+Buenos Aires,Las Flores,2018,3530.0
+Buenos Aires,Leandro N. Alem,2018,3900.0
+Buenos Aires,Lincoln,2018,3800.0
+Buenos Aires,Lobería,2018,4501.0
+Buenos Aires,Lobos,2018,3500.0
+Buenos Aires,Luján,2018,4100.0
+Buenos Aires,Magdalena,2018,4101.0
+Buenos Aires,Maipú,2018,4800.0
+Buenos Aires,Mar Chiquita,2018,5200.0
+Buenos Aires,Marcos Paz,2018,4100.0
+Buenos Aires,Mercedes,2018,4000.0
+Buenos Aires,Monte,2018,3520.0
+Buenos Aires,Navarro,2018,3640.0
+Buenos Aires,Necochea,2018,4193.0
+Buenos Aires,Olavarría,2018,4057.0
+Buenos Aires,Patagones,2018,1813.0
+Buenos Aires,Pehuajó,2018,5800.0
+Buenos Aires,Pellegrini,2018,3474.0
+Buenos Aires,Pergamino,2018,5000.0
+Buenos Aires,Pila,2018,4500.0
+Buenos Aires,Pilar,2018,4100.0
+Buenos Aires,Puán,2018,2597.0
+Buenos Aires,Punta Indio,2018,3801.0
+Buenos Aires,Ramallo,2018,4500.0
+Buenos Aires,Rauch,2018,4000.0
+Buenos Aires,Rivadavia,2018,5700.0
+Buenos Aires,Rojas,2018,5000.0
+Buenos Aires,Roque Pérez,2018,3330.0
+Buenos Aires,Saavedra,2018,2600.0
+Buenos Aires,Saladillo,2018,3530.0
+Buenos Aires,Salliqueló,2018,3486.0
+Buenos Aires,Salto,2018,4900.0
+Buenos Aires,San Andrés de Giles,2018,4500.0
+Buenos Aires,San Antonio de Areco,2018,4500.0
+Buenos Aires,San Cayetano,2018,4195.0
+Buenos Aires,San Nicolás,2018,4600.0
+Buenos Aires,San Pedro,2018,4500.0
+Buenos Aires,San Vicente,2018,3801.0
+Buenos Aires,Suipacha,2018,4000.0
+Buenos Aires,Tandil,2018,4300.0
+Buenos Aires,Tapalqué,2018,4000.0
+Buenos Aires,Tornquist,2018,2691.0
+Buenos Aires,Trenque Lauquen,2018,5100.0
+Buenos Aires,Tres Arroyos,2018,4197.0
+Buenos Aires,Tres Lomas,2018,3491.0
+Buenos Aires,Villarino,2018,1837.0
+Buenos Aires,Zárate,2018,4400.0
+Córdoba,Calamuchita,2018,1800.0
+Córdoba,Capital,2018,2200.0
+Córdoba,Colón,2018,2800.0
+Córdoba,General Roca,2018,3500.0
+Córdoba,General San Martín,2018,2800.0
+Córdoba,Ischilín,2018,2000.0
+Córdoba,Juárez Celman,2018,2200.0
+Córdoba,Marcos Juárez,2018,2900.0
+Córdoba,Presidente Roque Sáenz Peña,2018,3700.0
+Córdoba,Río Cuarto,2018,2000.0
+Córdoba,Río Primero,2018,2500.0
+Córdoba,Río Seco,2018,2200.0
+Córdoba,Río Segundo,2018,2600.0
+Córdoba,San Javier,2018,3800.0
+Córdoba,San Justo,2018,2500.0
+Córdoba,Santa María,2018,1800.0
+Córdoba,Tercero Arriba,2018,2200.0
+Córdoba,Totoral,2018,2800.0
+Córdoba,Tulumba,2018,2250.0
+Córdoba,Unión,2018,2800.0
+Entre Ríos,Colón,2018,3200.0
+Entre Ríos,Concordia,2018,3500.0
+Entre Ríos,Diamante,2018,3700.0
+Entre Ríos,Federación,2018,3500.0
+Entre Ríos,Federal,2018,3400.0
+Entre Ríos,Feliciano,2018,3400.0
+Entre Ríos,Gualeguay,2018,4000.0
+Entre Ríos,Gualeguaychú,2018,3600.0
+Entre Ríos,La Paz,2018,3600.0
+Entre Ríos,Nogoyá,2018,3500.0
+Entre Ríos,Paraná,2018,3700.0
+Entre Ríos,San Salvador,2018,3200.0
+Entre Ríos,Tala,2018,3500.0
+Entre Ríos,Uruguay,2018,3500.0
+Entre Ríos,Victoria,2018,3800.0
+Entre Ríos,Villaguay,2018,3400.0
+La Pampa,Atreucó,2018,2500.0
+La Pampa,Capital,2018,2200.0
+La Pampa,Catriló,2018,2600.0
+La Pampa,Chapaleufú,2018,3400.0
+La Pampa,Conhelo,2018,3000.0
+La Pampa,Guatraché,2018,2000.0
+La Pampa,Hucal,2018,1900.0
+La Pampa,Maracó,2018,3400.0
+La Pampa,Quemú Quemú,2018,3200.0
+La Pampa,Rancul,2018,3000.0
+La Pampa,Realicó,2018,2000.0
+La Pampa,Toay,2018,1800.0
+La Pampa,Trenel,2018,2200.0
+La Pampa,Utracán,2018,1800.0
+Santa Fe,9 de Julio,2018,3400.0
+Santa Fe,Belgrano,2018,2600.0
+Santa Fe,Caseros,2018,2800.0
+Santa Fe,Castellanos,2018,2900.0
+Santa Fe,General López,2018,4200.0
+Santa Fe,General Obligado,2018,2400.0
+Santa Fe,Iriondo,2018,2700.0
+Santa Fe,La Capital,2018,3000.0
+Santa Fe,Las Colonias,2018,3200.0
+Santa Fe,Rosario,2018,2800.0
+Santa Fe,San Cristóbal,2018,2800.0
+Santa Fe,San Javier,2018,2800.0
+Santa Fe,San Jerónimo,2018,2800.0
+Santa Fe,San Justo,2018,3100.0
+Santa Fe,San Lorenzo,2018,2800.0
+Santa Fe,San Martín,2018,2200.0
+Santa Fe,Vera,2018,2400.0
+Santa Fe,Villa Constitución,2018,3000.0
+Buenos Aires,25 de Mayo,2019,3709.0
+Buenos Aires,9 de Julio,2019,4500.0
+Buenos Aires,Adolfo Alsina,2019,2101.0
+Buenos Aires,Adolfo Gonzales Chaves,2019,3216.0
+Buenos Aires,Alberti,2019,4500.0
+Buenos Aires,Arrecifes,2019,4000.0
+Buenos Aires,Ayacucho,2019,3800.0
+Buenos Aires,Azul,2019,3406.0
+Buenos Aires,Bahía Blanca,2019,1300.0
+Buenos Aires,Balcarce,2019,4109.0
+Buenos Aires,Baradero,2019,4000.0
+Buenos Aires,Benito Juárez,2019,3411.0
+Buenos Aires,Bolívar,2019,3000.0
+Buenos Aires,Bragado,2019,4500.0
+Buenos Aires,Brandsen,2019,3900.0
+Buenos Aires,Campana,2019,4100.0
+Buenos Aires,Cañuelas,2019,3900.0
+Buenos Aires,Capitán Sarmiento,2019,4100.0
+Buenos Aires,Carlos Casares,2019,3300.0
+Buenos Aires,Carlos Tejedor,2019,2600.0
+Buenos Aires,Carmen de Areco,2019,3800.0
+Buenos Aires,Castelli,2019,4000.0
+Buenos Aires,Chacabuco,2019,4100.0
+Buenos Aires,Chascomús,2019,3900.0
+Buenos Aires,Chivilcoy,2019,4500.0
+Buenos Aires,Colón,2019,4300.0
+Buenos Aires,Coronel de Marina Leonardo Rosales,2019,1800.0
+Buenos Aires,Coronel Dorrego,2019,2818.0
+Buenos Aires,Coronel Pringles,2019,3337.0
+Buenos Aires,Coronel Suárez,2019,1891.0
+Buenos Aires,Daireaux,2019,3000.0
+Buenos Aires,Exaltación de la Cruz,2019,3900.0
+Buenos Aires,Florentino Ameghino,2019,3700.0
+Buenos Aires,General Alvarado,2019,4600.0
+Buenos Aires,General Alvear,2019,3000.0
+Buenos Aires,General Arenales,2019,4500.0
+Buenos Aires,General Belgrano,2019,3373.0
+Buenos Aires,General Juan Madariaga,2019,5000.0
+Buenos Aires,General La Madrid,2019,2000.0
+Buenos Aires,General Las Heras,2019,3900.0
+Buenos Aires,General Paz,2019,3900.0
+Buenos Aires,General Pinto,2019,3750.0
+Buenos Aires,General Pueyrredón,2019,4200.0
+Buenos Aires,General Rodríguez,2019,3900.0
+Buenos Aires,General Viamonte,2019,3600.0
+Buenos Aires,General Villegas,2019,3500.0
+Buenos Aires,Guaminí,2019,2200.0
+Buenos Aires,Hipólito Yrigoyen,2019,3000.0
+Buenos Aires,Junín,2019,4200.0
+Buenos Aires,La Plata,2019,3900.0
+Buenos Aires,Laprida,2019,3500.0
+Buenos Aires,Las Flores,2019,3371.0
+Buenos Aires,Leandro N. Alem,2019,3800.0
+Buenos Aires,Lincoln,2019,3650.0
+Buenos Aires,Lobería,2019,4204.0
+Buenos Aires,Lobos,2019,3328.0
+Buenos Aires,Luján,2019,3900.0
+Buenos Aires,Magdalena,2019,3900.0
+Buenos Aires,Maipú,2019,4800.0
+Buenos Aires,Mar Chiquita,2019,4800.0
+Buenos Aires,Marcos Paz,2019,3900.0
+Buenos Aires,Mercedes,2019,4500.0
+Buenos Aires,Monte,2019,3361.0
+Buenos Aires,Navarro,2019,3476.0
+Buenos Aires,Necochea,2019,3420.0
+Buenos Aires,Olavarría,2019,3125.0
+Buenos Aires,Patagones,2019,827.0
+Buenos Aires,Pehuajó,2019,2700.0
+Buenos Aires,Pellegrini,2019,2499.0
+Buenos Aires,Pergamino,2019,4300.0
+Buenos Aires,Pila,2019,4200.0
+Buenos Aires,Pilar,2019,3900.0
+Buenos Aires,Puán,2019,1896.0
+Buenos Aires,Punta Indio,2019,3900.0
+Buenos Aires,Ramallo,2019,4000.0
+Buenos Aires,Rauch,2019,4000.0
+Buenos Aires,Rivadavia,2019,2700.0
+Buenos Aires,Rojas,2019,4400.0
+Buenos Aires,Roque Pérez,2019,3180.0
+Buenos Aires,Saavedra,2019,1796.0
+Buenos Aires,Saladillo,2019,3530.0
+Buenos Aires,Salliqueló,2019,2497.0
+Buenos Aires,Salto,2019,4300.0
+Buenos Aires,San Andrés de Giles,2019,3800.0
+Buenos Aires,San Antonio de Areco,2019,4000.0
+Buenos Aires,San Cayetano,2019,3300.0
+Buenos Aires,San Nicolás,2019,4100.0
+Buenos Aires,San Pedro,2019,4000.0
+Buenos Aires,San Vicente,2019,3900.0
+Buenos Aires,Suipacha,2019,4500.0
+Buenos Aires,Tandil,2019,4102.0
+Buenos Aires,Tapalqué,2019,3000.0
+Buenos Aires,Tornquist,2019,1200.0
+Buenos Aires,Trenque Lauquen,2019,2600.0
+Buenos Aires,Tres Arroyos,2019,3303.0
+Buenos Aires,Tres Lomas,2019,2498.0
+Buenos Aires,Villarino,2019,817.0
+Buenos Aires,Zárate,2019,4000.0
+Córdoba,Calamuchita,2019,2200.0
+Córdoba,Capital,2019,2200.0
+Córdoba,Colón,2019,2900.0
+Córdoba,General Roca,2019,2400.0
+Córdoba,General San Martín,2019,2900.0
+Córdoba,Ischilín,2019,2900.0
+Córdoba,Juárez Celman,2019,2500.0
+Córdoba,Marcos Juárez,2019,3800.0
+Córdoba,Presidente Roque Sáenz Peña,2019,2300.0
+Córdoba,Río Cuarto,2019,2200.0
+Córdoba,Río Primero,2019,2900.0
+Córdoba,Río Seco,2019,2900.0
+Córdoba,Río Segundo,2019,2900.0
+Córdoba,San Javier,2019,3500.0
+Córdoba,San Justo,2019,2900.0
+Córdoba,Santa María,2019,2200.0
+Córdoba,Tercero Arriba,2019,3000.0
+Córdoba,Totoral,2019,2900.0
+Córdoba,Tulumba,2019,2900.0
+Córdoba,Unión,2019,3600.0
+Entre Ríos,Colón,2019,2100.0
+Entre Ríos,Concordia,2019,2600.0
+Entre Ríos,Diamante,2019,3100.0
+Entre Ríos,Federación,2019,2500.0
+Entre Ríos,Federal,2019,2500.0
+Entre Ríos,Feliciano,2019,2500.0
+Entre Ríos,Gualeguay,2019,3000.0
+Entre Ríos,Gualeguaychú,2019,2800.0
+Entre Ríos,La Paz,2019,2600.0
+Entre Ríos,Nogoyá,2019,2700.0
+Entre Ríos,Paraná,2019,3000.0
+Entre Ríos,San Salvador,2019,2000.0
+Entre Ríos,Tala,2019,2600.0
+Entre Ríos,Uruguay,2019,2400.0
+Entre Ríos,Victoria,2019,3000.0
+Entre Ríos,Villaguay,2019,2100.0
+La Pampa,Atreucó,2019,1200.0
+La Pampa,Capital,2019,1100.0
+La Pampa,Catriló,2019,1300.0
+La Pampa,Chapaleufú,2019,2500.0
+La Pampa,Conhelo,2019,1400.0
+La Pampa,Guatraché,2019,900.0
+La Pampa,Hucal,2019,900.0
+La Pampa,Maracó,2019,2300.0
+La Pampa,Quemú Quemú,2019,1600.0
+La Pampa,Rancul,2019,1500.0
+La Pampa,Realicó,2019,1600.0
+La Pampa,Toay,2019,800.0
+La Pampa,Trenel,2019,1200.0
+La Pampa,Utracán,2019,900.0
+Santa Fe,9 de Julio,2019,2500.0
+Santa Fe,Belgrano,2019,3700.0
+Santa Fe,Caseros,2019,3900.0
+Santa Fe,Castellanos,2019,3000.0
+Santa Fe,General López,2019,3700.0
+Santa Fe,General Obligado,2019,2300.0
+Santa Fe,Iriondo,2019,3800.0
+Santa Fe,La Capital,2019,2700.0
+Santa Fe,Las Colonias,2019,2800.0
+Santa Fe,Rosario,2019,3700.0
+Santa Fe,San Cristóbal,2019,2700.0
+Santa Fe,San Javier,2019,2400.0
+Santa Fe,San Jerónimo,2019,3500.0
+Santa Fe,San Justo,2019,2800.0
+Santa Fe,San Lorenzo,2019,3900.0
+Santa Fe,San Martín,2019,3600.0
+Santa Fe,Vera,2019,2300.0
+Santa Fe,Villa Constitución,2019,3700.0
+Buenos Aires,25 de Mayo,2020,3900.0
+Buenos Aires,9 de Julio,2020,4200.0
+Buenos Aires,Adolfo Alsina,2020,2799.0
+Buenos Aires,Adolfo Gonzales Chaves,2020,4564.0
+Buenos Aires,Alberti,2020,4200.0
+Buenos Aires,Arrecifes,2020,4000.0
+Buenos Aires,Ayacucho,2020,4300.0
+Buenos Aires,Azul,2020,4603.0
+Buenos Aires,Bahía Blanca,2020,2200.0
+Buenos Aires,Balcarce,2020,4920.0
+Buenos Aires,Baradero,2020,3900.0
+Buenos Aires,Benito Juárez,2020,4421.0
+Buenos Aires,Bolívar,2020,4200.0
+Buenos Aires,Bragado,2020,4199.0
+Buenos Aires,Brandsen,2020,3800.0
+Buenos Aires,Campana,2020,3800.0
+Buenos Aires,Cañuelas,2020,3800.0
+Buenos Aires,Capitán Sarmiento,2020,4000.0
+Buenos Aires,Carlos Casares,2020,4601.0
+Buenos Aires,Carlos Tejedor,2020,4400.0
+Buenos Aires,Carmen de Areco,2020,3500.0
+Buenos Aires,Castelli,2020,4600.0
+Buenos Aires,Chacabuco,2020,4400.0
+Buenos Aires,Chascomús,2020,3800.0
+Buenos Aires,Chivilcoy,2020,4199.0
+Buenos Aires,Colón,2020,4000.0
+Buenos Aires,Coronel de Marina Leonardo Rosales,2020,2400.0
+Buenos Aires,Coronel Dorrego,2020,4151.0
+Buenos Aires,Coronel Pringles,2020,4282.0
+Buenos Aires,Coronel Suárez,2020,2500.0
+Buenos Aires,Daireaux,2020,4200.0
+Buenos Aires,Dolores,2020,3500.0
+Buenos Aires,Exaltación de la Cruz,2020,3800.0
+Buenos Aires,Florentino Ameghino,2020,3600.0
+Buenos Aires,General Alvarado,2020,4903.0
+Buenos Aires,General Alvear,2020,4200.0
+Buenos Aires,General Arenales,2020,4300.0
+Buenos Aires,General Belgrano,2020,3799.0
+Buenos Aires,General Guido,2020,4300.0
+Buenos Aires,General Juan Madariaga,2020,5100.0
+Buenos Aires,General La Madrid,2020,2022.0
+Buenos Aires,General Las Heras,2020,3900.0
+Buenos Aires,General Paz,2020,4000.0
+Buenos Aires,General Pinto,2020,3700.0
+Buenos Aires,General Pueyrredón,2020,4806.0
+Buenos Aires,General Rodríguez,2020,3800.0
+Buenos Aires,General Viamonte,2020,3800.0
+Buenos Aires,General Villegas,2020,3500.0
+Buenos Aires,Guaminí,2020,2800.0
+Buenos Aires,Hipólito Yrigoyen,2020,4200.0
+Buenos Aires,Junín,2020,4200.0
+Buenos Aires,La Plata,2020,3800.0
+Buenos Aires,Laprida,2020,4200.0
+Buenos Aires,Las Flores,2020,3700.0
+Buenos Aires,Leandro N. Alem,2020,3700.0
+Buenos Aires,Lincoln,2020,3600.0
+Buenos Aires,Lobería,2020,4818.0
+Buenos Aires,Lobos,2020,3700.0
+Buenos Aires,Luján,2020,3800.0
+Buenos Aires,Magdalena,2020,3800.0
+Buenos Aires,Maipú,2020,5000.0
+Buenos Aires,Mar Chiquita,2020,5000.0
+Buenos Aires,Marcos Paz,2020,3800.0
+Buenos Aires,Mercedes,2020,4200.0
+Buenos Aires,Monte,2020,3700.0
+Buenos Aires,Navarro,2020,3800.0
+Buenos Aires,Necochea,2020,4488.0
+Buenos Aires,Olavarría,2020,4125.0
+Buenos Aires,Patagones,2020,1550.0
+Buenos Aires,Pehuajó,2020,4500.0
+Buenos Aires,Pellegrini,2020,3000.0
+Buenos Aires,Pergamino,2020,4200.0
+Buenos Aires,Pila,2020,4300.0
+Buenos Aires,Pilar,2020,3800.0
+Buenos Aires,Puán,2020,2018.0
+Buenos Aires,Punta Indio,2020,3800.0
+Buenos Aires,Ramallo,2020,3900.0
+Buenos Aires,Rauch,2020,4300.0
+Buenos Aires,Rivadavia,2020,4400.0
+Buenos Aires,Rojas,2020,3800.0
+Buenos Aires,Roque Pérez,2020,3800.0
+Buenos Aires,Saavedra,2020,2192.0
+Buenos Aires,Saladillo,2020,3900.0
+Buenos Aires,Salliqueló,2020,2997.0
+Buenos Aires,Salto,2020,4200.0
+Buenos Aires,San Andrés de Giles,2020,3000.0
+Buenos Aires,San Antonio de Areco,2020,3900.0
+Buenos Aires,San Cayetano,2020,4475.0
+Buenos Aires,San Nicolás,2020,3800.0
+Buenos Aires,San Pedro,2020,3800.0
+Buenos Aires,San Vicente,2020,3800.0
+Buenos Aires,Suipacha,2020,4200.0
+Buenos Aires,Tandil,2020,4817.0
+Buenos Aires,Tapalqué,2020,4200.0
+Buenos Aires,Tordillo,2020,3500.0
+Buenos Aires,Tornquist,2020,1992.0
+Buenos Aires,Trenque Lauquen,2020,4000.0
+Buenos Aires,Tres Arroyos,2020,4351.0
+Buenos Aires,Tres Lomas,2020,2999.0
+Buenos Aires,Villarino,2020,1618.0
+Buenos Aires,Zárate,2020,3900.0
+Córdoba,Calamuchita,2020,1500.0
+Córdoba,Capital,2020,1200.0
+Córdoba,Colón,2020,1610.0
+Córdoba,Cruz del Eje,2020,800.0
+Córdoba,General Roca,2020,1511.0
+Córdoba,General San Martín,2020,1300.0
+Córdoba,Ischilín,2020,1500.0
+Córdoba,Juárez Celman,2020,2200.0
+Córdoba,Marcos Juárez,2020,1900.0
+Córdoba,Presidente Roque Sáenz Peña,2020,1805.0
+Córdoba,Río Cuarto,2020,1500.0
+Córdoba,Río Primero,2020,1804.0
+Córdoba,Río Seco,2020,1400.0
+Córdoba,Río Segundo,2020,1300.0
+Córdoba,San Javier,2020,3500.0
+Córdoba,San Justo,2020,1800.0
+Córdoba,Santa María,2020,1200.0
+Córdoba,Tercero Arriba,2020,1800.0
+Córdoba,Totoral,2020,1500.0
+Córdoba,Tulumba,2020,1511.0
+Córdoba,Unión,2020,1700.0
+Entre Ríos,Colón,2020,2200.0
+Entre Ríos,Concordia,2020,2500.0
+Entre Ríos,Diamante,2020,2400.0
+Entre Ríos,Federación,2020,2600.0
+Entre Ríos,Federal,2020,2500.0
+Entre Ríos,Feliciano,2020,2600.0
+Entre Ríos,Gualeguay,2020,2800.0
+Entre Ríos,Gualeguaychú,2020,2900.0
+Entre Ríos,La Paz,2020,2400.0
+Entre Ríos,Nogoyá,2020,2400.0
+Entre Ríos,Paraná,2020,2400.0
+Entre Ríos,San Salvador,2020,2200.0
+Entre Ríos,Tala,2020,2800.0
+Entre Ríos,Uruguay,2020,2900.0
+Entre Ríos,Victoria,2020,2500.0
+Entre Ríos,Villaguay,2020,2900.0
+La Pampa,Atreucó,2020,2500.0
+La Pampa,Capital,2020,2200.0
+La Pampa,Catriló,2020,2500.0
+La Pampa,Chapaleufú,2020,2500.0
+La Pampa,Conhelo,2020,2000.0
+La Pampa,Guatraché,2020,2200.0
+La Pampa,Hucal,2020,2000.0
+La Pampa,Maracó,2020,2300.0
+La Pampa,Quemú Quemú,2020,2000.0
+La Pampa,Rancul,2020,1600.0
+La Pampa,Realicó,2020,2000.0
+La Pampa,Toay,2020,2000.0
+La Pampa,Trenel,2020,1800.0
+La Pampa,Utracán,2020,2000.0
+Santa Fe,9 de Julio,2020,2700.0
+Santa Fe,Belgrano,2020,1800.0
+Santa Fe,Caseros,2020,2300.0
+Santa Fe,Castellanos,2020,1800.0
+Santa Fe,Garay,2020,2200.0
+Santa Fe,General López,2020,3600.0
+Santa Fe,General Obligado,2020,1200.0
+Santa Fe,Iriondo,2020,1800.0
+Santa Fe,La Capital,2020,2399.0
+Santa Fe,Las Colonias,2020,1600.0
+Santa Fe,Rosario,2020,2200.0
+Santa Fe,San Cristóbal,2020,1000.0
+Santa Fe,San Javier,2020,1500.0
+Santa Fe,San Jerónimo,2020,1800.0
+Santa Fe,San Justo,2020,2400.0
+Santa Fe,San Lorenzo,2020,2200.0
+Santa Fe,San Martín,2020,1800.0
+Santa Fe,Vera,2020,2100.0
+Santa Fe,Villa Constitución,2020,2400.0
+Buenos Aires,25 de Mayo,2021,3999.0
+Buenos Aires,9 de Julio,2021,4899.0
+Buenos Aires,Adolfo Alsina,2021,3399.0
+Buenos Aires,Adolfo Gonzales Chaves,2021,3762.0
+Buenos Aires,Alberti,2021,4900.0
+Buenos Aires,Arrecifes,2021,4800.0
+Buenos Aires,Ayacucho,2021,4500.0
+Buenos Aires,Azul,2021,4196.0
+Buenos Aires,Bahía Blanca,2021,1200.0
+Buenos Aires,Balcarce,2021,4803.0
+Buenos Aires,Baradero,2021,4700.0
+Buenos Aires,Benito Juárez,2021,4000.0
+Buenos Aires,Bolívar,2021,2900.0
+Buenos Aires,Bragado,2021,4900.0
+Buenos Aires,Brandsen,2021,3800.0
+Buenos Aires,Campana,2021,4800.0
+Buenos Aires,Cañuelas,2021,3800.0
+Buenos Aires,Capitán Sarmiento,2021,4900.0
+Buenos Aires,Carlos Casares,2021,4700.0
+Buenos Aires,Carlos Tejedor,2021,4700.0
+Buenos Aires,Carmen de Areco,2021,4700.0
+Buenos Aires,Castelli,2021,4500.0
+Buenos Aires,Chacabuco,2021,4400.0
+Buenos Aires,Chascomús,2021,3800.0
+Buenos Aires,Chivilcoy,2021,4900.0
+Buenos Aires,Colón,2021,5100.0
+Buenos Aires,Coronel de Marina Leonardo Rosales,2021,2016.0
+Buenos Aires,Coronel Dorrego,2021,2844.0
+Buenos Aires,Coronel Pringles,2021,3413.0
+Buenos Aires,Coronel Suárez,2021,2178.0
+Buenos Aires,Daireaux,2021,2700.0
+Buenos Aires,Exaltación de la Cruz,2021,4800.0
+Buenos Aires,Florentino Ameghino,2021,3300.0
+Buenos Aires,General Alvarado,2021,4999.0
+Buenos Aires,General Alvear,2021,2900.0
+Buenos Aires,General Arenales,2021,4100.0
+Buenos Aires,General Belgrano,2021,3897.0
+Buenos Aires,General Guido,2021,4200.0
+Buenos Aires,General Juan Madariaga,2021,5300.0
+Buenos Aires,General La Madrid,2021,2187.0
+Buenos Aires,General Las Heras,2021,3800.0
+Buenos Aires,General Paz,2021,3800.0
+Buenos Aires,General Pinto,2021,3400.0
+Buenos Aires,General Pueyrredón,2021,5000.0
+Buenos Aires,General Rodríguez,2021,3800.0
+Buenos Aires,General Viamonte,2021,3700.0
+Buenos Aires,General Villegas,2021,3200.0
+Buenos Aires,Guaminí,2021,3198.0
+Buenos Aires,Hipólito Yrigoyen,2021,2900.0
+Buenos Aires,Junín,2021,3703.0
+Buenos Aires,La Plata,2021,3800.0
+Buenos Aires,Laprida,2021,3690.0
+Buenos Aires,Las Flores,2021,3799.0
+Buenos Aires,Leandro N. Alem,2021,3550.0
+Buenos Aires,Lincoln,2021,3500.0
+Buenos Aires,Lobería,2021,4602.0
+Buenos Aires,Lobos,2021,3800.0
+Buenos Aires,Luján,2021,3800.0
+Buenos Aires,Magdalena,2021,3800.0
+Buenos Aires,Maipú,2021,5000.0
+Buenos Aires,Mar Chiquita,2021,5500.0
+Buenos Aires,Marcos Paz,2021,3800.0
+Buenos Aires,Mercedes,2021,4900.0
+Buenos Aires,Monte,2021,3800.0
+Buenos Aires,Navarro,2021,3900.0
+Buenos Aires,Necochea,2021,4336.0
+Buenos Aires,Olavarría,2021,2887.0
+Buenos Aires,Patagones,2021,2269.0
+Buenos Aires,Pehuajó,2021,5200.0
+Buenos Aires,Pellegrini,2021,3494.0
+Buenos Aires,Pergamino,2021,5200.0
+Buenos Aires,Pila,2021,4500.0
+Buenos Aires,Pilar,2021,3800.0
+Buenos Aires,Puán,2021,1800.0
+Buenos Aires,Punta Indio,2021,3800.0
+Buenos Aires,Ramallo,2021,4800.0
+Buenos Aires,Rauch,2021,4200.0
+Buenos Aires,Rivadavia,2021,4800.0
+Buenos Aires,Rojas,2021,4400.0
+Buenos Aires,Roque Pérez,2021,3900.0
+Buenos Aires,Saavedra,2021,2188.0
+Buenos Aires,Saladillo,2021,4000.0
+Buenos Aires,Salliqueló,2021,3493.0
+Buenos Aires,Salto,2021,5200.0
+Buenos Aires,San Andrés de Giles,2021,4900.0
+Buenos Aires,San Antonio de Areco,2021,4900.0
+Buenos Aires,San Cayetano,2021,3872.0
+Buenos Aires,San Nicolás,2021,5000.0
+Buenos Aires,San Pedro,2021,4900.0
+Buenos Aires,San Vicente,2021,3800.0
+Buenos Aires,Suipacha,2021,4900.0
+Buenos Aires,Tandil,2021,4400.0
+Buenos Aires,Tapalqué,2021,2700.0
+Buenos Aires,Tornquist,2021,2167.0
+Buenos Aires,Trenque Lauquen,2021,4800.0
+Buenos Aires,Tres Arroyos,2021,4107.0
+Buenos Aires,Tres Lomas,2021,3396.0
+Buenos Aires,Villarino,2021,1202.0
+Buenos Aires,Zárate,2021,4800.0
+Córdoba,Calamuchita,2021,2500.0
+Córdoba,Capital,2021,2500.0
+Córdoba,Colón,2021,2824.0
+Córdoba,Cruz del Eje,2021,2200.0
+Córdoba,General Roca,2021,3000.0
+Córdoba,General San Martín,2021,3298.0
+Córdoba,Ischilín,2021,2100.0
+Córdoba,Juárez Celman,2021,2900.0
+Córdoba,Marcos Juárez,2021,4600.0
+Córdoba,Presidente Roque Sáenz Peña,2021,3151.0
+Córdoba,Río Cuarto,2021,2600.0
+Córdoba,Río Primero,2021,3005.0
+Córdoba,Río Seco,2021,2100.0
+Córdoba,Río Segundo,2021,2799.0
+Córdoba,San Javier,2021,3500.0
+Córdoba,San Justo,2021,3200.0
+Córdoba,Santa María,2021,2400.0
+Córdoba,Tercero Arriba,2021,3300.0
+Córdoba,Totoral,2021,2600.0
+Córdoba,Tulumba,2021,2407.0
+Córdoba,Unión,2021,4199.0
+Entre Ríos,Colón,2021,3000.0
+Entre Ríos,Concordia,2021,3000.0
+Entre Ríos,Diamante,2021,3300.0
+Entre Ríos,Federación,2021,2800.0
+Entre Ríos,Federal,2021,3000.0
+Entre Ríos,Feliciano,2021,2900.0
+Entre Ríos,Gualeguay,2021,3900.0
+Entre Ríos,Gualeguaychú,2021,3700.0
+Entre Ríos,La Paz,2021,3100.0
+Entre Ríos,Nogoyá,2021,3300.0
+Entre Ríos,Paraná,2021,3200.0
+Entre Ríos,San Salvador,2021,3000.0
+Entre Ríos,Tala,2021,3200.0
+Entre Ríos,Uruguay,2021,3100.0
+Entre Ríos,Victoria,2021,3900.0
+Entre Ríos,Villaguay,2021,3200.0
+La Pampa,Atreucó,2021,2450.0
+La Pampa,Capital,2021,2150.0
+La Pampa,Catriló,2021,2350.0
+La Pampa,Chapaleufú,2021,3200.0
+La Pampa,Conhelo,2021,2600.0
+La Pampa,Guatraché,2021,2150.0
+La Pampa,Hucal,2021,1950.0
+La Pampa,Maracó,2021,3200.0
+La Pampa,Quemú Quemú,2021,3000.0
+La Pampa,Rancul,2021,2700.0
+La Pampa,Realicó,2021,2800.0
+La Pampa,Toay,2021,1950.0
+La Pampa,Trenel,2021,2700.0
+La Pampa,Utracán,2021,1950.0
+Santa Fe,9 de Julio,2021,1700.0
+Santa Fe,Belgrano,2021,5000.0
+Santa Fe,Caseros,2021,4800.0
+Santa Fe,Castellanos,2021,4300.0
+Santa Fe,Garay,2021,3200.0
+Santa Fe,General López,2021,4800.0
+Santa Fe,General Obligado,2021,1600.0
+Santa Fe,Iriondo,2021,4500.0
+Santa Fe,La Capital,2021,3500.0
+Santa Fe,Las Colonias,2021,3800.0
+Santa Fe,Rosario,2021,4800.0
+Santa Fe,San Cristóbal,2021,2800.0
+Santa Fe,San Javier,2021,2000.0
+Santa Fe,San Jerónimo,2021,4200.0
+Santa Fe,San Justo,2021,3599.0
+Santa Fe,San Lorenzo,2021,4800.0
+Santa Fe,San Martín,2021,4000.0
+Santa Fe,Vera,2021,2600.0
+Santa Fe,Villa Constitución,2021,4800.0

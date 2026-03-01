@@ -1,0 +1,36 @@
+# Entorno virtual
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+*~
+
+# Lock / temporales
+.~lock.*
+
+# Datos grandes (opcional: descomentar si no querés versionar CSVs)
+# data/raw/
+# data/processed/
+
+# Modelos entrenados
+models/*.pkl
+models/*.joblib
+models/*.h5
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Reportes generados (se regeneran con el pipeline)
+reports/figures/*.png
+reports/*.html
+reports/*.pdf
