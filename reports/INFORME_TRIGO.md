@@ -2,15 +2,15 @@
 
 **Proyecto:** Beca UTN-DAAD  
 **Período:** 1990–2021  
-**Fecha de generación:** 2026-02-27 01:10
+**Fecha de generación:** 2026-03-03 00:02
 
 ---
 
 ## 1. Resumen Ejecutivo
 
-Este informe presenta el análisis de rendimiento de trigo en la **Región Pampeana** (Argentina) utilizando datos climáticos de la NOAA y datos de producción del Ministerio de Agricultura. Se desarrolló un modelo predictivo basado en **Random Forest** para identificar el impacto de variables climáticas en etapas fenológicas clave del cultivo.
+Este informe presenta el análisis de rendimiento de trigo en la **Región Pampeana** (Argentina) utilizando datos climáticos (NOAA), datos de producción (Ministerio de Agricultura) y variables edáficas (Cartas de Suelo INTA). El modelo predictivo es un **Random Forest** que combina **clima y suelo** para predecir el rinde ajustado (residuos respecto a la tendencia tecnológica).
 
-**Objetivo:** Comparar sistemas productivos entre la Región Pampeana y Alemania mediante análisis de importancia de variables climáticas (XAI).
+**Objetivo:** Comparar sistemas productivos entre la Región Pampeana y Alemania mediante análisis de importancia de variables (XAI).
 
 ---
 
@@ -19,10 +19,9 @@ Este informe presenta el análisis de rendimiento de trigo en la **Región Pampe
 ### 2.1 Características generales
 
 - **Registros totales:** 4,810
-- **Registros con rendimiento válido:** 4,810
-- **Provincias:** Buenos Aires, Córdoba, Entre Ríos, La Pampa, Santa Fe
+- **Provincias:** N/A
 - **Período temporal:** 1990–2021
-- **Variables climáticas:** 21 (precipitación, Tmax, Tmin por etapa fenológica)
+- **Variables:** 25 (climáticas por etapa fenológica + edáficas por provincia)
 
 ### 2.2 Etapas fenológicas del trigo (Scian, 2004)
 
@@ -36,7 +35,7 @@ Este informe presenta el análisis de rendimiento de trigo en la **Región Pampe
 | Floración | 1 nov – 10 nov |
 | Llenado de grano | 11 nov – 30 nov |
 
-### 2.3 Estadísticas de rendimiento
+### 2.3 Estadísticas de rendimiento (kg/ha)
 
 **Global:**
 - Media: **2774 kg/ha**
@@ -48,88 +47,70 @@ Este informe presenta el análisis de rendimiento de trigo en la **Región Pampe
 
 | Provincia | n | Media (kg/ha) | Desv. Est. |
 |-----------|---|---------------|------------|
-| Buenos Aires | 3010 | 3134 | 1008 |
-| Córdoba | 599 | 2150 | 834 |
-| Entre Ríos | 136 | 1863 | 468 |
-| La Pampa | 483 | 1867 | 663 |
-| Santa Fe | 582 | 2517 | 920 |
+| Total | 4810 | 2774 | 1058 |
 
 ---
 
-## 3. Modelo Predictivo: Random Forest
+## 3. Modelo Predictivo: Clima + Suelo
 
 ### 3.1 Configuración
 
 - **Algoritmo:** Random Forest Regressor (Iqbal et al., 2024)
-- **Parámetros:** n_estimators=100, max_depth=20, random_state=42
-- **División:** 80% entrenamiento / 20% prueba
-- **Registros usados:** 4,674 (sin NaN en features o target)
+- **Target:** Rinde_Detrended (residuos respecto a la tendencia tecnológica)
+- **Validación:** Temporal — entrenamiento 1990-2015, prueba 2016-2021
+- **Registros entrenamiento:** 3,286
+- **Registros prueba:** 789
 
-### 3.2 Métricas de evaluación (conjunto de prueba)
+### 3.2 Métricas (conjunto de prueba, Rinde_Detrended)
 
 | Métrica | Valor |
 |---------|-------|
-| **R²** | 0.5608 |
-| **RMSE** | 696.78 kg/ha |
-| **MAE** | 511.16 kg/ha |
+| **R²** | -0.2414 |
+| **RMSE** | 625.85 kg/ha |
+| **MAE** | 505.18 kg/ha |
 
-**Interpretación:**
-- El modelo explica el **56.1%** de la varianza en el rendimiento.
-- Error promedio absoluto: **511 kg/ha**.
-- El RMSE de **697 kg/ha** indica la magnitud típica del error de predicción.
-
-**Figura:** Ver `scatter_real_vs_predicho.png` para la comparación visual entre valores reales y predichos.
+**Figuras:**
+- `scatter.png` — Rendimiento real vs. predicho (kg/ha absolutos).
+- `scatter_residuals.png` — Rinde ajustado (residuos): real vs. predicho.
 
 ---
 
-## 4. Análisis de Importancia de Variables (XAI)
+## 4. Análisis de Importancia (XAI)
 
-### 4.1 Feature Importances (Gini)
-
-Top 10 variables más importantes para el modelo:
+### 4.1 Top 10 variables (Gini)
 
 | Ranking | Variable | Importancia |
 |---------|----------|-------------|
-| 1 | `tmin_llenado_de_grano` | 0.2456 |
-| 2 | `lluvia_siembra` | 0.2046 |
-| 3 | `tmax_siembra` | 0.1112 |
-| 4 | `tmax_espigazon` | 0.0492 |
-| 5 | `lluvia_floracion` | 0.0491 |
-| 6 | `tmin_macollaje` | 0.0481 |
-| 7 | `tmin_encanazon` | 0.0465 |
-| 8 | `tmax_floracion` | 0.0424 |
-| 9 | `lluvia_emergencia` | 0.0282 |
-| 10 | `lluvia_macollaje` | 0.0198 |
+| 1 | `lluvia_encanazon` | 0.2516 |
+| 2 | `lluvia_floracion` | 0.1925 |
+| 3 | `lluvia_emergencia` | 0.0794 |
+| 4 | `lluvia_siembra` | 0.0455 |
+| 5 | `tmin_siembra` | 0.0453 |
+| 6 | `tmin_macollaje` | 0.0317 |
+| 7 | `tmax_floracion` | 0.0308 |
+| 8 | `lluvia_espigazon` | 0.0296 |
+| 9 | `tmin_encanazon` | 0.0273 |
+| 10 | `tmax_siembra` | 0.0268 |
 
-**Figura:** Ver `importancia_variables.png` para el gráfico completo de barras.
+**Figura:** `importance.png`
 
-### 4.2 SHAP: Explicabilidad del modelo
+### 4.2 SHAP
 
-El análisis SHAP (SHapley Additive exPlanations) permite entender **cómo cada variable afecta las predicciones individuales**:
+El análisis SHAP muestra el efecto de cada variable sobre el rendimiento predicho (valores positivos aumentan el rinde, negativos lo reducen). Color: valor de la variable (rojo = alto, azul = bajo).
 
-- **Eje horizontal (SHAP value):** Contribución de la variable al rendimiento predicho.
-  - Valores positivos → aumentan el rinde.
-  - Valores negativos → reducen el rinde.
-- **Color del punto:** Valor de la variable (rojo = alto, azul = bajo).
-
-**Insights clave:**
-- Variables de **temperatura** en etapas críticas (floración, llenado de grano) tienen alto impacto.
-- **Precipitación** en emergencia, encañazón y floración son determinantes.
-- El modelo captura relaciones no lineales entre clima y rendimiento.
-
-**Figura:** Ver `shap_summary_plot.png` para el análisis completo.
+**Figura:** `shap.png`
 
 ---
 
 ## 5. Conclusiones
 
-1. **Datos integrados:** Se vincularon exitosamente datos climáticos diarios (NOAA) con rendimiento de trigo por departamento (1990-2021).
+1. **Datos integrados:** Clima (NOAA), rendimiento (Ministerio) y suelo (INTA) vinculados por departamento y año.
 
-2. **Modelo predictivo:** Random Forest alcanza un R² de **0.5608**, con capacidad para explicar más de la mitad de la varianza en el rendimiento.
+2. **Modelo único:** Random Forest con clima + suelo, validación temporal 2016-2021.
 
-3. **Variables críticas:** Las variables de temperatura y precipitación en **floración** y **llenado de grano** son las más influyentes según el análisis de importancia.
+3. **Variables críticas:** Temperatura y precipitación en floración y llenado de grano suelen dominar; las variables edáficas aportan información estable a escala provincial.
 
-4. **Aplicación:** Este análisis es **fundamental para la comparación de sistemas productivos entre la Región Pampeana (Argentina) y Alemania**, objetivo central de la beca UTN-DAAD.
+4. **Aplicación:** Análisis útil para la comparación de sistemas productivos (Región Pampeana vs. Alemania), objetivo de la beca UTN-DAAD.
 
 ---
 
@@ -137,29 +118,26 @@ El análisis SHAP (SHapley Additive exPlanations) permite entender **cómo cada 
 
 - **Scian, B. (2004).** Metodología de decadias y etapas fenológicas para trigo en la Región Pampeana.
 - **Iqbal et al. (2024).** Machine Learning aplicado a predicción de rendimiento de cultivos.
-- **Datos climáticos:** NOAA (National Oceanic and Atmospheric Administration).
-- **Datos de producción:** Ministerio de Agricultura, Ganadería y Pesca de Argentina.
+- **Datos:** NOAA, Ministerio de Agricultura Argentina, INTA (Cartas de Suelo).
 
 ---
 
 ## 7. Archivos generados
 
-### Datos procesados
-- `clima_region_pampeana_feno.csv` — Datos diarios con decadias y etapas fenológicas.
-- `clima_region_pampeana_features.csv` — Predictores anuales por estación.
-- `rinde_trigo_pampa.csv` — Rendimiento filtrado (Región Pampeana, 1990-2021).
-- `mapeo_departamento_estacion.csv` — Mapeo departamento → estación climática.
-- `dataset_maestro_ia.csv` — Dataset final para modelado.
+### Datos
+- `dataset_maestro_ia.csv` — Rinde + clima (intermedio).
+- `dataset_final.csv` — Dataset final rinde + clima + suelo.
 
 ### Figuras
-- `scatter_real_vs_predicho.png` — Real vs. predicho (Random Forest).
-- `importancia_variables.png` — Importancia de features (Gini).
-- `shap_summary_plot.png` — SHAP summary plot.
+- `scatter.png` — Real vs. predicho (kg/ha).
+- `scatter_residuals.png` — Rinde ajustado: real vs. predicho.
+- `importance.png` — Importancia de variables (Gini).
+- `shap.png` — SHAP summary.
 
 ### Informes
-- `informe_trigo.html` — Informe visual interactivo.
+- `informe_trigo.html` — Informe visual.
 - `INFORME_TRIGO.md` — Este documento.
 
 ---
 
-**Generado por:** Pipeline automatizado de análisis de trigo (proyecto UTN-DAAD)
+**Generado por:** Pipeline clima + suelo (proyecto UTN-DAAD)

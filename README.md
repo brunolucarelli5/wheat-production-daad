@@ -20,7 +20,7 @@ daad/
 │       ├── rinde_trigo_pampa.csv
 │       ├── mapeo_departamento_estacion.csv
 │       ├── dataset_maestro_ia.csv
-│       └── dataset_maestro_ia_detrended.csv
+│       └── dataset_final.csv
 │
 ├── src/                              # Código fuente modular
 │   ├── data/                         # Scripts de ingesta y limpieza
@@ -29,10 +29,7 @@ daad/
 │   │   ├── build_phenological_features.py  # Mapeo de etapas fenológicas
 │   │   └── aggregate_climate.py      # Agregación anual por estación
 │   ├── models/                       # Entrenamiento y evaluación
-│   │   ├── train_model.py            # Random Forest (split aleatorio)
-│   │   ├── validate_temporal.py      # Validación temporal (1990-2015 vs 2016-2021)
-│   │   ├── train_detrended.py        # Modelo sobre residuos (detrending)
-│   │   └── explain_model.py          # XAI: importancia + SHAP
+│   │   └── train_with_soil.py        # Random Forest con clima + suelo (validación temporal + XAI)
 │   └── visualization/                # Generación de reportes
 │       ├── generate_html_report.py   # Informe HTML interactivo
 │       └── generate_markdown_report.py  # Informe Markdown
@@ -46,14 +43,10 @@ daad/
 │
 ├── reports/                          # Informes y visualizaciones finales
 │   ├── figures/                      # Gráficos generados
-│   │   ├── scatter_real_vs_predicho.png
-│   │   ├── importancia_variables.png
-│   │   ├── shap_summary_plot.png
-│   │   ├── mae_por_año_temporal.png
-│   │   ├── scatter_temporal.png
-│   │   ├── scatter_detrended_temporal.png
-│   │   ├── mae_por_año_detrended.png
-│   │   └── ejemplo_tendencia.png
+│   │   ├── scatter.png               # Real vs. predicho (kg/ha, clima + suelo)
+│   │   ├── scatter_residuals.png     # Rinde ajustado: real vs. predicho
+│   │   ├── importance.png            # Importancia de variables (clima + suelo)
+│   │   └── shap.png                  # SHAP summary (clima + suelo)
 │   ├── informe_trigo.html            # Informe visual interactivo
 │   └── INFORME_TRIGO.md              # Informe escrito
 │
@@ -133,39 +126,28 @@ python scripts/merge_rinde_clima.py
 
 **Salida:** `data/processed/dataset_maestro_ia.csv`
 
-### Paso 6: Entrenar modelo Random Forest
+### Paso 6: Integrar variables de suelo
 
 ```bash
-python src/models/train_model.py
+python src/features/integrate_soil.py
 ```
 
-**Salida:** Métricas + `reports/figures/scatter_real_vs_predicho.png`
+**Salida:** `data/processed/dataset_final.csv`
 
-### Paso 7: Validación temporal
+### Paso 7: Modelo Random Forest clima + suelo (validación + XAI)
 
 ```bash
-python src/models/validate_temporal.py
+python src/models/train_with_soil.py
 ```
 
-**Salida:** Métricas temporales + figuras MAE por año
+**Salida:**
+- métricas en consola (validación temporal 2016-2021, sobre Rinde_Detrended)
+- `reports/figures/scatter.png`
+- `reports/figures/scatter_residuals.png`
+- `reports/figures/importance.png`
+- `reports/figures/shap.png`
 
-### Paso 8: Detrending y reentrenamiento
-
-```bash
-python src/models/train_detrended.py
-```
-
-**Salida:** `data/processed/dataset_maestro_ia_detrended.csv` + métricas mejoradas
-
-### Paso 9: Análisis XAI (importancia + SHAP)
-
-```bash
-python src/models/explain_model.py
-```
-
-**Salida:** `reports/figures/importancia_variables.png` + `shap_summary_plot.png`
-
-### Paso 10: Generar informes
+### Paso 8: Generar informes
 
 ```bash
 python src/visualization/generate_html_report.py
@@ -185,30 +167,6 @@ python scripts/ejecutar_pipeline_completo.py
 ```
 
 Ejecuta todos los pasos secuencialmente y genera todos los archivos.
-
----
-
-## Resultados Principales
-
-### Modelo Random Forest (Split Aleatorio)
-
-| Métrica | Valor |
-|---------|-------|
-| R² | 0.5608 |
-| RMSE | 696.78 kg/ha |
-| MAE | 511.16 kg/ha |
-
-### Validación Temporal (1990-2015 → 2016-2021)
-
-**Rinde absoluto:**
-- R² = -0.9549 (no generaliza a años futuros)
-
-**Rinde_Detrended (sin tendencia tecnológica):**
-- R² = -0.0378
-- RMSE = 613.13 kg/ha
-- MAE = 496.49 kg/ha
-
-**Mejora:** El detrending reduce el error en ~57% al eliminar el sesgo tecnológico.
 
 ---
 

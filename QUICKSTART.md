@@ -63,31 +63,14 @@ python scripts/preparar_insumos_merge.py
 python scripts/merge_rinde_clima.py
 ```
 
-### 4. Entrenar Random Forest
+### 4. Integrar suelo y entrenar modelo clima + suelo
 
 ```bash
-python src/models/train_model.py
+python src/features/integrate_soil.py
+python src/models/train_with_soil.py
 ```
 
-### 5. Validación temporal
-
-```bash
-python src/models/validate_temporal.py
-```
-
-### 6. Detrending y reentrenamiento
-
-```bash
-python src/models/train_detrended.py
-```
-
-### 7. Análisis XAI
-
-```bash
-python src/models/explain_model.py
-```
-
-### 8. Generar informes
+### 5. Generar informes
 
 ```bash
 python src/visualization/generate_html_report.py
@@ -124,36 +107,18 @@ eog reports/figures/*.png
 data/processed/
 ├── clima_region_pampeana_feno.csv      # Datos diarios con etapas
 ├── clima_region_pampeana_features.csv  # Predictores anuales
-├── dataset_maestro_ia.csv              # Dataset para modelado
-└── dataset_maestro_ia_detrended.csv    # Dataset con detrending
+├── dataset_maestro_ia.csv              # Dataset rinde + clima
+└── dataset_final.csv                   # Dataset rinde + clima + suelo
 
 reports/
 ├── figures/
-│   ├── scatter_real_vs_predicho.png
-│   ├── importancia_variables.png
-│   ├── shap_summary_plot.png
-│   ├── mae_por_año_temporal.png
-│   ├── scatter_detrended_temporal.png
-│   └── ejemplo_tendencia.png
+│   ├── scatter.png                     # Real vs. predicho (kg/ha, clima + suelo)
+│   ├── scatter_residuals.png           # Rinde ajustado: real vs. predicho
+│   ├── importance.png                  # Importancia de variables (clima + suelo)
+│   └── shap.png                        # SHAP summary (clima + suelo)
 ├── informe_trigo.html
 └── INFORME_TRIGO.md
 ```
-
-## Métricas Principales
-
-### Split Aleatorio (80/20)
-- R² = 0.5608
-- RMSE = 696.78 kg/ha
-- MAE = 511.16 kg/ha
-
-### Validación Temporal (2016-2021)
-**Rinde absoluto:**
-- R² = -0.9549
-
-**Rinde_Detrended (sin tendencia tecnológica):**
-- R² = -0.0378
-- RMSE = 613.13 kg/ha
-- MAE = 496.49 kg/ha
 
 ## Troubleshooting
 
@@ -163,12 +128,12 @@ Asegúrate de ejecutar los scripts desde la raíz del proyecto:
 
 ```bash
 cd /home/blucarelli/dev/personal/daad
-python src/models/train_model.py
+python src/models/train_with_soil.py
 ```
 
 ### Error: "ModuleNotFoundError"
 
-Los scripts en `src/` son independientes y no requieren imports cruzados. Ejecutalos directamente con Python.
+Los scripts en `src/` son independientes y no requieren imports cruzados. Ejecútalos directamente con Python.
 
 ### Limpiar archivos generados
 

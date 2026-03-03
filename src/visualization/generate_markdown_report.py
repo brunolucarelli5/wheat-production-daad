@@ -1,5 +1,5 @@
 """
-Genera un informe escrito en Markdown con métricas, insights y referencias a las figuras.
+Genera un informe en Markdown con métricas del modelo clima + suelo y referencias a figuras.
 """
 from pathlib import Path
 
@@ -7,55 +7,82 @@ import numpy as np
 import pandas as pd
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
-from sklearn.model_selection import train_test_split
 
 ROOT = Path(__file__).resolve().parent.parent.parent
 COL_RENDIMIENTO = "RENDIMIENTO - KG X HA"
+COL_TARGET = "Rinde_Detrended"
 RANDOM_STATE = 42
-TEST_SIZE = 0.2
 N_ESTIMATORS = 100
 MAX_DEPTH = 20
+AÑO_SPLIT = 2015
 
 
 def get_feature_columns(df: pd.DataFrame) -> list[str]:
-    exclude = {"PROVINCIA", "DEPARTAMENTO", "AÑO", "STATION_ID", COL_RENDIMIENTO}
+    """Columnas climáticas + edáficas para el modelo."""
+    exclude = {
+        "PROVINCIA",
+        "DEPARTAMENTO",
+        "AÑO",
+        "STATION_ID",
+        COL_RENDIMIENTO,
+        "Rinde_Detrended",
+        "Rinde_Tendencia",
+        "suelo_textura",
+        "suelo_drenaje",
+    }
     return [
         c
         for c in df.columns
         if c not in exclude
-        and (c.startswith("lluvia_") or c.startswith("tmax_") or c.startswith("tmin_"))
+        and (
+            c.startswith("lluvia_")
+            or c.startswith("tmax_")
+            or c.startswith("tmin_")
+            or c.startswith("suelo_")
+        )
     ]
 
 
 def main() -> None:
-    ruta_dataset = ROOT / "data" / "processed" / "dataset_maestro_ia.csv"
+    ruta_dataset = ROOT / "data" / "processed" / "dataset_final.csv"
     ruta_informe_md = ROOT / "reports" / "INFORME_TRIGO.md"
 
-    print("Cargando dataset...")
+    if not ruta_dataset.exists():
+        print(f"ERROR: No existe {ruta_dataset}. Ejecute antes: make soil")
+        return
+
+    print("Cargando dataset con suelo...")
     df = pd.read_csv(ruta_dataset)
-    df_clean = df.dropna(subset=[COL_RENDIMIENTO])
-    feature_cols = get_feature_columns(df_clean)
+    df = df.dropna(subset=[COL_RENDIMIENTO, COL_TARGET])
+    feature_cols = get_feature_columns(df)
 
     n_total = len(df)
-    n_clean = len(df_clean)
-    provincias = sorted(df_clean["PROVINCIA"].unique())
-    años = f"{int(df_clean['AÑO'].min())}–{int(df_clean['AÑO'].max())}"
-    rinde_mean = df_clean[COL_RENDIMIENTO].mean()
-    rinde_std = df_clean[COL_RENDIMIENTO].std()
-    rinde_min = df_clean[COL_RENDIMIENTO].min()
-    rinde_max = df_clean[COL_RENDIMIENTO].max()
+    has_provincia = "PROVINCIA" in df.columns
+    if has_provincia:
+        provincias = sorted(df["PROVINCIA"].unique())
+    else:
+        provincias = []
+    años = f"{int(df['AÑO'].min())}–{int(df['AÑO'].max())}"
+    rinde_mean = df[COL_RENDIMIENTO].mean()
+    rinde_std = df[COL_RENDIMIENTO].std()
+    rinde_min = df[COL_RENDIMIENTO].min()
+    rinde_max = df[COL_RENDIMIENTO].max()
 
-    # Entrenar modelo para métricas
-    X = df_clean[feature_cols]
-    y = df_clean[COL_RENDIMIENTO]
+    # Split temporal (igual que train_with_soil)
+    X = df[feature_cols]
+    y = df[COL_TARGET]
+    años_serie = df["AÑO"]
     mask_ok = X.notna().all(axis=1) & y.notna()
     X_clean = X.loc[mask_ok]
     y_clean = y.loc[mask_ok]
-    n_model = len(X_clean)
+    años_clean = años_serie.loc[mask_ok]
+    mask_train = años_clean <= AÑO_SPLIT
+    mask_test = años_clean > AÑO_SPLIT
+    X_train, X_test = X_clean.loc[mask_train], X_clean.loc[mask_test]
+    y_train, y_test = y_clean.loc[mask_train], y_clean.loc[mask_test]
+    n_train = len(X_train)
+    n_test = len(X_test)
 
-    X_train, X_test, y_train, y_test = train_test_split(
-        X_clean, y_clean, test_size=TEST_SIZE, random_state=RANDOM_STATE
-    )
     model = RandomForestRegressor(
         n_estimators=N_ESTIMATORS, max_depth=MAX_DEPTH, random_state=RANDOM_STATE
     )
@@ -65,25 +92,34 @@ def main() -> None:
     rmse = np.sqrt(mean_squared_error(y_test, y_pred))
     mae = mean_absolute_error(y_test, y_pred)
 
-    # Top 10 features por importancia
     importances = model.feature_importances_
     order = np.argsort(importances)[::-1][:10]
     top_features = [(feature_cols[i], importances[i]) for i in order]
 
-    # Estadísticas por provincia
     stats_prov = []
-    for prov in provincias:
-        subset = df_clean[df_clean["PROVINCIA"] == prov][COL_RENDIMIENTO]
+    if has_provincia:
+        for prov in provincias:
+            subset = df[df["PROVINCIA"] == prov][COL_RENDIMIENTO]
+            stats_prov.append(
+                {
+                    "Provincia": prov,
+                    "n": len(subset),
+                    "Media (kg/ha)": f"{subset.mean():.0f}",
+                    "Desv. Est.": f"{subset.std():.0f}",
+                }
+            )
+    else:
         stats_prov.append(
             {
-                "Provincia": prov,
-                "n": len(subset),
-                "Media (kg/ha)": f"{subset.mean():.0f}",
-                "Desv. Est.": f"{subset.std():.0f}",
+                "Provincia": "Total",
+                "n": n_total,
+                "Media (kg/ha)": f"{rinde_mean:.0f}",
+                "Desv. Est.": f"{rinde_std:.0f}",
             }
         )
 
-    # Construir Markdown
+    provincias_str = ", ".join(provincias) if provincias else "N/A"
+
     md_content = f"""# Informe: Predicción de Rendimiento de Trigo en la Región Pampeana
 
 **Proyecto:** Beca UTN-DAAD  
@@ -94,9 +130,9 @@ def main() -> None:
 
 ## 1. Resumen Ejecutivo
 
-Este informe presenta el análisis de rendimiento de trigo en la **Región Pampeana** (Argentina) utilizando datos climáticos de la NOAA y datos de producción del Ministerio de Agricultura. Se desarrolló un modelo predictivo basado en **Random Forest** para identificar el impacto de variables climáticas en etapas fenológicas clave del cultivo.
+Este informe presenta el análisis de rendimiento de trigo en la **Región Pampeana** (Argentina) utilizando datos climáticos (NOAA), datos de producción (Ministerio de Agricultura) y variables edáficas (Cartas de Suelo INTA). El modelo predictivo es un **Random Forest** que combina **clima y suelo** para predecir el rinde ajustado (residuos respecto a la tendencia tecnológica).
 
-**Objetivo:** Comparar sistemas productivos entre la Región Pampeana y Alemania mediante análisis de importancia de variables climáticas (XAI).
+**Objetivo:** Comparar sistemas productivos entre la Región Pampeana y Alemania mediante análisis de importancia de variables (XAI).
 
 ---
 
@@ -105,10 +141,9 @@ Este informe presenta el análisis de rendimiento de trigo en la **Región Pampe
 ### 2.1 Características generales
 
 - **Registros totales:** {n_total:,}
-- **Registros con rendimiento válido:** {n_clean:,}
-- **Provincias:** {', '.join(provincias)}
+- **Provincias:** {provincias_str}
 - **Período temporal:** {años}
-- **Variables climáticas:** {len(feature_cols)} (precipitación, Tmax, Tmin por etapa fenológica)
+- **Variables:** {len(feature_cols)} (climáticas por etapa fenológica + edáficas por provincia)
 
 ### 2.2 Etapas fenológicas del trigo (Scian, 2004)
 
@@ -122,7 +157,7 @@ Este informe presenta el análisis de rendimiento de trigo en la **Región Pampe
 | Floración | 1 nov – 10 nov |
 | Llenado de grano | 11 nov – 30 nov |
 
-### 2.3 Estadísticas de rendimiento
+### 2.3 Estadísticas de rendimiento (kg/ha)
 
 **Global:**
 - Media: **{rinde_mean:.0f} kg/ha**
@@ -142,16 +177,17 @@ Este informe presenta el análisis de rendimiento de trigo en la **Región Pampe
     md_content += f"""
 ---
 
-## 3. Modelo Predictivo: Random Forest
+## 3. Modelo Predictivo: Clima + Suelo
 
 ### 3.1 Configuración
 
 - **Algoritmo:** Random Forest Regressor (Iqbal et al., 2024)
-- **Parámetros:** n_estimators={N_ESTIMATORS}, max_depth={MAX_DEPTH}, random_state={RANDOM_STATE}
-- **División:** 80% entrenamiento / 20% prueba
-- **Registros usados:** {n_model:,} (sin NaN en features o target)
+- **Target:** Rinde_Detrended (residuos respecto a la tendencia tecnológica)
+- **Validación:** Temporal — entrenamiento 1990-{AÑO_SPLIT}, prueba {AÑO_SPLIT+1}-2021
+- **Registros entrenamiento:** {n_train:,}
+- **Registros prueba:** {n_test:,}
 
-### 3.2 Métricas de evaluación (conjunto de prueba)
+### 3.2 Métricas (conjunto de prueba, Rinde_Detrended)
 
 | Métrica | Valor |
 |---------|-------|
@@ -159,20 +195,15 @@ Este informe presenta el análisis de rendimiento de trigo en la **Región Pampe
 | **RMSE** | {rmse:.2f} kg/ha |
 | **MAE** | {mae:.2f} kg/ha |
 
-**Interpretación:**
-- El modelo explica el **{r2*100:.1f}%** de la varianza en el rendimiento.
-- Error promedio absoluto: **{mae:.0f} kg/ha**.
-- El RMSE de **{rmse:.0f} kg/ha** indica la magnitud típica del error de predicción.
-
-**Figura:** Ver `scatter_real_vs_predicho.png` para la comparación visual entre valores reales y predichos.
+**Figuras:**
+- `scatter.png` — Rendimiento real vs. predicho (kg/ha absolutos).
+- `scatter_residuals.png` — Rinde ajustado (residuos): real vs. predicho.
 
 ---
 
-## 4. Análisis de Importancia de Variables (XAI)
+## 4. Análisis de Importancia (XAI)
 
-### 4.1 Feature Importances (Gini)
-
-Top 10 variables más importantes para el modelo:
+### 4.1 Top 10 variables (Gini)
 
 | Ranking | Variable | Importancia |
 |---------|----------|-------------|
@@ -181,36 +212,26 @@ Top 10 variables más importantes para el modelo:
     for idx, (feat, imp) in enumerate(top_features, 1):
         md_content += f"| {idx} | `{feat}` | {imp:.4f} |\n"
 
-    md_content += f"""
-**Figura:** Ver `importancia_variables.png` para el gráfico completo de barras.
+    md_content += """
+**Figura:** `importance.png`
 
-### 4.2 SHAP: Explicabilidad del modelo
+### 4.2 SHAP
 
-El análisis SHAP (SHapley Additive exPlanations) permite entender **cómo cada variable afecta las predicciones individuales**:
+El análisis SHAP muestra el efecto de cada variable sobre el rendimiento predicho (valores positivos aumentan el rinde, negativos lo reducen). Color: valor de la variable (rojo = alto, azul = bajo).
 
-- **Eje horizontal (SHAP value):** Contribución de la variable al rendimiento predicho.
-  - Valores positivos → aumentan el rinde.
-  - Valores negativos → reducen el rinde.
-- **Color del punto:** Valor de la variable (rojo = alto, azul = bajo).
-
-**Insights clave:**
-- Variables de **temperatura** en etapas críticas (floración, llenado de grano) tienen alto impacto.
-- **Precipitación** en emergencia, encañazón y floración son determinantes.
-- El modelo captura relaciones no lineales entre clima y rendimiento.
-
-**Figura:** Ver `shap_summary_plot.png` para el análisis completo.
+**Figura:** `shap.png`
 
 ---
 
 ## 5. Conclusiones
 
-1. **Datos integrados:** Se vincularon exitosamente datos climáticos diarios (NOAA) con rendimiento de trigo por departamento (1990-2021).
+1. **Datos integrados:** Clima (NOAA), rendimiento (Ministerio) y suelo (INTA) vinculados por departamento y año.
 
-2. **Modelo predictivo:** Random Forest alcanza un R² de **{r2:.4f}**, con capacidad para explicar más de la mitad de la varianza en el rendimiento.
+2. **Modelo único:** Random Forest con clima + suelo, validación temporal 2016-2021.
 
-3. **Variables críticas:** Las variables de temperatura y precipitación en **floración** y **llenado de grano** son las más influyentes según el análisis de importancia.
+3. **Variables críticas:** Temperatura y precipitación en floración y llenado de grano suelen dominar; las variables edáficas aportan información estable a escala provincial.
 
-4. **Aplicación:** Este análisis es **fundamental para la comparación de sistemas productivos entre la Región Pampeana (Argentina) y Alemania**, objetivo central de la beca UTN-DAAD.
+4. **Aplicación:** Análisis útil para la comparación de sistemas productivos (Región Pampeana vs. Alemania), objetivo de la beca UTN-DAAD.
 
 ---
 
@@ -218,34 +239,32 @@ El análisis SHAP (SHapley Additive exPlanations) permite entender **cómo cada 
 
 - **Scian, B. (2004).** Metodología de decadias y etapas fenológicas para trigo en la Región Pampeana.
 - **Iqbal et al. (2024).** Machine Learning aplicado a predicción de rendimiento de cultivos.
-- **Datos climáticos:** NOAA (National Oceanic and Atmospheric Administration).
-- **Datos de producción:** Ministerio de Agricultura, Ganadería y Pesca de Argentina.
+- **Datos:** NOAA, Ministerio de Agricultura Argentina, INTA (Cartas de Suelo).
 
 ---
 
 ## 7. Archivos generados
 
-### Datos procesados
-- `clima_region_pampeana_feno.csv` — Datos diarios con decadias y etapas fenológicas.
-- `clima_region_pampeana_features.csv` — Predictores anuales por estación.
-- `rinde_trigo_pampa.csv` — Rendimiento filtrado (Región Pampeana, 1990-2021).
-- `mapeo_departamento_estacion.csv` — Mapeo departamento → estación climática.
-- `dataset_maestro_ia.csv` — Dataset final para modelado.
+### Datos
+- `dataset_maestro_ia.csv` — Rinde + clima (intermedio).
+- `dataset_final.csv` — Dataset final rinde + clima + suelo.
 
 ### Figuras
-- `scatter_real_vs_predicho.png` — Real vs. predicho (Random Forest).
-- `importancia_variables.png` — Importancia de features (Gini).
-- `shap_summary_plot.png` — SHAP summary plot.
+- `scatter.png` — Real vs. predicho (kg/ha).
+- `scatter_residuals.png` — Rinde ajustado: real vs. predicho.
+- `importance.png` — Importancia de variables (Gini).
+- `shap.png` — SHAP summary.
 
 ### Informes
-- `informe_trigo.html` — Informe visual interactivo.
+- `informe_trigo.html` — Informe visual.
 - `INFORME_TRIGO.md` — Este documento.
 
 ---
 
-**Generado por:** Pipeline automatizado de análisis de trigo (proyecto UTN-DAAD)
+**Generado por:** Pipeline clima + suelo (proyecto UTN-DAAD)
 """
 
+    ruta_informe_md.parent.mkdir(parents=True, exist_ok=True)
     ruta_informe_md.write_text(md_content, encoding="utf-8")
     print(f"Informe Markdown guardado: {ruta_informe_md}")
 

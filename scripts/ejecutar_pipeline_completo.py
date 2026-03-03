@@ -24,7 +24,7 @@ def run_script(script_path: str, description: str) -> None:
 
 
 def main() -> None:
-    print("PIPELINE COMPLETO: Trigo + Clima → Modelo + XAI + Informes")
+    print("PIPELINE COMPLETO: Trigo + Clima + Suelo → Modelo único + XAI + Informes")
     print(f"Python: {PYTHON}")
     print(f"Root: {ROOT}")
 
@@ -38,23 +38,11 @@ def main() -> None:
     run_script("scripts/preparar_insumos_merge.py", "PASO 3a: Preparar rinde y mapeo")
     run_script("scripts/merge_rinde_clima.py", "PASO 3b: Merge rinde + clima → dataset maestro")
 
-    # Paso 4: Entrenamiento Random Forest
-    run_script("src/models/train_model.py", "PASO 4: Entrenamiento Random Forest y métricas")
+    # Paso 4: Integración de variables de suelo
+    run_script("src/features/integrate_soil.py", "PASO 4: Integración de variables de suelo (INTA)")
 
-    # Paso 5: Análisis XAI (importancia + SHAP)
-    run_script("src/models/explain_model.py", "PASO 5: Análisis de importancia y XAI (SHAP)")
-
-    # Paso 6: Validación temporal
-    run_script("src/models/validate_temporal.py", "PASO 6: Validación temporal (2016-2021)")
-
-    # Paso 7: Detrending y reentrenamiento
-    run_script("src/models/train_detrended.py", "PASO 7: Detrending y modelo sobre residuos")
-
-    # Paso 8: Integración de variables de suelo
-    run_script("src/features/integrate_soil.py", "PASO 8: Integración de variables de suelo (INTA)")
-
-    # Paso 9: Modelo con clima + suelo
-    run_script("src/models/train_with_soil.py", "PASO 9: Random Forest con clima + suelo (validación temporal)")
+    # Paso 5: Modelo con clima + suelo (entrenamiento, métricas, importancia, SHAP)
+    run_script("src/models/train_with_soil.py", "PASO 5: Random Forest clima + suelo (validación temporal + XAI)")
 
     # Informe HTML
     run_script("src/visualization/generate_html_report.py", "INFORME: Generación HTML con gráficos")
@@ -70,19 +58,12 @@ def main() -> None:
     print("    - data/processed/clima_region_pampeana_feno.csv")
     print("    - data/processed/clima_region_pampeana_features.csv")
     print("    - data/processed/dataset_maestro_ia.csv")
-    print("    - data/processed/dataset_maestro_ia_detrended.csv")
-    print("    - data/processed/dataset_maestro_ia_con_suelo.csv")
+    print("    - data/processed/dataset_final.csv")
     print("  Figuras:")
-    print("    - reports/figures/scatter_real_vs_predicho.png")
-    print("    - reports/figures/importancia_variables.png")
-    print("    - reports/figures/shap_summary_plot.png")
-    print("    - reports/figures/mae_por_año_temporal.png")
-    print("    - reports/figures/scatter_detrended_temporal.png")
-    print("    - reports/figures/ejemplo_tendencia.png")
-    print("    - reports/figures/scatter_con_suelo.png")
-    print("    - reports/figures/importancia_con_suelo.png")
-    print("    - reports/figures/shap_con_suelo.png")
-    print("    - reports/figures/comparacion_metricas.png")
+    print("    - reports/figures/scatter.png")
+    print("    - reports/figures/scatter_residuals.png")
+    print("    - reports/figures/importance.png")
+    print("    - reports/figures/shap.png")
     print("  Informes:")
     print("    - reports/informe_trigo.html")
     print("    - reports/INFORME_TRIGO.md")

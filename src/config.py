@@ -24,7 +24,7 @@ CLIMA_FEATURES = DATA_PROCESSED / "clima_region_pampeana_features.csv"
 RINDE_PAMPA = DATA_PROCESSED / "rinde_trigo_pampa.csv"
 MAPEO = DATA_PROCESSED / "mapeo_departamento_estacion.csv"
 DATASET_MAESTRO = DATA_PROCESSED / "dataset_maestro_ia.csv"
-DATASET_DETRENDED = DATA_PROCESSED / "dataset_maestro_ia_detrended.csv"
+DATASET_DETRENDED = DATA_PROCESSED / "dataset_final.csv"
 
 # Región Pampeana
 PROVINCIAS_PAMPA = {

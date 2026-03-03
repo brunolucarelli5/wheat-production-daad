@@ -48,73 +48,32 @@ Se vincula el rendimiento de trigo con las variables climáticas mediante:
 
 ## Modelado
 
-### Modelo Base: Random Forest (Iqbal et al., 2024)
+### Modelo: Random Forest clima + suelo (Iqbal et al., 2024)
 
 **Configuración:**
 - Algoritmo: `RandomForestRegressor`
 - Hiperparámetros: `n_estimators=100`, `max_depth=20`
-- Features: Variables climáticas por etapa (21 features)
-- Target: Rendimiento (kg/ha)
+- Features: Variables climáticas por etapa (precipitación, Tmax, Tmin) + variables edáficas (índice de productividad, profundidad efectiva, textura, drenaje).
+- Target: `Rinde_Detrended` (kg/ha), es decir, rendimiento ajustado por tendencia tecnológica.
 
-**Script:** `src/models/train_model.py`
+**Script principal:** `src/models/train_with_soil.py`
 
-### Validación
+### Validación temporal
 
-#### Split Aleatorio (80/20)
+- Entrenamiento: 1990–2015
+- Prueba: 2016–2021
+- Métricas (R², RMSE, MAE sobre `Rinde_Detrended`) se reportan en consola y en los informes (`informe_trigo.html`, `INFORME_TRIGO.md`).
 
-**Resultados:**
-- R² = 0.5608
-- RMSE = 696.78 kg/ha
-- MAE = 511.16 kg/ha
+### Explicabilidad (XAI)
 
-**Limitación:** Sobreestima la capacidad predictiva al mezclar años.
+Se emplean dos enfoques complementarios:
 
-#### Validación Temporal (1990-2015 → 2016-2021)
+- **Feature importances (Gini):** ranking global de variables clima + suelo.
+- **SHAP (SHapley Additive exPlanations):** impacto de cada variable en predicciones individuales.
 
-**Rinde absoluto:**
-- R² = -0.9549 (no generaliza)
-- RMSE = 1.416,79 kg/ha
-- MAE = 1.166,95 kg/ha
-
-**Causa:** Tendencia tecnológica (mejora de variedades, prácticas) confunde al modelo.
-
-**Script:** `src/models/validate_temporal.py`
-
-### Detrending: Eliminación de Tendencia Tecnológica
-
-**Método:**
-1. Regresión lineal por departamento: `Rinde ~ Año`
-2. Residuo: `Rinde_Detrended = Rinde real - Rinde tendencia`
-3. Reentrenamiento sobre residuos.
-
-**Resultados (validación temporal):**
-- R² = -0.0378 (mejora de +96%)
-- RMSE = 613.13 kg/ha (mejora de -57%)
-- MAE = 496.49 kg/ha (mejora de -57%)
-
-**Interpretación:** El modelo ahora captura **solo la señal climática**, sin confundirse con la mejora tecnológica.
-
-**Script:** `src/models/train_detrended.py`
-
----
-
-## Explicabilidad (XAI)
-
-### Feature Importances (Gini)
-
-Mide la importancia de cada variable en las divisiones del Random Forest.
-
-### SHAP (SHapley Additive exPlanations)
-
-Explica el impacto de cada variable en predicciones individuales:
-- **Eje X:** Efecto SHAP sobre el rendimiento (kg/ha).
-- **Color:** Valor de la variable (rojo = alto, azul = bajo).
-
-**Insights:**
-- Variables de temperatura en floración y llenado de grano tienen alto impacto.
-- Precipitación en emergencia y encañazón son determinantes.
-
-**Script:** `src/models/explain_model.py`
+**Figuras generadas:**
+- `importance.png` — Importancia de variables (clima + suelo).
+- `shap.png` — SHAP summary plot (impacto en el rinde ajustado).
 
 ---
 

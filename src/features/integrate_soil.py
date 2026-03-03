@@ -1,6 +1,6 @@
 """
 Integración de variables edáficas (suelos INTA) al dataset maestro.
-Preprocesa, agrega por provincia y une con dataset_maestro_ia.csv.
+Preprocesa, agrega por provincia, calcula tendencia de rinde y une con dataset_maestro_ia.csv.
 """
 from pathlib import Path
 
@@ -83,12 +83,40 @@ def merge_soil_with_dataset(
     return df_merged
 
 
+def add_trend_columns(df_maestro: pd.DataFrame) -> pd.DataFrame:
+    """
+    Calcula tendencia lineal de rendimiento por (PROVINCIA, DEPARTAMENTO)
+    y agrega columnas:
+    - Rinde_Tendencia: valor esperado según la tendencia
+    - Rinde_Detrended: residuo (real - tendencia)
+    """
+
+    def _fit_trend(group: pd.DataFrame) -> pd.DataFrame:
+        años = group["AÑO"].astype(float).values
+        rinde = group["RENDIMIENTO - KG X HA"].astype(float).values
+        if len(group) < 2:
+            tendencia = np.full_like(rinde, rinde.mean(), dtype=float)
+        else:
+            coef = np.polyfit(años, rinde, deg=1)
+            tendencia = np.polyval(coef, años)
+        group = group.copy()
+        group["Rinde_Tendencia"] = tendencia
+        group["Rinde_Detrended"] = group["RENDIMIENTO - KG X HA"] - tendencia
+        return group
+
+    return (
+        df_maestro.groupby(["PROVINCIA", "DEPARTAMENTO"], group_keys=False)
+        .apply(_fit_trend)
+        .reset_index(drop=True)
+    )
+
+
 def main() -> None:
     raw = ROOT / "data" / "raw"
     processed = ROOT / "data" / "processed"
     ruta_suelo = raw / "carta-suelos-argentina.csv"
-    ruta_maestro = processed / "dataset_maestro_ia_detrended.csv"
-    ruta_salida = processed / "dataset_maestro_ia_con_suelo.csv"
+    ruta_maestro = processed / "dataset_maestro_ia.csv"
+    ruta_salida = processed / "dataset_final.csv"
 
     print("Cargando carta-suelos-argentina.csv...")
     df_suelo_raw = pd.read_csv(ruta_suelo)
@@ -109,8 +137,11 @@ def main() -> None:
     print(f"  Registros antes del merge: {len(df_maestro)}")
 
     print("\nMergeando dataset maestro con variables de suelo...")
-    df_final = merge_soil_with_dataset(df_maestro, df_suelo_agg)
-    print(f"  Registros después del merge: {len(df_final)}")
+    df_merged = merge_soil_with_dataset(df_maestro, df_suelo_agg)
+    print(f"  Registros después del merge: {len(df_merged)}")
+
+    print("\nCalculando tendencia de rendimiento y rinde ajustado (Rinde_Detrended)...")
+    df_final = add_trend_columns(df_merged)
 
     # Verificar NaN en variables de suelo
     soil_cols = [
